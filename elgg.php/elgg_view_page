@@ -1,0 +1,4 @@
+#indent#
+elgg_view_page(#placeholderstart#$title#placeholderend##placeholderstart#, $body#placeholderend##placeholderstart#, $page_shell = 'default'#placeholderend#, array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

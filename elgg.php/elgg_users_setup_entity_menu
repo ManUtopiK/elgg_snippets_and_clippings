@@ -1,0 +1,2 @@
+#indent#
+elgg_users_setup_entity_menu(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $return#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

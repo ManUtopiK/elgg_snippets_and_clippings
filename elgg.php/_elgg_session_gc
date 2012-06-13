@@ -1,0 +1,2 @@
+#indent#
+_elgg_session_gc(#placeholderstart#$maxlifetime#placeholderend#)#placeholderstart# ; #placeholderend#

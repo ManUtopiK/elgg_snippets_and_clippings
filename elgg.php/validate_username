@@ -1,0 +1,2 @@
+#indent#
+validate_username(#placeholderstart#$username#placeholderend#)#placeholderstart# ; #placeholderend#

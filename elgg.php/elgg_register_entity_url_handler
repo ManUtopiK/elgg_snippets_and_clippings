@@ -1,0 +1,2 @@
+#indent#
+elgg_register_entity_url_handler(#placeholderstart#$entity_type#placeholderend##placeholderstart#, $entity_subtype#placeholderend##placeholderstart#, $function_name#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_query_runner(#placeholderstart#$query#placeholderend##placeholderstart#, $callback = null#placeholderend##placeholderstart#, $single = false#placeholderend#)#placeholderstart# ; #placeholderend#

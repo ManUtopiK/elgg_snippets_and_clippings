@@ -1,0 +1,2 @@
+#indent#
+export_metadata_plugin_hook(#placeholderstart#$hook#placeholderend##placeholderstart#, $entity_type#placeholderend##placeholderstart#, $returnvalue#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

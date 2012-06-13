@@ -1,0 +1,4 @@
+#indent#
+elgg_view_tagcloud(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

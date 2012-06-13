@@ -1,0 +1,2 @@
+#indent#
+get_uuid_from_object(#placeholderstart#$object#placeholderend#)#placeholderstart# ; #placeholderend#

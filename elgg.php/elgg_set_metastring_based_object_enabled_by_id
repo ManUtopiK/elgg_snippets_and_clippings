@@ -1,0 +1,2 @@
+#indent#
+elgg_set_metastring_based_object_enabled_by_id(#placeholderstart#$id#placeholderend##placeholderstart#, $enabled#placeholderend##placeholderstart#, $type#placeholderend#)#placeholderstart# ; #placeholderend#

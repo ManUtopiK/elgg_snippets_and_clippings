@@ -1,0 +1,2 @@
+#indent#
+run_sql_script(#placeholderstart#$scriptlocation#placeholderend#)#placeholderstart# ; #placeholderend#

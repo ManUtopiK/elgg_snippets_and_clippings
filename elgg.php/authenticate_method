@@ -1,0 +1,2 @@
+#indent#
+authenticate_method(#placeholderstart#$method#placeholderend#)#placeholderstart# ; #placeholderend#

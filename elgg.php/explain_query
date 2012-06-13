@@ -1,0 +1,2 @@
+#indent#
+explain_query(#placeholderstart#$query#placeholderend##placeholderstart#, $link#placeholderend#)#placeholderstart# ; #placeholderend#

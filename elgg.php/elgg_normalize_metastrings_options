@@ -1,0 +1,4 @@
+#indent#
+elgg_normalize_metastrings_options(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

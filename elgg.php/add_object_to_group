@@ -1,0 +1,2 @@
+#indent#
+add_object_to_group(#placeholderstart#$group_guid#placeholderend##placeholderstart#, $object_guid#placeholderend#)#placeholderstart# ; #placeholderend#

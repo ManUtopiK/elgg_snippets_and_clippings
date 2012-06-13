@@ -1,0 +1,4 @@
+#indent#
+elgg_get_river(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

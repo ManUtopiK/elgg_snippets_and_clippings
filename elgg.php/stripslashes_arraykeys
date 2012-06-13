@@ -1,0 +1,2 @@
+#indent#
+stripslashes_arraykeys(#placeholderstart#$array#placeholderend#)#placeholderstart# ; #placeholderend#

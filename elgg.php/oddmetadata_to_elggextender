@@ -1,0 +1,2 @@
+#indent#
+oddmetadata_to_elggextender(#placeholderstart#ElggEntity $entity#placeholderend##placeholderstart#, ODDMetaData $element#placeholderend#)#placeholderstart# ; #placeholderend#

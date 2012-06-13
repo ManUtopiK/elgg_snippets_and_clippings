@@ -1,0 +1,2 @@
+#indent#
+elgg_regenerate_simplecache(#placeholderstart#$viewtype = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

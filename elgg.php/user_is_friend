@@ -1,0 +1,2 @@
+#indent#
+user_is_friend(#placeholderstart#$user_guid#placeholderend##placeholderstart#, $friend_guid#placeholderend#)#placeholderstart# ; #placeholderend#

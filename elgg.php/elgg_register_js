@@ -1,0 +1,2 @@
+#indent#
+elgg_register_js(#placeholderstart#$name#placeholderend##placeholderstart#, $url#placeholderend##placeholderstart#, $location = 'head'#placeholderend##placeholderstart#, $priority = null#placeholderend#)#placeholderstart# ; #placeholderend#

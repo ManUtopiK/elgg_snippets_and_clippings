@@ -1,0 +1,2 @@
+#indent#
+elgg_view_exists(#placeholderstart#$view#placeholderend##placeholderstart#, $viewtype = ''#placeholderend##placeholderstart#, $recurse = true#placeholderend#)#placeholderstart# ; #placeholderend#

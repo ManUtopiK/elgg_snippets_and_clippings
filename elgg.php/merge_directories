@@ -1,0 +1,2 @@
+#indent#
+merge_directories(#placeholderstart#$from#placeholderend##placeholderstart#, $to#placeholderend##placeholderstart#, $move = false#placeholderend##placeholderstart#, $preference = 'to'#placeholderend#)#placeholderstart# ; #placeholderend#

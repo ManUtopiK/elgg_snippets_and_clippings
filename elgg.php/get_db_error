@@ -1,0 +1,2 @@
+#indent#
+get_db_error(#placeholderstart#$dblink#placeholderend#)#placeholderstart# ; #placeholderend#

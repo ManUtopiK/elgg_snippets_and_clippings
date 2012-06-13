@@ -1,0 +1,2 @@
+#indent#
+validate_action_token(#placeholderstart#$visibleerrors = TRUE#placeholderend##placeholderstart#, $token = NULL#placeholderend##placeholderstart#, $ts = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

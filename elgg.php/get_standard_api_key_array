@@ -1,0 +1,2 @@
+#indent#
+get_standard_api_key_array(#placeholderstart#$secret_key#placeholderend##placeholderstart#, $api_key#placeholderend#)#placeholderstart# ; #placeholderend#

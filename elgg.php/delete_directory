@@ -1,0 +1,2 @@
+#indent#
+delete_directory(#placeholderstart#$directory#placeholderend#)#placeholderstart# ; #placeholderend#

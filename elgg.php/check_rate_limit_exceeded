@@ -1,0 +1,2 @@
+#indent#
+check_rate_limit_exceeded(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

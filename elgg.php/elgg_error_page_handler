@@ -1,0 +1,2 @@
+#indent#
+elgg_error_page_handler(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $result#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

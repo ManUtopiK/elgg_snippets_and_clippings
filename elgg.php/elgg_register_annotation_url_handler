@@ -1,0 +1,2 @@
+#indent#
+elgg_register_annotation_url_handler(#placeholderstart#$extender_name = "all"#placeholderend##placeholderstart#, $function_name#placeholderend#)#placeholderstart# ; #placeholderend#

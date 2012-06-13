@@ -1,0 +1,2 @@
+#indent#
+create_user_token(#placeholderstart#$username#placeholderend##placeholderstart#, $expire = 60#placeholderend#)#placeholderstart# ; #placeholderend#

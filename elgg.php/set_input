@@ -1,0 +1,2 @@
+#indent#
+set_input(#placeholderstart#$variable#placeholderend##placeholderstart#, $value#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_extract(#placeholderstart#$key#placeholderend##placeholderstart#, array $array#placeholderend##placeholderstart#, $default = NULL#placeholderend##placeholderstart#, $strict = true#placeholderend#)#placeholderstart# ; #placeholderend#

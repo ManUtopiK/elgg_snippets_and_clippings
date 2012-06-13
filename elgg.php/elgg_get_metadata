@@ -1,0 +1,4 @@
+#indent#
+elgg_get_metadata(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

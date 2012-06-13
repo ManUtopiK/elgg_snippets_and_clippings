@@ -1,0 +1,2 @@
+#indent#
+create_user_entity(#placeholderstart#$guid#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $username#placeholderend##placeholderstart#, $password#placeholderend##placeholderstart#, $salt#placeholderend##placeholderstart#, $email#placeholderend##placeholderstart#, $language#placeholderend##placeholderstart#, $code#placeholderend#)#placeholderstart# ; #placeholderend#

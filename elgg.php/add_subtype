@@ -1,0 +1,2 @@
+#indent#
+add_subtype(#placeholderstart#$type#placeholderend##placeholderstart#, $subtype#placeholderend##placeholderstart#, $class = ""#placeholderend#)#placeholderstart# ; #placeholderend#

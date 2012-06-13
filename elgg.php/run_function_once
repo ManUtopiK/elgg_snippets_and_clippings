@@ -1,0 +1,2 @@
+#indent#
+run_function_once(#placeholderstart#$functionname#placeholderend##placeholderstart#, $timelastupdatedcheck = 0#placeholderend#)#placeholderstart# ; #placeholderend#

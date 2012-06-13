@@ -1,0 +1,2 @@
+#indent#
+elgg_register_relationship_url_handler(#placeholderstart#$relationship_type#placeholderend##placeholderstart#, $function_name#placeholderend#)#placeholderstart# ; #placeholderend#

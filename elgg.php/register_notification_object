@@ -1,0 +1,2 @@
+#indent#
+register_notification_object(#placeholderstart#$entity_type#placeholderend##placeholderstart#, $object_subtype#placeholderend##placeholderstart#, $language_name#placeholderend#)#placeholderstart# ; #placeholderend#

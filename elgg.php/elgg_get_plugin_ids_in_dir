@@ -1,0 +1,2 @@
+#indent#
+elgg_get_plugin_ids_in_dir(#placeholderstart#$dir = null#placeholderend#)#placeholderstart# ; #placeholderend#

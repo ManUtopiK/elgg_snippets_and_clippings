@@ -1,0 +1,2 @@
+#indent#
+elgg_is_menu_item_registered(#placeholderstart#$menu_name#placeholderend##placeholderstart#, $item_name#placeholderend#)#placeholderstart# ; #placeholderend#

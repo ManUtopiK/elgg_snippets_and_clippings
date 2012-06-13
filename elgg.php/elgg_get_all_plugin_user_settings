@@ -1,0 +1,2 @@
+#indent#
+elgg_get_all_plugin_user_settings(#placeholderstart#$user_guid = null#placeholderend##placeholderstart#, $plugin_id = null#placeholderend##placeholderstart#, $return_obj = false#placeholderend#)#placeholderstart# ; #placeholderend#

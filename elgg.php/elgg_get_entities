@@ -1,0 +1,4 @@
+#indent#
+elgg_get_entities(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

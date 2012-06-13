@@ -1,0 +1,2 @@
+#indent#
+elgg_unregister_widget_type(#placeholderstart#$handler#placeholderend#)#placeholderstart# ; #placeholderend#

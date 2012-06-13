@@ -1,0 +1,2 @@
+#indent#
+elgg_get_views(#placeholderstart#$dir#placeholderend##placeholderstart#, $base#placeholderend#)#placeholderstart# ; #placeholderend#

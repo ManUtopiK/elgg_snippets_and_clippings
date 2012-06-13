@@ -1,0 +1,2 @@
+#indent#
+elgg_log(#placeholderstart#$message#placeholderend##placeholderstart#, $level = 'NOTICE'#placeholderend#)#placeholderstart# ; #placeholderend#

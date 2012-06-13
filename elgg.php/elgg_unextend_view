@@ -1,0 +1,2 @@
+#indent#
+elgg_unextend_view(#placeholderstart#$view#placeholderend##placeholderstart#, $view_extension#placeholderend#)#placeholderstart# ; #placeholderend#

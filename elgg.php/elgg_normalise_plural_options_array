@@ -1,0 +1,2 @@
+#indent#
+elgg_normalise_plural_options_array(#placeholderstart#$options#placeholderend##placeholderstart#, $singulars#placeholderend#)#placeholderstart# ; #placeholderend#

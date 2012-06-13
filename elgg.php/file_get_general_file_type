@@ -1,0 +1,2 @@
+#indent#
+file_get_general_file_type(#placeholderstart#$mimetype#placeholderend#)#placeholderstart# ; #placeholderend#

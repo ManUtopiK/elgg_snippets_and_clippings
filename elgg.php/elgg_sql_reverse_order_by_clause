@@ -1,0 +1,2 @@
+#indent#
+elgg_sql_reverse_order_by_clause(#placeholderstart#$order_by#placeholderend#)#placeholderstart# ; #placeholderend#

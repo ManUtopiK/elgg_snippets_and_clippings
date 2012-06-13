@@ -1,0 +1,4 @@
+#indent#
+pam_auth_userpass(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

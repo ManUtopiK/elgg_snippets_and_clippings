@@ -1,0 +1,2 @@
+#indent#
+elgg_register_external_file(#placeholderstart#$type#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $url#placeholderend##placeholderstart#, $location#placeholderend##placeholderstart#, $priority = 500#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_register_admin_menu_item(#placeholderstart#$section#placeholderend##placeholderstart#, $menu_id#placeholderend##placeholderstart#, $parent_id = NULL#placeholderend##placeholderstart#, $priority = 100#placeholderend#)#placeholderstart# ; #placeholderend#

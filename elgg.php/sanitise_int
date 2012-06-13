@@ -1,0 +1,2 @@
+#indent#
+sanitise_int(#placeholderstart#$int#placeholderend##placeholderstart#, $signed = true#placeholderend#)#placeholderstart# ; #placeholderend#

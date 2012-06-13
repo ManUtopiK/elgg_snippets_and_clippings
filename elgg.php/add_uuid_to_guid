@@ -1,0 +1,2 @@
+#indent#
+add_uuid_to_guid(#placeholderstart#$guid#placeholderend##placeholderstart#, $uuid#placeholderend#)#placeholderstart# ; #placeholderend#

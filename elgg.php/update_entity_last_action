@@ -1,0 +1,2 @@
+#indent#
+update_entity_last_action(#placeholderstart#$guid#placeholderend##placeholderstart#, $posted = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_get_page_owner_guid(#placeholderstart#$guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_set_viewtype(#placeholderstart#$viewtype = ""#placeholderend#)#placeholderstart# ; #placeholderend#

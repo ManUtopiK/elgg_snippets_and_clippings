@@ -1,0 +1,2 @@
+#indent#
+get_site_entity_as_row(#placeholderstart#$guid#placeholderend#)#placeholderstart# ; #placeholderend#

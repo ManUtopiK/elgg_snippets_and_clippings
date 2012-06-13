@@ -1,0 +1,2 @@
+#indent#
+verify_parameters(#placeholderstart#$method#placeholderend##placeholderstart#, $parameters#placeholderend#)#placeholderstart# ; #placeholderend#

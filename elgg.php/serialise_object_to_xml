@@ -1,0 +1,2 @@
+#indent#
+serialise_object_to_xml(#placeholderstart#$data#placeholderend##placeholderstart#, $name = ""#placeholderend##placeholderstart#, $n = 0#placeholderend#)#placeholderstart# ; #placeholderend#

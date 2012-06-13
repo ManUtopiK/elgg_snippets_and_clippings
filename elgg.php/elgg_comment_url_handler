@@ -1,0 +1,2 @@
+#indent#
+elgg_comment_url_handler(#placeholderstart#ElggAnnotation $comment#placeholderend#)#placeholderstart# ; #placeholderend#

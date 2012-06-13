@@ -1,0 +1,2 @@
+#indent#
+is_registered_entity_type(#placeholderstart#$type#placeholderend##placeholderstart#, $subtype = null#placeholderend#)#placeholderstart# ; #placeholderend#

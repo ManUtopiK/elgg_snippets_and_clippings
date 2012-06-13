@@ -1,0 +1,2 @@
+#indent#
+set_template_handler(#placeholderstart#$function_name#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_batch_metastring_based_objects(#placeholderstart#array $options#placeholderend##placeholderstart#, $callback#placeholderend##placeholderstart#, $inc_offset = true#placeholderend#)#placeholderstart# ; #placeholderend#

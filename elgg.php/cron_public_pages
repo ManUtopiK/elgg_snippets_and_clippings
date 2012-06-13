@@ -1,0 +1,2 @@
+#indent#
+cron_public_pages(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $return_value#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

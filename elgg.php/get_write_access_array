@@ -1,0 +1,2 @@
+#indent#
+get_write_access_array(#placeholderstart#$user_id = 0#placeholderend##placeholderstart#, $site_id = 0#placeholderend##placeholderstart#, $flush = false#placeholderend#)#placeholderstart# ; #placeholderend#

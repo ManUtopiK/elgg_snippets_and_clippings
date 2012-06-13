@@ -1,0 +1,2 @@
+#indent#
+elgg_check_plugins_provides(#placeholderstart#$type#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $version = null#placeholderend##placeholderstart#, $comparison = 'ge'#placeholderend#)#placeholderstart# ; #placeholderend#

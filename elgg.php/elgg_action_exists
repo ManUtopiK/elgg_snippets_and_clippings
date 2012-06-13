@@ -1,0 +1,2 @@
+#indent#
+elgg_action_exists(#placeholderstart#$action#placeholderend#)#placeholderstart# ; #placeholderend#

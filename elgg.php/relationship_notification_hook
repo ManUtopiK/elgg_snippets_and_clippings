@@ -1,0 +1,2 @@
+#indent#
+relationship_notification_hook(#placeholderstart#$event#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $object#placeholderend#)#placeholderstart# ; #placeholderend#

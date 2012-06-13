@@ -1,0 +1,2 @@
+#indent#
+get_language_completeness(#placeholderstart#$language#placeholderend#)#placeholderstart# ; #placeholderend#

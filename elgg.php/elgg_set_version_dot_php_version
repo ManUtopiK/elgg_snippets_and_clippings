@@ -1,0 +1,2 @@
+#indent#
+elgg_set_version_dot_php_version(#placeholderstart#$version#placeholderend#)#placeholderstart# ; #placeholderend#

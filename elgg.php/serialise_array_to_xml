@@ -1,0 +1,2 @@
+#indent#
+serialise_array_to_xml(#placeholderstart#array $data#placeholderend##placeholderstart#, $n = 0#placeholderend#)#placeholderstart# ; #placeholderend#

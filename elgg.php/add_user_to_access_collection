@@ -1,0 +1,2 @@
+#indent#
+add_user_to_access_collection(#placeholderstart#$user_guid#placeholderend##placeholderstart#, $collection_id#placeholderend#)#placeholderstart# ; #placeholderend#

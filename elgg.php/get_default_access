@@ -1,0 +1,2 @@
+#indent#
+get_default_access(#placeholderstart#ElggUser $user = null#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_get_widgets(#placeholderstart#$user_guid#placeholderend##placeholderstart#, $context#placeholderend#)#placeholderstart# ; #placeholderend#

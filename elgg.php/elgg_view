@@ -1,0 +1,4 @@
+#indent#
+elgg_view(#placeholderstart#$view#placeholderend#, array(
+	'#insertion#' => #insertion#,
+)#placeholderstart#, $bypass = false#placeholderend##placeholderstart#, $debug = false#placeholderend##placeholderstart#, $viewtype = ''#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_entities_get_metastrings_options(#placeholderstart#$type#placeholderend##placeholderstart#, $options#placeholderend#)#placeholderstart# ; #placeholderend#

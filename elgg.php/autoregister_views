@@ -1,0 +1,2 @@
+#indent#
+autoregister_views(#placeholderstart#$view_base#placeholderend##placeholderstart#, $folder#placeholderend##placeholderstart#, $base_location_path#placeholderend##placeholderstart#, $viewtype#placeholderend#)#placeholderstart# ; #placeholderend#

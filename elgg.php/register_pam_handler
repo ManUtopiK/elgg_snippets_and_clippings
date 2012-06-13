@@ -1,0 +1,2 @@
+#indent#
+register_pam_handler(#placeholderstart#$handler#placeholderend##placeholderstart#, $importance = "sufficient"#placeholderend##placeholderstart#, $policy = "user"#placeholderend#)#placeholderstart# ; #placeholderend#

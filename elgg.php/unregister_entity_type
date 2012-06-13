@@ -1,0 +1,2 @@
+#indent#
+unregister_entity_type(#placeholderstart#$type#placeholderend##placeholderstart#, $subtype#placeholderend#)#placeholderstart# ; #placeholderend#

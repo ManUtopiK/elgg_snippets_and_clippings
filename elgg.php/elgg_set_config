@@ -1,0 +1,2 @@
+#indent#
+elgg_set_config(#placeholderstart#$name#placeholderend##placeholderstart#, $value#placeholderend#)#placeholderstart# ; #placeholderend#

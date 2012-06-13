@@ -1,0 +1,2 @@
+#indent#
+stripslashes_deep(#placeholderstart#$value#placeholderend#)#placeholderstart# ; #placeholderend#

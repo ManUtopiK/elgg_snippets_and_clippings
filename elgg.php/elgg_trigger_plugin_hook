@@ -1,0 +1,2 @@
+#indent#
+elgg_trigger_plugin_hook(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $params = null#placeholderend##placeholderstart#, $returnvalue = null#placeholderend#)#placeholderstart# ; #placeholderend#

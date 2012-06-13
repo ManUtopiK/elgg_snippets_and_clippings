@@ -1,0 +1,2 @@
+#indent#
+elgg_is_admin_user(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

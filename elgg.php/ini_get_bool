@@ -1,0 +1,2 @@
+#indent#
+ini_get_bool(#placeholderstart#$ini_get_arg#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_is_valid_view_type(#placeholderstart#$view_type#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,4 @@
+#indent#
+elgg_get_tags(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

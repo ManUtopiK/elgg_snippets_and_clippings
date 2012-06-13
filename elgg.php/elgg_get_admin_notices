@@ -1,0 +1,2 @@
+#indent#
+elgg_get_admin_notices(#placeholderstart#$limit = 10#placeholderend#)#placeholderstart# ; #placeholderend#

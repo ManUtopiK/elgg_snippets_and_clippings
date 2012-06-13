@@ -1,0 +1,2 @@
+#indent#
+elgg_add_admin_widgets(#placeholderstart#$event#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $user#placeholderend#)#placeholderstart# ; #placeholderend#

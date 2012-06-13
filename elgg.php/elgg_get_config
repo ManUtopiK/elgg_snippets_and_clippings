@@ -1,0 +1,2 @@
+#indent#
+elgg_get_config(#placeholderstart#$name#placeholderend##placeholderstart#, $site_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

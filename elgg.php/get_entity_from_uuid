@@ -1,0 +1,2 @@
+#indent#
+get_entity_from_uuid(#placeholderstart#$uuid#placeholderend#)#placeholderstart# ; #placeholderend#

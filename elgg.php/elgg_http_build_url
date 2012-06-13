@@ -1,0 +1,2 @@
+#indent#
+elgg_http_build_url(#placeholderstart#array $parts#placeholderend##placeholderstart#, $html_encode = TRUE#placeholderend#)#placeholderstart# ; #placeholderend#

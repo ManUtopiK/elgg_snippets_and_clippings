@@ -1,0 +1,2 @@
+#indent#
+elgg_strip_tags(#placeholderstart#$string#placeholderend#)#placeholderstart# ; #placeholderend#

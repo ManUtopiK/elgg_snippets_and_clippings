@@ -1,0 +1,2 @@
+#indent#
+elgg_enable_metadata(#placeholderstart#array $options#placeholderend#)#placeholderstart# ; #placeholderend#

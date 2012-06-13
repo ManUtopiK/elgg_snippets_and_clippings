@@ -1,0 +1,2 @@
+#indent#
+get_user_notification_settings(#placeholderstart#$user_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

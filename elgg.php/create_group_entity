@@ -1,0 +1,2 @@
+#indent#
+create_group_entity(#placeholderstart#$guid#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $description#placeholderend#)#placeholderstart# ; #placeholderend#

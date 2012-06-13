@@ -1,0 +1,2 @@
+#indent#
+get_access_sql_suffix(#placeholderstart#$table_prefix = ''#placeholderend##placeholderstart#, $owner = null#placeholderend#)#placeholderstart# ; #placeholderend#

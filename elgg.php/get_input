@@ -1,0 +1,2 @@
+#indent#
+get_input(#placeholderstart#$variable#placeholderend##placeholderstart#, $default = NULL#placeholderend##placeholderstart#, $filter_result = TRUE#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+can_edit_access_collection(#placeholderstart#$collection_id#placeholderend##placeholderstart#, $user_guid = null#placeholderend#)#placeholderstart# ; #placeholderend#

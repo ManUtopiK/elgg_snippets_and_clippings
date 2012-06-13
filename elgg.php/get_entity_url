@@ -1,0 +1,2 @@
+#indent#
+get_entity_url(#placeholderstart#$entity_guid#placeholderend#)#placeholderstart# ; #placeholderend#

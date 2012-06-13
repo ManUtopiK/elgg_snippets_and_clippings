@@ -1,0 +1,2 @@
+#indent#
+elgg_create_default_widgets(#placeholderstart#$event#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $entity#placeholderend#)#placeholderstart# ; #placeholderend#

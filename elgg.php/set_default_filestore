@@ -1,0 +1,2 @@
+#indent#
+set_default_filestore(#placeholderstart#ElggFilestore $filestore#placeholderend#)#placeholderstart# ; #placeholderend#

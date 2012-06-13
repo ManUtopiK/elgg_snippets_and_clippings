@@ -1,0 +1,2 @@
+#indent#
+users_test(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $value#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+calculate_posthash(#placeholderstart#$postdata#placeholderend##placeholderstart#, $algo#placeholderend#)#placeholderstart# ; #placeholderend#

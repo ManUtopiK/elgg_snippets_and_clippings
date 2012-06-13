@@ -1,0 +1,2 @@
+#indent#
+elgg_get_view_location(#placeholderstart#$view#placeholderend##placeholderstart#, $viewtype = ''#placeholderend#)#placeholderstart# ; #placeholderend#

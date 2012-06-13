@@ -1,0 +1,2 @@
+#indent#
+object_notifications(#placeholderstart#$event#placeholderend##placeholderstart#, $object_type#placeholderend##placeholderstart#, $object#placeholderend#)#placeholderstart# ; #placeholderend#

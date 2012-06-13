@@ -1,0 +1,2 @@
+#indent#
+elgg_river_get_action_where_sql(#placeholderstart#$types#placeholderend#)#placeholderstart# ; #placeholderend#

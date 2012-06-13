@@ -1,0 +1,2 @@
+#indent#
+create_access_collection(#placeholderstart#$name#placeholderend##placeholderstart#, $owner_guid = 0#placeholderend##placeholderstart#, $site_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

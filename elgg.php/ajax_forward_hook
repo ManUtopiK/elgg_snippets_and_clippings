@@ -1,0 +1,2 @@
+#indent#
+ajax_forward_hook(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $reason#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

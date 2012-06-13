@@ -1,0 +1,2 @@
+#indent#
+get_users_membership(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

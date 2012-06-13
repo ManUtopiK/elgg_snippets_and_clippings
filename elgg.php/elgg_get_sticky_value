@@ -1,0 +1,2 @@
+#indent#
+elgg_get_sticky_value(#placeholderstart#$form_name#placeholderend##placeholderstart#, $variable = ''#placeholderend##placeholderstart#, $default = NULL#placeholderend##placeholderstart#, $filter_result = true#placeholderend#)#placeholderstart# ; #placeholderend#

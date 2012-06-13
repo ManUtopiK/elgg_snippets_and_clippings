@@ -1,0 +1,2 @@
+#indent#
+execute_delayed_read_query(#placeholderstart#$query#placeholderend##placeholderstart#, $handler = ""#placeholderend#)#placeholderstart# ; #placeholderend#

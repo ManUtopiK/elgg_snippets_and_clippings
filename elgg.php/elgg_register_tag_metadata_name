@@ -1,0 +1,2 @@
+#indent#
+elgg_register_tag_metadata_name(#placeholderstart#$name#placeholderend#)#placeholderstart# ; #placeholderend#

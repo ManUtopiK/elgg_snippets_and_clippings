@@ -1,0 +1,2 @@
+#indent#
+ban_user(#placeholderstart#$user_guid#placeholderend##placeholderstart#, $reason = ""#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,4 @@
+#indent#
+elgg_view_river_item(#placeholderstart#$item#placeholderend#, array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+add_entity_relationship(#placeholderstart#$guid_one#placeholderend##placeholderstart#, $relationship#placeholderend##placeholderstart#, $guid_two#placeholderend#)#placeholderstart# ; #placeholderend#

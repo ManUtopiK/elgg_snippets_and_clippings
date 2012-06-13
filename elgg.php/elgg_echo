@@ -1,0 +1,4 @@
+#indent#
+elgg_echo(#placeholderstart#$message_key#placeholderend#, array(
+	'#insertion#' => #insertion#,
+)#placeholderstart#, $language = ""#placeholderend#)#placeholderstart# ; #placeholderend#

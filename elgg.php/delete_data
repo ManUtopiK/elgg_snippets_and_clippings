@@ -1,0 +1,2 @@
+#indent#
+delete_data(#placeholderstart#$query#placeholderend#)#placeholderstart# ; #placeholderend#

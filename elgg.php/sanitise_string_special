@@ -1,0 +1,2 @@
+#indent#
+sanitise_string_special(#placeholderstart#$string#placeholderend##placeholderstart#, $extra_escapeable = ''#placeholderend#)#placeholderstart# ; #placeholderend#

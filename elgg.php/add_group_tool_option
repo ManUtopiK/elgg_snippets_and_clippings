@@ -1,0 +1,2 @@
+#indent#
+add_group_tool_option(#placeholderstart#$name#placeholderend##placeholderstart#, $label#placeholderend##placeholderstart#, $default_on = true#placeholderend#)#placeholderstart# ; #placeholderend#

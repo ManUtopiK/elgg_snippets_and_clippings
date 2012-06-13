@@ -1,0 +1,2 @@
+#indent#
+friends_page_handler(#placeholderstart#$page_elements#placeholderend##placeholderstart#, $handler#placeholderend#)#placeholderstart# ; #placeholderend#

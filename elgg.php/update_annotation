@@ -1,0 +1,2 @@
+#indent#
+update_annotation(#placeholderstart#$annotation_id#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $value#placeholderend##placeholderstart#, $value_type#placeholderend##placeholderstart#, $owner_guid#placeholderend##placeholderstart#, $access_id#placeholderend#)#placeholderstart# ; #placeholderend#

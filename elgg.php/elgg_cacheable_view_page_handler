@@ -1,0 +1,2 @@
+#indent#
+elgg_cacheable_view_page_handler(#placeholderstart#$page#placeholderend##placeholderstart#, $type#placeholderend#)#placeholderstart# ; #placeholderend#

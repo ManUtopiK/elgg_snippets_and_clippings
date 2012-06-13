@@ -1,0 +1,2 @@
+#indent#
+elgg_clear_sticky_value(#placeholderstart#$form_name#placeholderend##placeholderstart#, $variable#placeholderend#)#placeholderstart# ; #placeholderend#

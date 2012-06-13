@@ -1,0 +1,2 @@
+#indent#
+validate_user_token(#placeholderstart#$token#placeholderend##placeholderstart#, $site_guid#placeholderend#)#placeholderstart# ; #placeholderend#

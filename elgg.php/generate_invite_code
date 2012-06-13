@@ -1,0 +1,2 @@
+#indent#
+generate_invite_code(#placeholderstart#$username#placeholderend#)#placeholderstart# ; #placeholderend#

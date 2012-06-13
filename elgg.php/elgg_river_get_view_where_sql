@@ -1,0 +1,2 @@
+#indent#
+elgg_river_get_view_where_sql(#placeholderstart#$views#placeholderend#)#placeholderstart# ; #placeholderend#

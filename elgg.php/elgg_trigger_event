@@ -1,0 +1,2 @@
+#indent#
+elgg_trigger_event(#placeholderstart#$event#placeholderend##placeholderstart#, $object_type#placeholderend##placeholderstart#, $object = null#placeholderend#)#placeholderstart# ; #placeholderend#

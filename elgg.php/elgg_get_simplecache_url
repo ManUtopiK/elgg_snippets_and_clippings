@@ -1,0 +1,2 @@
+#indent#
+elgg_get_simplecache_url(#placeholderstart#$type#placeholderend##placeholderstart#, $view#placeholderend#)#placeholderstart# ; #placeholderend#

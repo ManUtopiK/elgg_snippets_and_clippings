@@ -1,0 +1,2 @@
+#indent#
+elgg_get_metastring_based_object_from_id(#placeholderstart#$id#placeholderend##placeholderstart#, $type#placeholderend#)#placeholderstart# ; #placeholderend#

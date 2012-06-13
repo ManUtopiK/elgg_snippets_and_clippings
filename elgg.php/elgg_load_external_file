@@ -1,0 +1,2 @@
+#indent#
+elgg_load_external_file(#placeholderstart#$type#placeholderend##placeholderstart#, $name#placeholderend#)#placeholderstart# ; #placeholderend#

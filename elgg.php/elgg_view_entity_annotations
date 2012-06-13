@@ -1,0 +1,2 @@
+#indent#
+elgg_view_entity_annotations(#placeholderstart#ElggEntity $entity#placeholderend##placeholderstart#, $full_view = true#placeholderend#)#placeholderstart# ; #placeholderend#

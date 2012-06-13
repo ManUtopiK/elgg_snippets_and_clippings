@@ -1,0 +1,2 @@
+#indent#
+elgg_delete_metastring_based_object_by_id(#placeholderstart#$id#placeholderend##placeholderstart#, $type#placeholderend#)#placeholderstart# ; #placeholderend#

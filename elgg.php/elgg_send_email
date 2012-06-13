@@ -1,0 +1,2 @@
+#indent#
+elgg_send_email(#placeholderstart#$from#placeholderend##placeholderstart#, $to#placeholderend##placeholderstart#, $subject#placeholderend##placeholderstart#, $body#placeholderend##placeholderstart#, array $params = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

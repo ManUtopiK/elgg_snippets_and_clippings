@@ -1,0 +1,2 @@
+#indent#
+elgg_get_upgrade_files(#placeholderstart#$upgrade_path = null#placeholderend#)#placeholderstart# ; #placeholderend#

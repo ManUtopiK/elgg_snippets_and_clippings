@@ -1,0 +1,2 @@
+#indent#
+elgg_override_permissions(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $value#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

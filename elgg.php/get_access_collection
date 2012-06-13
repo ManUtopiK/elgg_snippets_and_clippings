@@ -1,0 +1,2 @@
+#indent#
+get_access_collection(#placeholderstart#$collection_id#placeholderend#)#placeholderstart# ; #placeholderend#

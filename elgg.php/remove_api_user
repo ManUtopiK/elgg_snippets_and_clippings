@@ -1,0 +1,2 @@
+#indent#
+remove_api_user(#placeholderstart#$site_guid#placeholderend##placeholderstart#, $api_key#placeholderend#)#placeholderstart# ; #placeholderend#

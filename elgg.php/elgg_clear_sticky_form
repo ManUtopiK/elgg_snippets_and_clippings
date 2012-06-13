@@ -1,0 +1,2 @@
+#indent#
+elgg_clear_sticky_form(#placeholderstart#$form_name#placeholderend#)#placeholderstart# ; #placeholderend#

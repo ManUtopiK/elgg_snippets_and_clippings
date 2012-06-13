@@ -1,0 +1,2 @@
+#indent#
+get_image_resize_parameters(#placeholderstart#$width#placeholderend##placeholderstart#, $height#placeholderend##placeholderstart#, $options#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_push_breadcrumb(#placeholderstart#$title#placeholderend##placeholderstart#, $link = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_get_user_validation_status(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

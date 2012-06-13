@@ -1,0 +1,2 @@
+#indent#
+send_api_get_call(#placeholderstart#$url#placeholderend##placeholderstart#, array $call#placeholderend##placeholderstart#, array $keys#placeholderend#)#placeholderstart# ; #placeholderend#

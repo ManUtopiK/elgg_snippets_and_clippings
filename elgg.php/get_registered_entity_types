@@ -1,0 +1,2 @@
+#indent#
+get_registered_entity_types(#placeholderstart#$type = null#placeholderend#)#placeholderstart# ; #placeholderend#

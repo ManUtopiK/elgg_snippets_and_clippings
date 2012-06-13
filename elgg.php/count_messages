@@ -1,0 +1,2 @@
+#indent#
+count_messages(#placeholderstart#$register = ""#placeholderend#)#placeholderstart# ; #placeholderend#

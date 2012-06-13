@@ -1,0 +1,2 @@
+#indent#
+elgg_get_excerpt(#placeholderstart#$text#placeholderend##placeholderstart#, $num_chars = 250#placeholderend#)#placeholderstart# ; #placeholderend#

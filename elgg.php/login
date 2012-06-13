@@ -1,0 +1,2 @@
+#indent#
+login(#placeholderstart#ElggUser $user#placeholderend##placeholderstart#, $persistent = false#placeholderend#)#placeholderstart# ; #placeholderend#

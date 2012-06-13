@@ -1,0 +1,2 @@
+#indent#
+system_messages(#placeholderstart#$message = null#placeholderend##placeholderstart#, $register = "success"#placeholderend##placeholderstart#, $count = false#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,4 @@
+#indent#
+elgg_view_image_block(#placeholderstart#$image#placeholderend##placeholderstart#, $body#placeholderend#, array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

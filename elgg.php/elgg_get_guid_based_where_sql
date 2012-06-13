@@ -1,0 +1,2 @@
+#indent#
+elgg_get_guid_based_where_sql(#placeholderstart#$column#placeholderend##placeholderstart#, $guids#placeholderend#)#placeholderstart# ; #placeholderend#

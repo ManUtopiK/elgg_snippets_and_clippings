@@ -1,0 +1,2 @@
+#indent#
+system_message(#placeholderstart#$message#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+establish_db_link(#placeholderstart#$dblinkname = "readwrite"#placeholderend#)#placeholderstart# ; #placeholderend#

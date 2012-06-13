@@ -1,0 +1,2 @@
+#indent#
+elgg_get_loaded_js(#placeholderstart#$location = 'head'#placeholderend#)#placeholderstart# ; #placeholderend#

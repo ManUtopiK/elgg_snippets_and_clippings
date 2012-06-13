@@ -1,0 +1,2 @@
+#indent#
+elgg_get_calling_plugin_id(#placeholderstart#$mainfilename = false#placeholderend#)#placeholderstart# ; #placeholderend#

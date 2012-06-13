@@ -1,0 +1,4 @@
+#indent#
+elgg_get_entities_from_relationship_count(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

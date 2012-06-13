@@ -1,0 +1,2 @@
+#indent#
+get_attachments(#placeholderstart#$guid#placeholderend##placeholderstart#, $type = ""#placeholderend#)#placeholderstart# ; #placeholderend#

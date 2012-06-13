@@ -1,0 +1,2 @@
+#indent#
+create_object_entity(#placeholderstart#$guid#placeholderend##placeholderstart#, $title#placeholderend##placeholderstart#, $description#placeholderend#)#placeholderstart# ; #placeholderend#

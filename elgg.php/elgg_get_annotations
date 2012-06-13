@@ -1,0 +1,4 @@
+#indent#
+elgg_get_annotations(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

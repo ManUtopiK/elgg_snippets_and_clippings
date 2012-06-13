@@ -1,0 +1,2 @@
+#indent#
+elgg_http_url_is_identical(#placeholderstart#$url1#placeholderend##placeholderstart#, $url2#placeholderend##placeholderstart#, $ignore_params = array('offset'#placeholderend##placeholderstart#, 'limit')#placeholderend#)#placeholderstart# ; #placeholderend#

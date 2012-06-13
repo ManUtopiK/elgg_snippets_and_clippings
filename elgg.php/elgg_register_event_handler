@@ -1,0 +1,2 @@
+#indent#
+elgg_register_event_handler(#placeholderstart#$event#placeholderend##placeholderstart#, $object_type#placeholderend##placeholderstart#, $callback#placeholderend##placeholderstart#, $priority = 500#placeholderend#)#placeholderstart# ; #placeholderend#

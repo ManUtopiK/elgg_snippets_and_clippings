@@ -1,0 +1,2 @@
+#indent#
+upgrade_code(#placeholderstart#$version#placeholderend##placeholderstart#, $quiet = FALSE#placeholderend#)#placeholderstart# ; #placeholderend#

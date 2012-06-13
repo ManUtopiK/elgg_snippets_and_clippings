@@ -1,0 +1,2 @@
+#indent#
+remove_site_object(#placeholderstart#$site_guid#placeholderend##placeholderstart#, $object_guid#placeholderend#)#placeholderstart# ; #placeholderend#

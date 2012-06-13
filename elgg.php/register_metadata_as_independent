@@ -1,0 +1,2 @@
+#indent#
+register_metadata_as_independent(#placeholderstart#$type#placeholderend##placeholderstart#, $subtype = '*'#placeholderend#)#placeholderstart# ; #placeholderend#

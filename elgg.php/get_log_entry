@@ -1,0 +1,2 @@
+#indent#
+get_log_entry(#placeholderstart#$entry_id#placeholderend#)#placeholderstart# ; #placeholderend#

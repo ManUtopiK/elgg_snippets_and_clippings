@@ -1,0 +1,2 @@
+#indent#
+get_entity_relationships(#placeholderstart#$guid#placeholderend##placeholderstart#, $inverse_relationship = FALSE#placeholderend#)#placeholderstart# ; #placeholderend#

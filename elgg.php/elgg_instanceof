@@ -1,0 +1,2 @@
+#indent#
+elgg_instanceof(#placeholderstart#$entity#placeholderend##placeholderstart#, $type = NULL#placeholderend##placeholderstart#, $subtype = NULL#placeholderend##placeholderstart#, $class = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+add_translation(#placeholderstart#$country_code#placeholderend##placeholderstart#, $language_array#placeholderend#)#placeholderstart# ; #placeholderend#

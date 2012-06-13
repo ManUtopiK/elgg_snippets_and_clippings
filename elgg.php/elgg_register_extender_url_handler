@@ -1,0 +1,2 @@
+#indent#
+elgg_register_extender_url_handler(#placeholderstart#$extender_type#placeholderend##placeholderstart#, $extender_name#placeholderend##placeholderstart#, $function_name#placeholderend#)#placeholderstart# ; #placeholderend#

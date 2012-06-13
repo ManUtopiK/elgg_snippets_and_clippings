@@ -1,0 +1,2 @@
+#indent#
+elgg_is_active_plugin(#placeholderstart#$plugin_id#placeholderend##placeholderstart#, $site_guid = null#placeholderend#)#placeholderstart# ; #placeholderend#

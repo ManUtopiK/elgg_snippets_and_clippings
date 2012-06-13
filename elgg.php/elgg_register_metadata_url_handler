@@ -1,0 +1,2 @@
+#indent#
+elgg_register_metadata_url_handler(#placeholderstart#$extender_name#placeholderend##placeholderstart#, $function#placeholderend#)#placeholderstart# ; #placeholderend#

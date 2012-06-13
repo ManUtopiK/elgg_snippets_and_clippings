@@ -1,0 +1,2 @@
+#indent#
+elgg_annotation_exists(#placeholderstart#$entity_guid#placeholderend##placeholderstart#, $annotation_type#placeholderend##placeholderstart#, $owner_guid = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

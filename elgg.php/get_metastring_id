@@ -1,0 +1,2 @@
+#indent#
+get_metastring_id(#placeholderstart#$string#placeholderend##placeholderstart#, $case_sensitive = TRUE#placeholderend#)#placeholderstart# ; #placeholderend#

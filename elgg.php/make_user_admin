@@ -1,0 +1,2 @@
+#indent#
+make_user_admin(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

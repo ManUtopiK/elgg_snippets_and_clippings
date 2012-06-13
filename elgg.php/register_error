@@ -1,0 +1,2 @@
+#indent#
+register_error(#placeholderstart#$error#placeholderend#)#placeholderstart# ; #placeholderend#

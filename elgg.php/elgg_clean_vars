@@ -1,0 +1,4 @@
+#indent#
+elgg_clean_vars(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

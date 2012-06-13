@@ -1,0 +1,2 @@
+#indent#
+file_delete(#placeholderstart#$guid#placeholderend#)#placeholderstart# ; #placeholderend#

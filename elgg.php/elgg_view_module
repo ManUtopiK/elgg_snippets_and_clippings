@@ -1,0 +1,4 @@
+#indent#
+elgg_view_module(#placeholderstart#$type#placeholderend##placeholderstart#, $title#placeholderend##placeholderstart#, $body#placeholderend#, array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

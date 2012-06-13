@@ -1,0 +1,2 @@
+#indent#
+get_dir_size(#placeholderstart#$dir#placeholderend##placeholderstart#, $totalsize = 0#placeholderend#)#placeholderstart# ; #placeholderend#

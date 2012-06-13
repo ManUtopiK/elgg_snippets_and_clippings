@@ -1,0 +1,2 @@
+#indent#
+sanitise_filepath(#placeholderstart#$path#placeholderend##placeholderstart#, $append_slash = TRUE#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_unregister_plugin_hook_handler(#placeholderstart#$hook#placeholderend##placeholderstart#, $entity_type#placeholderend##placeholderstart#, $callback#placeholderend#)#placeholderstart# ; #placeholderend#

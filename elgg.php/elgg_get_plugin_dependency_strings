@@ -1,0 +1,2 @@
+#indent#
+elgg_get_plugin_dependency_strings(#placeholderstart#$dep#placeholderend#)#placeholderstart# ; #placeholderend#

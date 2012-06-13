@@ -1,0 +1,2 @@
+#indent#
+elgg_admin_sort_page_menu(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $return#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#

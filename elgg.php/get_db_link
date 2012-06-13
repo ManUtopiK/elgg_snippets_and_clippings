@@ -1,0 +1,2 @@
+#indent#
+get_db_link(#placeholderstart#$dblinktype#placeholderend#)#placeholderstart# ; #placeholderend#

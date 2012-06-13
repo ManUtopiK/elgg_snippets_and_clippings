@@ -1,0 +1,2 @@
+#indent#
+elgg_get_upgrade_file_version(#placeholderstart#$filename#placeholderend#)#placeholderstart# ; #placeholderend#

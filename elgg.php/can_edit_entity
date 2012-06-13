@@ -1,0 +1,2 @@
+#indent#
+can_edit_entity(#placeholderstart#$entity_guid#placeholderend##placeholderstart#, $user_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

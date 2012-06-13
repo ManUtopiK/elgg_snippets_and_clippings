@@ -1,0 +1,2 @@
+#indent#
+get_user_by_username(#placeholderstart#$username#placeholderend#)#placeholderstart# ; #placeholderend#

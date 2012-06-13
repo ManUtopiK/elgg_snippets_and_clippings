@@ -1,0 +1,2 @@
+#indent#
+elgg_http_remove_url_query_element(#placeholderstart#$url#placeholderend##placeholderstart#, $element#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+unregister_pam_handler(#placeholderstart#$handler#placeholderend##placeholderstart#, $policy = "user"#placeholderend#)#placeholderstart# ; #placeholderend#

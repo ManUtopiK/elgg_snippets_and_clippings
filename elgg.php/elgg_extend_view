@@ -1,0 +1,2 @@
+#indent#
+elgg_extend_view(#placeholderstart#$view#placeholderend##placeholderstart#, $view_extension#placeholderend##placeholderstart#, $priority = 501#placeholderend##placeholderstart#, $viewtype = ''#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_get_entity_type_subtype_where_sql(#placeholderstart#$table#placeholderend##placeholderstart#, $types#placeholderend##placeholderstart#, $subtypes#placeholderend##placeholderstart#, $pairs#placeholderend#)#placeholderstart# ; #placeholderend#

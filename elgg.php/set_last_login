@@ -1,0 +1,2 @@
+#indent#
+set_last_login(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

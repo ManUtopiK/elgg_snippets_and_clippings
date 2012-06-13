@@ -1,0 +1,2 @@
+#indent#
+elgg_batch_delete_callback(#placeholderstart#$object#placeholderend#)#placeholderstart# ; #placeholderend#

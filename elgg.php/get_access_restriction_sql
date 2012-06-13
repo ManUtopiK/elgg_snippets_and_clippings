@@ -1,0 +1,2 @@
+#indent#
+get_access_restriction_sql(#placeholderstart#$annotation_name#placeholderend##placeholderstart#, $entity_guid#placeholderend##placeholderstart#, $owner_guid#placeholderend##placeholderstart#, $exists#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+can_edit_extender(#placeholderstart#$extender_id#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $user_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

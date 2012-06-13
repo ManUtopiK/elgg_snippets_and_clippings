@@ -1,0 +1,2 @@
+#indent#
+remove_user_admin(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

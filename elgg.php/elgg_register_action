@@ -1,0 +1,2 @@
+#indent#
+elgg_register_action(#placeholderstart#$action#placeholderend##placeholderstart#, $filename = ""#placeholderend##placeholderstart#, $access = 'logged_in'#placeholderend#)#placeholderstart# ; #placeholderend#

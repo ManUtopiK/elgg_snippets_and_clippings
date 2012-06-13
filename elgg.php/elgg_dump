@@ -1,0 +1,2 @@
+#indent#
+elgg_dump(#placeholderstart#$value#placeholderend##placeholderstart#, $to_screen = TRUE#placeholderend##placeholderstart#, $level = 'NOTICE'#placeholderend#)#placeholderstart# ; #placeholderend#

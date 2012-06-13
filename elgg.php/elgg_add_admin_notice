@@ -1,0 +1,2 @@
+#indent#
+elgg_add_admin_notice(#placeholderstart#$id#placeholderend##placeholderstart#, $message#placeholderend#)#placeholderstart# ; #placeholderend#

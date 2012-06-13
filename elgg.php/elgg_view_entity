@@ -1,0 +1,4 @@
+#indent#
+elgg_view_entity(#placeholderstart#ElggEntity $entity#placeholderend#, array(
+	'#insertion#' => #insertion#,
+)#placeholderstart#, $bypass = true#placeholderend##placeholderstart#, $debug = false#placeholderend#)#placeholderstart# ; #placeholderend#

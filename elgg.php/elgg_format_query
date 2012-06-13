@@ -1,0 +1,2 @@
+#indent#
+elgg_format_query(#placeholderstart#$query#placeholderend#)#placeholderstart# ; #placeholderend#

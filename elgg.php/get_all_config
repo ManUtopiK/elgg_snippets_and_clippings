@@ -1,0 +1,2 @@
+#indent#
+get_all_config(#placeholderstart#$site_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

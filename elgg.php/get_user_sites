@@ -1,0 +1,2 @@
+#indent#
+get_user_sites(#placeholderstart#$user_guid#placeholderend##placeholderstart#, $limit = 10#placeholderend##placeholderstart#, $offset = 0#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+set_private_setting(#placeholderstart#$entity_guid#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $value#placeholderend#)#placeholderstart# ; #placeholderend#

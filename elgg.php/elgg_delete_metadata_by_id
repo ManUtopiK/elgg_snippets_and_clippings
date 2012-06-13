@@ -1,0 +1,2 @@
+#indent#
+elgg_delete_metadata_by_id(#placeholderstart#$id#placeholderend#)#placeholderstart# ; #placeholderend#

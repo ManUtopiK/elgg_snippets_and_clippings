@@ -1,0 +1,2 @@
+#indent#
+elgg_deprecated_notice(#placeholderstart#$msg#placeholderend##placeholderstart#, $dep_version#placeholderend##placeholderstart#, $backtrace_level = 1#placeholderend#)#placeholderstart# ; #placeholderend#

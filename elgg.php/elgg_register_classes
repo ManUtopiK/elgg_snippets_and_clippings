@@ -1,0 +1,2 @@
+#indent#
+elgg_register_classes(#placeholderstart#$dir#placeholderend#)#placeholderstart# ; #placeholderend#

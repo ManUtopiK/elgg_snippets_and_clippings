@@ -1,0 +1,2 @@
+#indent#
+elgg_register_plugin_hook_handler(#placeholderstart#$hook#placeholderend##placeholderstart#, $type#placeholderend##placeholderstart#, $callback#placeholderend##placeholderstart#, $priority = 500#placeholderend#)#placeholderstart# ; #placeholderend#

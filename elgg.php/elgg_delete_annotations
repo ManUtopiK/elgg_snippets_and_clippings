@@ -1,0 +1,2 @@
+#indent#
+elgg_delete_annotations(#placeholderstart#array $options#placeholderend#)#placeholderstart# ; #placeholderend#

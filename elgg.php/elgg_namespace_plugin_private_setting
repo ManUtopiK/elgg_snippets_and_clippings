@@ -1,0 +1,2 @@
+#indent#
+elgg_namespace_plugin_private_setting(#placeholderstart#$type#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $id = null#placeholderend#)#placeholderstart# ; #placeholderend#

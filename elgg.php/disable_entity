@@ -1,0 +1,2 @@
+#indent#
+disable_entity(#placeholderstart#$guid#placeholderend##placeholderstart#, $reason = ""#placeholderend##placeholderstart#, $recursive = true#placeholderend#)#placeholderstart# ; #placeholderend#

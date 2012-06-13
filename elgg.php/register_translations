@@ -1,0 +1,2 @@
+#indent#
+register_translations(#placeholderstart#$path#placeholderend##placeholderstart#, $load_all = false#placeholderend#)#placeholderstart# ; #placeholderend#

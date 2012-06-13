@@ -1,0 +1,2 @@
+#indent#
+system_log(#placeholderstart#$object#placeholderend##placeholderstart#, $event#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+elgg_register_page_handler(#placeholderstart#$handler#placeholderend##placeholderstart#, $function#placeholderend#)#placeholderstart# ; #placeholderend#

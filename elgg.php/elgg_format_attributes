@@ -1,0 +1,2 @@
+#indent#
+elgg_format_attributes(#placeholderstart#array $attrs#placeholderend#)#placeholderstart# ; #placeholderend#

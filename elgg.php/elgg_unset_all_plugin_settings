@@ -1,0 +1,2 @@
+#indent#
+elgg_unset_all_plugin_settings(#placeholderstart#$plugin_id = null#placeholderend#)#placeholderstart# ; #placeholderend#

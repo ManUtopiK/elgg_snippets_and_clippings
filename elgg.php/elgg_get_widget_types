@@ -1,0 +1,2 @@
+#indent#
+elgg_get_widget_types(#placeholderstart#$context = ""#placeholderend##placeholderstart#, $exact = false#placeholderend#)#placeholderstart# ; #placeholderend#

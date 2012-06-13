@@ -1,0 +1,2 @@
+#indent#
+calculate_tag_size(#placeholderstart#$min#placeholderend##placeholderstart#, $max#placeholderend##placeholderstart#, $number_of_tags#placeholderend##placeholderstart#, $buckets = 6#placeholderend#)#placeholderstart# ; #placeholderend#

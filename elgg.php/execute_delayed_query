@@ -1,0 +1,2 @@
+#indent#
+execute_delayed_query(#placeholderstart#$query#placeholderend##placeholderstart#, $dblink#placeholderend##placeholderstart#, $handler = ""#placeholderend#)#placeholderstart# ; #placeholderend#

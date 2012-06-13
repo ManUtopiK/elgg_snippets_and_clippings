@@ -1,0 +1,2 @@
+#indent#
+default_page_owner_handler(#placeholderstart#$hook#placeholderend##placeholderstart#, $entity_type#placeholderend##placeholderstart#, $returnvalue#placeholderend##placeholderstart#, $params#placeholderend#)#placeholderstart# ; #placeholderend#
