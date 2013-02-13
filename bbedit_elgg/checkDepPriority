@@ -1,0 +1,2 @@
+#indent#
+checkDepPriority(#placeholderstart#array $dep#placeholderend##placeholderstart#, array $plugins#placeholderend##placeholderstart#, $inverse = false#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,2 +1,0 @@
-#indent#
-elgg_register_widget_type(#placeholderstart#$handler#placeholderend##placeholderstart#, $name#placeholderend##placeholderstart#, $description#placeholderend##placeholderstart#, $context = array('all')#placeholderend##placeholderstart#, $multiple = false#placeholderend#)#placeholderstart# ; #placeholderend#

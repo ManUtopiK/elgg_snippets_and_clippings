@@ -1,2 +1,0 @@
-#indent#
-_elgg_session_write(#placeholderstart#$id#placeholderend##placeholderstart#, $sess_data#placeholderend#)#placeholderstart# ; #placeholderend#

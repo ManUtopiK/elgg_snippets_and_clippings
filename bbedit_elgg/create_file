@@ -1,0 +1,2 @@
+#indent#
+create_file(#placeholderstart#$filename#placeholderend##placeholderstart#, $rw = "rb"#placeholderend#)#placeholderstart# ; #placeholderend#

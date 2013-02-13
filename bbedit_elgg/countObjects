@@ -1,0 +1,2 @@
+#indent#
+countObjects(#placeholderstart#$subtype = ""#placeholderend#)#placeholderstart# ; #placeholderend#

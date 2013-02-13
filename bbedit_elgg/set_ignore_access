@@ -1,0 +1,2 @@
+#indent#
+set_ignore_access(#placeholderstart#$ignore = true#placeholderend#)#placeholderstart# ; #placeholderend#

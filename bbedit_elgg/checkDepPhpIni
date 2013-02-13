@@ -1,0 +1,2 @@
+#indent#
+checkDepPhpIni(#placeholderstart#$dep#placeholderend##placeholderstart#, $inverse = false#placeholderend#)#placeholderstart# ; #placeholderend#

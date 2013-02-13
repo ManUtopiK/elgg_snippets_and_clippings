@@ -1,0 +1,3 @@
+#indent#
+mb_str_split(#placeholderstart#$string#placeholderend##placeholderstart#, $charset = 'UTF8'#placeholderend#)#placeholderstart# ; #placeholderend##indent#
+mb_str_split(#placeholderstart#$string#placeholderend##placeholderstart#, $charset = 'UTF8'#placeholderend#)#placeholderstart# ; #placeholderend#

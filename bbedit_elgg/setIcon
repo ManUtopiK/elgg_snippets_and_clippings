@@ -1,0 +1,2 @@
+#indent#
+setIcon(#placeholderstart#$url#placeholderend##placeholderstart#, $size = 'medium'#placeholderend#)#placeholderstart# ; #placeholderend#

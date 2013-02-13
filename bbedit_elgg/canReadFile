@@ -1,0 +1,2 @@
+#indent#
+canReadFile(#placeholderstart#$filename#placeholderend#)#placeholderstart# ; #placeholderend#

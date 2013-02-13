@@ -1,0 +1,2 @@
+#indent#
+canAnnotate(#placeholderstart#$user_guid = 0#placeholderend##placeholderstart#, $annotation_name = ''#placeholderend#)#placeholderstart# ; #placeholderend#

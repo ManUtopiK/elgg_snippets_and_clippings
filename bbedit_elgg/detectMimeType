@@ -1,0 +1,2 @@
+#indent#
+detectMimeType(#placeholderstart#$file = null#placeholderend##placeholderstart#, $default = null#placeholderend#)#placeholderstart# ; #placeholderend#

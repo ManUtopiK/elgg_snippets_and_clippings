@@ -1,0 +1,2 @@
+#indent#
+write(#placeholderstart#$data#placeholderend#)#placeholderstart# ; #placeholderend#

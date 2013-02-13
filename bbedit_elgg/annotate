@@ -1,0 +1,2 @@
+#indent#
+annotate(#placeholderstart#$name#placeholderend##placeholderstart#, $value#placeholderend##placeholderstart#, $access_id = ACCESS_PRIVATE#placeholderend##placeholderstart#, $owner_id = 0#placeholderend##placeholderstart#, $vartype = ""#placeholderend#)#placeholderstart# ; #placeholderend#

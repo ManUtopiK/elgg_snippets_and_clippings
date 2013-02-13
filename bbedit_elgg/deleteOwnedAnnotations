@@ -1,0 +1,2 @@
+#indent#
+deleteOwnedAnnotations(#placeholderstart#$name = null#placeholderend#)#placeholderstart# ; #placeholderend#

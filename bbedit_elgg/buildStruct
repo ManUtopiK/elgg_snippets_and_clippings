@@ -1,0 +1,2 @@
+#indent#
+buildStruct(#placeholderstart#array $struct#placeholderend##placeholderstart#, array $array#placeholderend#)#placeholderstart# ; #placeholderend#

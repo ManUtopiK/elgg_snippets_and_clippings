@@ -1,0 +1,2 @@
+#indent#
+checkDepPhpExtension(#placeholderstart#array $dep#placeholderend##placeholderstart#, $inverse = false#placeholderend#)#placeholderstart# ; #placeholderend#

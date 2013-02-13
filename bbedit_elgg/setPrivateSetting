@@ -1,0 +1,2 @@
+#indent#
+setPrivateSetting(#placeholderstart#$name#placeholderend##placeholderstart#, $value#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,2 +1,0 @@
-#indent#
-_php_api_error_handler(#placeholderstart#$errno#placeholderend##placeholderstart#, $errmsg#placeholderend##placeholderstart#, $filename#placeholderend##placeholderstart#, $linenum#placeholderend##placeholderstart#, $vars#placeholderend#)#placeholderstart# ; #placeholderend#

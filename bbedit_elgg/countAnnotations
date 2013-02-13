@@ -1,0 +1,2 @@
+#indent#
+countAnnotations(#placeholderstart#$name = ""#placeholderend#)#placeholderstart# ; #placeholderend#

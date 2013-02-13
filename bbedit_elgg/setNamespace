@@ -1,0 +1,2 @@
+#indent#
+setNamespace(#placeholderstart#$namespace = "default"#placeholderend#)#placeholderstart# ; #placeholderend#

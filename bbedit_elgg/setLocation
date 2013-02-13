@@ -1,0 +1,2 @@
+#indent#
+setLocation(#placeholderstart#$location#placeholderend#)#placeholderstart# ; #placeholderend#

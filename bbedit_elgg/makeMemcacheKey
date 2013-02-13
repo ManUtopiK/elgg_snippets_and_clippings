@@ -1,0 +1,2 @@
+#indent#
+makeMemcacheKey(#placeholderstart#$key#placeholderend#)#placeholderstart# ; #placeholderend#

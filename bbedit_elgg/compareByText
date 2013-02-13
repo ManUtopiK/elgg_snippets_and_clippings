@@ -1,0 +1,2 @@
+#indent#
+compareByText(#placeholderstart#$a#placeholderend##placeholderstart#, $b#placeholderend#)#placeholderstart# ; #placeholderend#

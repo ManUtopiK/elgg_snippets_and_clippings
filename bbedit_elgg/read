@@ -1,0 +1,2 @@
+#indent#
+read(#placeholderstart#$length#placeholderend##placeholderstart#, $offset = 0#placeholderend#)#placeholderstart# ; #placeholderend#

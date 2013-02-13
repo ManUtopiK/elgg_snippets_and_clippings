@@ -1,0 +1,2 @@
+#indent#
+deleteMetadata(#placeholderstart#$name = null#placeholderend#)#placeholderstart# ; #placeholderend#

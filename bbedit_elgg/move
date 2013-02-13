@@ -1,0 +1,2 @@
+#indent#
+move(#placeholderstart#$column#placeholderend##placeholderstart#, $rank#placeholderend#)#placeholderstart# ; #placeholderend#

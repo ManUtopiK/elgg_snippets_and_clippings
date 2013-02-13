@@ -1,0 +1,2 @@
+#indent#
+setLatLong(#placeholderstart#$lat#placeholderend##placeholderstart#, $long#placeholderend#)#placeholderstart# ; #placeholderend#

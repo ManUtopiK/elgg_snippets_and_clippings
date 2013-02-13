@@ -1,0 +1,2 @@
+#indent#
+set_variable(#placeholderstart#$variable#placeholderend##placeholderstart#, $value#placeholderend#)#placeholderstart# ; #placeholderend#

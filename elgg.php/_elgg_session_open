@@ -1,2 +1,0 @@
-#indent#
-_elgg_session_open(#placeholderstart#$save_path#placeholderend##placeholderstart#, $session_name#placeholderend#)#placeholderstart# ; #placeholderend#

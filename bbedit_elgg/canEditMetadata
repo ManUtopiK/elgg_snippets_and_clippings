@@ -1,0 +1,2 @@
+#indent#
+canEditMetadata(#placeholderstart#$metadata = null#placeholderend##placeholderstart#, $user_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

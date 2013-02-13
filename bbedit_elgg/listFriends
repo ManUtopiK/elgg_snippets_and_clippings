@@ -1,0 +1,4 @@
+#indent#
+listFriends(#placeholderstart#$subtype = ""#placeholderend##placeholderstart#, $limit = 10#placeholderend#, array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

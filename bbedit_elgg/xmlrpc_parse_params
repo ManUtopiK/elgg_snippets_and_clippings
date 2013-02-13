@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_parse_params(#placeholderstart#$parameters#placeholderend#)#placeholderstart# ; #placeholderend#

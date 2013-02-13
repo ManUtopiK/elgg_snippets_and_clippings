@@ -1,0 +1,2 @@
+#indent#
+addObjectToGroup(#placeholderstart#ElggObject $object#placeholderend#)#placeholderstart# ; #placeholderend#

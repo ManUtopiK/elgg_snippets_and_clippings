@@ -1,0 +1,2 @@
+#indent#
+getPriority(#placeholderstart#$element#placeholderend##placeholderstart#, $strict = false#placeholderend#)#placeholderstart# ; #placeholderend#

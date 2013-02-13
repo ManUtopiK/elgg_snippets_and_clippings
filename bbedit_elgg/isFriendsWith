@@ -1,0 +1,2 @@
+#indent#
+isFriendsWith(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

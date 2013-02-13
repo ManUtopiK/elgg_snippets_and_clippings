@@ -1,0 +1,2 @@
+#indent#
+removeObject(#placeholderstart#$object_guid#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+canWriteToContainer(#placeholderstart#$user_guid = 0#placeholderend##placeholderstart#, $type = 'all'#placeholderend##placeholderstart#, $subtype = 'all'#placeholderend#)#placeholderstart# ; #placeholderend#

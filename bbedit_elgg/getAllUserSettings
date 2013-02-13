@@ -1,0 +1,2 @@
+#indent#
+getAllUserSettings(#placeholderstart#$user_guid = null#placeholderend#)#placeholderstart# ; #placeholderend#

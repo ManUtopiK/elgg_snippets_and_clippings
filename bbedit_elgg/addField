@@ -1,0 +1,2 @@
+#indent#
+addField(#placeholderstart#$name#placeholderend##placeholderstart#, XMLRPCParameter $value#placeholderend#)#placeholderstart# ; #placeholderend#

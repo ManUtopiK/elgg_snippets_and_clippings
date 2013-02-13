@@ -1,0 +1,2 @@
+#indent#
+removeFromSite(#placeholderstart#$site_guid#placeholderend#)#placeholderstart# ; #placeholderend#

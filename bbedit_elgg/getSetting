@@ -1,0 +1,2 @@
+#indent#
+getSetting(#placeholderstart#$name#placeholderend#)#placeholderstart# ; #placeholderend#

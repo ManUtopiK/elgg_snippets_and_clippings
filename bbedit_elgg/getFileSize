@@ -1,0 +1,2 @@
+#indent#
+getFileSize(#placeholderstart#ElggFile $file#placeholderend#)#placeholderstart# ; #placeholderend#

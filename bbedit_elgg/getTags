@@ -1,0 +1,2 @@
+#indent#
+getTags(#placeholderstart#$tag_names = NULL#placeholderend#)#placeholderstart# ; #placeholderend#

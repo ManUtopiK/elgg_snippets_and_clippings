@@ -1,0 +1,2 @@
+#indent#
+addParameter(#placeholderstart#XMLRPCParameter $param#placeholderend#)#placeholderstart# ; #placeholderend#

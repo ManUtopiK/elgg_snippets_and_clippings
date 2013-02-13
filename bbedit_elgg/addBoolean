@@ -1,0 +1,2 @@
+#indent#
+addBoolean(#placeholderstart#$value#placeholderend#)#placeholderstart# ; #placeholderend#

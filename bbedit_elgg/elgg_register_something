@@ -1,0 +1,2 @@
+#indent#
+elgg_register_something(#placeholderstart#$id#placeholderend##placeholderstart#, $display_name#placeholderend##placeholderstart#, $location#placeholderend##placeholderstart#, $priority = 500#placeholderend#)#placeholderstart# ; #placeholderend#

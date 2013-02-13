@@ -1,0 +1,2 @@
+#indent#
+checkDepElgg(#placeholderstart#array $dep#placeholderend##placeholderstart#, $elgg_version#placeholderend##placeholderstart#, $inverse = false#placeholderend#)#placeholderstart# ; #placeholderend#

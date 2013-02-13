@@ -1,0 +1,4 @@
+#indent#
+authenticate(array(
+	'#insertion#' => #insertion#,
+))#placeholderstart# ; #placeholderend#

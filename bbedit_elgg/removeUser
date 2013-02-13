@@ -1,0 +1,2 @@
+#indent#
+removeUser(#placeholderstart#$user_guid#placeholderend#)#placeholderstart# ; #placeholderend#

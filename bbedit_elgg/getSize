@@ -1,0 +1,2 @@
+#indent#
+getSize(#placeholderstart#$prefix = ''#placeholderend##placeholderstart#, $container_guid#placeholderend#)#placeholderstart# ; #placeholderend#

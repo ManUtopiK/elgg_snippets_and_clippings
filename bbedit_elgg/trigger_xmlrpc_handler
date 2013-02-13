@@ -1,0 +1,2 @@
+#indent#
+trigger_xmlrpc_handler(#placeholderstart#XMLRPCCall $parameters#placeholderend#)#placeholderstart# ; #placeholderend#

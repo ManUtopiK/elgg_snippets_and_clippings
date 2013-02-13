@@ -1,0 +1,2 @@
+#indent#
+getFilestoreSize(#placeholderstart#$prefix = ''#placeholderend##placeholderstart#, $container_guid = 0#placeholderend#)#placeholderstart# ; #placeholderend#

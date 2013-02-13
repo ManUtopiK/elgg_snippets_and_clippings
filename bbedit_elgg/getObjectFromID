@@ -1,0 +1,2 @@
+#indent#
+getObjectFromID(#placeholderstart#$id#placeholderend#)#placeholderstart# ; #placeholderend#

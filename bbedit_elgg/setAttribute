@@ -1,0 +1,2 @@
+#indent#
+setAttribute(#placeholderstart#$key#placeholderend##placeholderstart#, $value#placeholderend#)#placeholderstart# ; #placeholderend#
