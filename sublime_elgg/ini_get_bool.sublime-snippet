@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ini_get_bool(${1:\$ini_get_arg})]]></content>
+    <tabTrigger>ini_get_bool</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the state of a php.ini setting as a bool</description>
+</snippet>

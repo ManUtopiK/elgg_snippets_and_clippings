@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[canEdit(${1:\$user_guid = 0})]]></content>
+    <tabTrigger>canEdit</tabTrigger>
+    <scope>source.php</scope>
+    <description> Determines whether or not the user can edit this piece of metadata</description>
+</snippet>

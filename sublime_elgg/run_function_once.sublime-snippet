@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[run_function_once(${1:\$functionname}, ${2:\$timelastupdatedcheck = 0})]]></content>
+    <tabTrigger>run_function_once</tabTrigger>
+    <scope>source.php</scope>
+    <description>Run a function one time per installation.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[actions_init()]]></content>
+    <tabTrigger>actions_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialize some ajaxy actions features</description>
+</snippet>

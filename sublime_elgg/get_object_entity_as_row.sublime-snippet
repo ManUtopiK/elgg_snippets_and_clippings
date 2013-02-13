@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_object_entity_as_row(${1:\$guid})]]></content>
+    <tabTrigger>get_object_entity_as_row</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the object specific details of a object by a row.</description>
+</snippet>

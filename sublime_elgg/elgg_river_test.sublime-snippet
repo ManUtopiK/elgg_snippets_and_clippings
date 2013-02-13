@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_river_test(${1:\$hook}, ${2:\$type}, ${3:\$value})]]></content>
+    <tabTrigger>elgg_river_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register river unit tests</description>
+</snippet>

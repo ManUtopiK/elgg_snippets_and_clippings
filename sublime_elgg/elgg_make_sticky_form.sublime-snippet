@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_make_sticky_form(${1:\$form_name})]]></content>
+    <tabTrigger>elgg_make_sticky_form</tabTrigger>
+    <scope>source.php</scope>
+    <description>Load all the REQUEST variables into the sticky form cache</description>
+</snippet>

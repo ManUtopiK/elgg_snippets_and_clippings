@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[authenticate_method(${1:\$method})]]></content>
+    <tabTrigger>authenticate_method</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check that the method call has the proper API and user authentication</description>
+</snippet>

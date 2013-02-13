@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[compareByName(${1:\$a}, ${2:\$b})]]></content>
+    <tabTrigger>compareByName</tabTrigger>
+    <scope>source.php</scope>
+    <description> Compare two menu items by their identifiers</description>
+</snippet>

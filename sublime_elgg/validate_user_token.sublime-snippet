@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[validate_user_token(${1:\$token}, ${2:\$site_guid})]]></content>
+    <tabTrigger>validate_user_token</tabTrigger>
+    <scope>source.php</scope>
+    <description>Validate a token against a given site.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addLinkClass(${1:\$class})]]></content>
+    <tabTrigger>addLinkClass</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add a link class</description>
+</snippet>

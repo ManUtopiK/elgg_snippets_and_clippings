@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_generate_plugin_entities()]]></content>
+    <tabTrigger>elgg_generate_plugin_entities</tabTrigger>
+    <scope>source.php</scope>
+    <description>Discovers plugins in the plugins_path setting and creates ElggPlugin</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_normalise_plural_options_array(${1:\$options}, ${2:\$singulars})]]></content>
+    <tabTrigger>elgg_normalise_plural_options_array</tabTrigger>
+    <scope>source.php</scope>
+    <description>Normalise the singular keys in an options array to plural keys.</description>
+</snippet>

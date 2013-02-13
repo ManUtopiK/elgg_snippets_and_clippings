@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_river_item(${1:\$item}, array(
+	'${2:key}' => ${3:value},
+))]]></content>
+    <tabTrigger>elgg_view_river_item</tabTrigger>
+    <scope>source.php</scope>
+    <description>Renders a human-readable representation of a river item</description>
+</snippet>

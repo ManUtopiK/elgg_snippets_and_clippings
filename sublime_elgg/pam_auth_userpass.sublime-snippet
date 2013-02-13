@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[pam_auth_userpass(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>pam_auth_userpass</tabTrigger>
+    <scope>source.php</scope>
+    <description>Hook into the PAM system which accepts a username and password and attempts to authenticate</description>
+</snippet>

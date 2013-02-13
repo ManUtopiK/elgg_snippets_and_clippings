@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_is_valid_view_type(${1:\$view_type})]]></content>
+    <tabTrigger>elgg_is_valid_view_type</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks if $view_type is valid on this installation.</description>
+</snippet>

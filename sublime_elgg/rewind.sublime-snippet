@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rewind()]]></content>
+    <tabTrigger>rewind</tabTrigger>
+    <scope>source.php</scope>
+    <description> Iterator interface</description>
+</snippet>

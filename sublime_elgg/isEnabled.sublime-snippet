@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isEnabled()]]></content>
+    <tabTrigger>isEnabled</tabTrigger>
+    <scope>source.php</scope>
+    <description> Is this entity enabled?</description>
+</snippet>

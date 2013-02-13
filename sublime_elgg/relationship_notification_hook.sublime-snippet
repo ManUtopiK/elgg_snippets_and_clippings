@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[relationship_notification_hook(${1:\$event}, ${2:\$type}, ${3:\$object})]]></content>
+    <tabTrigger>relationship_notification_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Notify user that someone has friended them</description>
+</snippet>

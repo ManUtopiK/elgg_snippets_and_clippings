@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isActive(${1:\$site_guid = null})]]></content>
+    <tabTrigger>isActive</tabTrigger>
+    <scope>source.php</scope>
+    <description> Is this plugin active?</description>
+</snippet>

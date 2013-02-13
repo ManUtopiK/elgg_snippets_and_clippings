@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addChild(${1:\$item})]]></content>
+    <tabTrigger>addChild</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add a child menu item</description>
+</snippet>

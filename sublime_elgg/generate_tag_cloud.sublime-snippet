@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[generate_tag_cloud(${1:array \$tags}, ${2:\$buckets = 6})]]></content>
+    <tabTrigger>generate_tag_cloud</tabTrigger>
+    <scope>source.php</scope>
+    <description>This function generates an array of tags with a weighting.</description>
+</snippet>

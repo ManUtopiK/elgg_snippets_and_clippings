@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getScreenshots()]]></content>
+    <tabTrigger>getScreenshots</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the screenshots listed.</description>
+</snippet>

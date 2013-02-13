@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_plugin_setting(${1:\$name}, ${2:\$value}, ${3:\$plugin_id = null})]]></content>
+    <tabTrigger>elgg_set_plugin_setting</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set a setting for a plugin.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkDepPriority(${1:array \$dep}, ${2:array \$plugins}, ${3:\$inverse = false})]]></content>
+    <tabTrigger>checkDepPriority</tabTrigger>
+    <scope>source.php</scope>
+    <description> Checks if $plugins meets the requirement by $dep.</description>
+</snippet>

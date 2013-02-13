@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[execute_delayed_query(${1:\$query}, ${2:\$dblink}, ${3:\$handler = ""})]]></content>
+    <tabTrigger>execute_delayed_query</tabTrigger>
+    <scope>source.php</scope>
+    <description>Queue a query for execution upon shutdown.</description>
+</snippet>

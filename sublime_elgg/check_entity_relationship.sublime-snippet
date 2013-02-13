@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[check_entity_relationship(${1:\$guid_one}, ${2:\$relationship}, ${3:\$guid_two})]]></content>
+    <tabTrigger>check_entity_relationship</tabTrigger>
+    <scope>source.php</scope>
+    <description>Determine if a relationship between two entities exists</description>
+</snippet>

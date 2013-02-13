@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_view_entity_annotations(${1:ElggEntity \$entity}, ${2:\$full_view = true})]]></content>
+    <tabTrigger>elgg_view_entity_annotations</tabTrigger>
+    <scope>source.php</scope>
+    <description>Display a plugin-specified rendered list of annotations for an entity.</description>
+</snippet>

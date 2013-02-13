@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_user(${1:\$guid})]]></content>
+    <tabTrigger>get_user</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get a user object from a GUID.</description>
+</snippet>

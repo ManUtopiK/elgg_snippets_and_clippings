@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBlurb()]]></content>
+    <tabTrigger>getBlurb</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the short description</description>
+</snippet>

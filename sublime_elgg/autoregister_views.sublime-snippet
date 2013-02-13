@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[autoregister_views(${1:\$view_base}, ${2:\$folder}, ${3:\$base_location_path}, ${4:\$viewtype})]]></content>
+    <tabTrigger>autoregister_views</tabTrigger>
+    <scope>source.php</scope>
+    <description>Auto-registers views from a location.</description>
+</snippet>

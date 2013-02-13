@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disable_user_entities(${1:\$owner_guid})]]></content>
+    <tabTrigger>disable_user_entities</tabTrigger>
+    <scope>source.php</scope>
+    <description>Disables all of a user's entities</description>
+</snippet>

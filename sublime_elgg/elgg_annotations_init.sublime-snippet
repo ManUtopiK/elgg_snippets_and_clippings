@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_annotations_init()]]></content>
+    <tabTrigger>elgg_annotations_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialize the annotation library</description>
+</snippet>

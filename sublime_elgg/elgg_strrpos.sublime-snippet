@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_strrpos()]]></content>
+    <tabTrigger>elgg_strrpos</tabTrigger>
+    <scope>source.php</scope>
+    <description>Wrapper function for mb_strrpos(). Falls back to strrpos() if</description>
+</snippet>

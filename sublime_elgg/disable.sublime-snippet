@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disable(${1:\$reason = ""}, ${2:\$recursive = true})]]></content>
+    <tabTrigger>disable</tabTrigger>
+    <scope>source.php</scope>
+    <description> Disable the site</description>
+</snippet>

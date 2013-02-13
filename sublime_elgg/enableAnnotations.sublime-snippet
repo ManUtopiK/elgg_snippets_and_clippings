@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableAnnotations(${1:\$name = ''})]]></content>
+    <tabTrigger>enableAnnotations</tabTrigger>
+    <scope>source.php</scope>
+    <description> Enables annotations for this entity, optionally based on name.</description>
+</snippet>

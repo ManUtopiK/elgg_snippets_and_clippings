@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initializeAttributes()]]></content>
+    <tabTrigger>initializeAttributes</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set subtype to widget.</description>
+</snippet>

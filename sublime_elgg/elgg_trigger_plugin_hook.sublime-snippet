@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_trigger_plugin_hook(${1:\$hook}, ${2:\$type}, ${3:\$params = null}, ${4:\$returnvalue = null})]]></content>
+    <tabTrigger>elgg_trigger_plugin_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Trigger a Plugin Hook and run all handler callbacks registered to that hook:type.</description>
+</snippet>

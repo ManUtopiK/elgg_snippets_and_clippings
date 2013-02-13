@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unexpose_function(${1:\$method})]]></content>
+    <tabTrigger>unexpose_function</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unregister an API method</description>
+</snippet>

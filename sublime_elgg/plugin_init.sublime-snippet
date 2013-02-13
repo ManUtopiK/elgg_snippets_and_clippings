@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[plugin_init()]]></content>
+    <tabTrigger>plugin_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialize the plugin system</description>
+</snippet>

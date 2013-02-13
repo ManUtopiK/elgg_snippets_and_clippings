@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_all_plugin_user_settings(${1:\$user_guid = null}, ${2:\$plugin_id = null}, ${3:\$return_obj = false})]]></content>
+    <tabTrigger>elgg_get_all_plugin_user_settings</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns an array of all plugin settings for a user.</description>
+</snippet>

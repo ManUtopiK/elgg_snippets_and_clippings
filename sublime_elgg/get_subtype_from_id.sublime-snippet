@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_subtype_from_id(${1:\$subtype_id})]]></content>
+    <tabTrigger>get_subtype_from_id</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return string name for a given subtype ID.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[entity_row_to_elggstar(${1:\$row})]]></content>
+    <tabTrigger>entity_row_to_elggstar</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create an Elgg* object from a given entity row.</description>
+</snippet>

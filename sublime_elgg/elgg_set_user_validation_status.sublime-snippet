@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_user_validation_status(${1:\$user_guid}, ${2:\$status}, ${3:\$method = ''})]]></content>
+    <tabTrigger>elgg_set_user_validation_status</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set the validation status for a user.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_max_plugin_priority()]]></content>
+    <tabTrigger>elgg_get_max_plugin_priority</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the highest priority of the plugins</description>
+</snippet>

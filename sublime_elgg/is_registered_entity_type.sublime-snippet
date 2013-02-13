@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[is_registered_entity_type(${1:\$type}, ${2:\$subtype = null})]]></content>
+    <tabTrigger>is_registered_entity_type</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns if the entity type and subtype have been registered with {@see elgg_register_entity_type()}.</description>
+</snippet>

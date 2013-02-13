@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_image_resize_parameters(${1:\$width}, ${2:\$height}, ${3:\$options})]]></content>
+    <tabTrigger>get_image_resize_parameters</tabTrigger>
+    <scope>source.php</scope>
+    <description>Calculate the parameters for resizing an image</description>
+</snippet>

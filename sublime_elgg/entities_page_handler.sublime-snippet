@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[entities_page_handler(${1:\$page})]]></content>
+    <tabTrigger>entities_page_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Page handler for generic entities view system</description>
+</snippet>

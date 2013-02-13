@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHref()]]></content>
+    <tabTrigger>getHref</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the URL of the menu item</description>
+</snippet>

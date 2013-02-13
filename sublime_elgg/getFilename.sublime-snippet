@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFilename()]]></content>
+    <tabTrigger>getFilename</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the filename.</description>
+</snippet>

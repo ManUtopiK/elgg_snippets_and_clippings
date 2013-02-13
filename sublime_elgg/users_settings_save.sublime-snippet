@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[users_settings_save()]]></content>
+    <tabTrigger>users_settings_save</tabTrigger>
+    <scope>source.php</scope>
+    <description>Saves user settings.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_entities_get_metastrings_options(${1:\$type}, ${2:\$options})]]></content>
+    <tabTrigger>elgg_entities_get_metastrings_options</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns options to pass to elgg_get_entities() for metastrings operations.</description>
+</snippet>

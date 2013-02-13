@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFilestore(${1:ElggFilestore \$filestore})]]></content>
+    <tabTrigger>setFilestore</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set a filestore.</description>
+</snippet>

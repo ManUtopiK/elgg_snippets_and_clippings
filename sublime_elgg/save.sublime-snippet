@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[save()]]></content>
+    <tabTrigger>save</tabTrigger>
+    <scope>source.php</scope>
+    <description> Saves this user to the database.</description>
+</snippet>

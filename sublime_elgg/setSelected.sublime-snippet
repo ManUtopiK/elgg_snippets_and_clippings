@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSelected(${1:\$state = true})]]></content>
+    <tabTrigger>setSelected</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the selected flag</description>
+</snippet>

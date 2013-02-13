@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unsetUserSetting(${1:\$name}, ${2:\$user_guid = null})]]></content>
+    <tabTrigger>unsetUserSetting</tabTrigger>
+    <scope>source.php</scope>
+    <description> Removes a user setting name and value.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calculate_posthash(${1:\$postdata}, ${2:\$algo})]]></content>
+    <tabTrigger>calculate_posthash</tabTrigger>
+    <scope>source.php</scope>
+    <description>Calculate a hash for some post data.</description>
+</snippet>

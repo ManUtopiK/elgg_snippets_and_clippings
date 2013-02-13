@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sites_test(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>sites_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unit tests for sites</description>
+</snippet>

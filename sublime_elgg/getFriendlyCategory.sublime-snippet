@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFriendlyCategory(${1:\$category})]]></content>
+    <tabTrigger>getFriendlyCategory</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns a category's friendly name. This can be localized by</description>
+</snippet>

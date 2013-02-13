@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[page_handler_init()]]></content>
+    <tabTrigger>page_handler_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initializes the page handler/routing system</description>
+</snippet>

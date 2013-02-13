@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[xmlrpc_scalar_value(${1:\$object})]]></content>
+    <tabTrigger>xmlrpc_scalar_value</tabTrigger>
+    <scope>source.php</scope>
+    <description>Extract the scalar value of an XMLObject type result array</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_enable_metadata(${1:array \$options})]]></content>
+    <tabTrigger>elgg_enable_metadata</tabTrigger>
+    <scope>source.php</scope>
+    <description>Enables metadata based on $options.</description>
+</snippet>

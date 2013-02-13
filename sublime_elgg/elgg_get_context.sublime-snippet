@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_context()]]></content>
+    <tabTrigger>elgg_get_context</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the current context.</description>
+</snippet>

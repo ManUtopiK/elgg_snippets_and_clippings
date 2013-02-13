@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isSaneDeps()]]></content>
+    <tabTrigger>isSaneDeps</tabTrigger>
+    <scope>source.php</scope>
+    <description> Check the plugin doesn't require or conflict with itself</description>
+</snippet>

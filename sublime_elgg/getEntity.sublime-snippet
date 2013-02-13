@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEntity()]]></content>
+    <tabTrigger>getEntity</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the entity this describes.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[filestore_test(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>filestore_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unit tests for files</description>
+</snippet>

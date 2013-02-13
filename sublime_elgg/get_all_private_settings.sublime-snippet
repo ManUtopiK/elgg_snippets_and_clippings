@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_all_private_settings(${1:\$entity_guid})]]></content>
+    <tabTrigger>get_all_private_settings</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return an array of all private settings.</description>
+</snippet>

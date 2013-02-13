@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[send_api_get_call(${1:\$url}, ${2:array \$call}, ${3:array \$keys})]]></content>
+    <tabTrigger>send_api_get_call</tabTrigger>
+    <scope>source.php</scope>
+    <description>Send a GET call</description>
+</snippet>

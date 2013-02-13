@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_logged_in_user_entity()]]></content>
+    <tabTrigger>elgg_get_logged_in_user_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the current logged in user, or NULL if no user is logged in.</description>
+</snippet>

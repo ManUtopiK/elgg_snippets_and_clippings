@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[create_file(${1:\$filename}, ${2:\$rw = "rb"})]]></content>
+    <tabTrigger>create_file</tabTrigger>
+    <scope>source.php</scope>
+    <description> Create and return a handle to a file.</description>
+</snippet>

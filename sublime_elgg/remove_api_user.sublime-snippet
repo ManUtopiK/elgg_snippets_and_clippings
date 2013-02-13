@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove_api_user(${1:\$site_guid}, ${2:\$api_key})]]></content>
+    <tabTrigger>remove_api_user</tabTrigger>
+    <scope>source.php</scope>
+    <description>Revoke an api user key.</description>
+</snippet>

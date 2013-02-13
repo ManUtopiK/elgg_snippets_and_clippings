@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setContainer(${1:\$container_guid})]]></content>
+    <tabTrigger>setContainer</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the container for this object.</description>
+</snippet>

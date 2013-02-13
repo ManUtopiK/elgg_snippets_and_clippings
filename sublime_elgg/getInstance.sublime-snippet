@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getInstance(${1:\$result})]]></content>
+    <tabTrigger>getInstance</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns a new instance of this class</description>
+</snippet>

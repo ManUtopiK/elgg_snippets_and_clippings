@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_standard_api_key_array(${1:\$secret_key}, ${2:\$api_key})]]></content>
+    <tabTrigger>get_standard_api_key_array</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return a key array suitable for the API client using the standard</description>
+</snippet>

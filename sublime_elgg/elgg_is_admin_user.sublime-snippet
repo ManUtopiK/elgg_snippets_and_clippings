@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_is_admin_user(${1:\$user_guid})]]></content>
+    <tabTrigger>elgg_is_admin_user</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check if the given user has full access.</description>
+</snippet>

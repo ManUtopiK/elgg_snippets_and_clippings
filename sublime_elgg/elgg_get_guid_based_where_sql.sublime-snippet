@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_guid_based_where_sql(${1:\$column}, ${2:\$guids})]]></content>
+    <tabTrigger>elgg_get_guid_based_where_sql</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns SQL where clause for owner and containers.</description>
+</snippet>

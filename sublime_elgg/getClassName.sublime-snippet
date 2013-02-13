@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getClassName()]]></content>
+    <tabTrigger>getClassName</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the class name of the object.</description>
+</snippet>

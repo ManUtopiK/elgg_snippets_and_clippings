@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[access_get_show_hidden_status()]]></content>
+    <tabTrigger>access_get_show_hidden_status</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return current status of showing disabled entities.</description>
+</snippet>

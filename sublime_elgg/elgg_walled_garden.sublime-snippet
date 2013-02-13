@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_walled_garden()]]></content>
+    <tabTrigger>elgg_walled_garden</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks the status of the Walled Garden and forwards to a login page</description>
+</snippet>

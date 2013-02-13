@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCopyright()]]></content>
+    <tabTrigger>getCopyright</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the copyright</description>
+</snippet>

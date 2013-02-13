@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[user_remove_friend(${1:\$user_guid}, ${2:\$friend_guid})]]></content>
+    <tabTrigger>user_remove_friend</tabTrigger>
+    <scope>source.php</scope>
+    <description>Removes a user from another user's friends list.</description>
+</snippet>

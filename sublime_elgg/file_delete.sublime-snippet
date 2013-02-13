@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[file_delete(${1:\$guid})]]></content>
+    <tabTrigger>file_delete</tabTrigger>
+    <scope>source.php</scope>
+    <description>Delete an ElggFile file</description>
+</snippet>

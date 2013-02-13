@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getObjectEntity()]]></content>
+    <tabTrigger>getObjectEntity</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the object of this river item</description>
+</snippet>

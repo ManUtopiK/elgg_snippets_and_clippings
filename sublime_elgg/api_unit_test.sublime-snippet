@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[api_unit_test(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>api_unit_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unit tests for API</description>
+</snippet>

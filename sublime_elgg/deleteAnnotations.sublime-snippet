@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[deleteAnnotations(${1:\$name = null})]]></content>
+    <tabTrigger>deleteAnnotations</tabTrigger>
+    <scope>source.php</scope>
+    <description> Deletes all annotations on this object (annotations.entity_guid = $this->guid).</description>
+</snippet>

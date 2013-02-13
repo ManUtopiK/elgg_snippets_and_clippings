@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_calling_plugin_id(${1:\$mainfilename = false})]]></content>
+    <tabTrigger>elgg_get_calling_plugin_id</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the name of the most recent plugin to be called in the</description>
+</snippet>

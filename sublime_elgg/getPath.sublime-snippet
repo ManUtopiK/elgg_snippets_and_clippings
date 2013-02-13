@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPath()]]></content>
+    <tabTrigger>getPath</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns the plugin's full path with trailing slash.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_plugins_path()]]></content>
+    <tabTrigger>elgg_get_plugins_path</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the plugin path for this installation</description>
+</snippet>

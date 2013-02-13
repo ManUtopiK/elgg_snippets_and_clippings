@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_user_by_email(${1:\$email})]]></content>
+    <tabTrigger>get_user_by_email</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get an array of users from an email address</description>
+</snippet>

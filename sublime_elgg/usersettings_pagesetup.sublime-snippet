@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[usersettings_pagesetup()]]></content>
+    <tabTrigger>usersettings_pagesetup</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set up the menu for user settings</description>
+</snippet>

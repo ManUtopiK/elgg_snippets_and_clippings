@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableMetadata(${1:\$name = ''})]]></content>
+    <tabTrigger>enableMetadata</tabTrigger>
+    <scope>source.php</scope>
+    <description> Enables metadata for this entity, optionally based on name.</description>
+</snippet>

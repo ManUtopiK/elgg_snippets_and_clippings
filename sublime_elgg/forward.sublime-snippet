@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[forward(${1:\$location = ""}, ${2:\$reason = 'system'})]]></content>
+    <tabTrigger>forward</tabTrigger>
+    <scope>source.php</scope>
+    <description>Forward to $location.</description>
+</snippet>

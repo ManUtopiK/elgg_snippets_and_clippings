@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[deleteOwnedMetadata(${1:\$name = null})]]></content>
+    <tabTrigger>deleteOwnedMetadata</tabTrigger>
+    <scope>source.php</scope>
+    <description> Deletes all metadata owned by this object (metadata.owner_guid = $this->guid).</description>
+</snippet>

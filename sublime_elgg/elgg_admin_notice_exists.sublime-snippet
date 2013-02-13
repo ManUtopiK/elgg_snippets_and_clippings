@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_admin_notice_exists(${1:\$id})]]></content>
+    <tabTrigger>elgg_admin_notice_exists</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check if an admin notice is currently active.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_readable_access_level(${1:\$entity_access_id})]]></content>
+    <tabTrigger>get_readable_access_level</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the name of an ACCESS_* constant or a access collection,</description>
+</snippet>

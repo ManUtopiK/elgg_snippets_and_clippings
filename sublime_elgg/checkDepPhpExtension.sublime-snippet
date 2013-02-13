@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkDepPhpExtension(${1:array \$dep}, ${2:\$inverse = false})]]></content>
+    <tabTrigger>checkDepPhpExtension</tabTrigger>
+    <scope>source.php</scope>
+    <description> Checks if the PHP extension in $dep is loaded.</description>
+</snippet>

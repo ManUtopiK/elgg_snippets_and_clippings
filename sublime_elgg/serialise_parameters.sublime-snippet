@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[serialise_parameters(${1:\$method}, ${2:\$parameters})]]></content>
+    <tabTrigger>serialise_parameters</tabTrigger>
+    <scope>source.php</scope>
+    <description>Serialize an array of parameters for an API method call</description>
+</snippet>

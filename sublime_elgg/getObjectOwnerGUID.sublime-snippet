@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getObjectOwnerGUID()]]></content>
+    <tabTrigger>getObjectOwnerGUID</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the GUID of the owner of this object.</description>
+</snippet>

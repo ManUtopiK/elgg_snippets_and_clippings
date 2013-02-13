@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSize(${1:\$prefix = ''}, ${2:\$container_guid})]]></content>
+    <tabTrigger>getSize</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns the size of all data stored under a directory in the disk store.</description>
+</snippet>

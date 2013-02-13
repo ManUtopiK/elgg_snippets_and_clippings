@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_simplecache_view(${1:\$viewname})]]></content>
+    <tabTrigger>elgg_register_simplecache_view</tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers a view to simple cache.</description>
+</snippet>

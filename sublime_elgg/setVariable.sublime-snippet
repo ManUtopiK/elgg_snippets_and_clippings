@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVariable(${1:\$variable}, ${2:\$value})]]></content>
+    <tabTrigger>setVariable</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set a cache variable.</description>
+</snippet>

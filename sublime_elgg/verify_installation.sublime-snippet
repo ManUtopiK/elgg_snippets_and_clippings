@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[verify_installation()]]></content>
+    <tabTrigger>verify_installation</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check that installation has completed and the database is populated.</description>
+</snippet>

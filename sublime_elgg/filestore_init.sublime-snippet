@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[filestore_init()]]></content>
+    <tabTrigger>filestore_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialise the file modules.</description>
+</snippet>

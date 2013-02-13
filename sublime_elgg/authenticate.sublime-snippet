@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[authenticate(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>authenticate</tabTrigger>
+    <scope>source.php</scope>
+    <description> Authenticate a set of credentials against a policy</description>
+</snippet>

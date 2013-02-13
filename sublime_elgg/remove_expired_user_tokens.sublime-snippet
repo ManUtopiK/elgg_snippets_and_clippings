@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove_expired_user_tokens()]]></content>
+    <tabTrigger>remove_expired_user_tokens</tabTrigger>
+    <scope>source.php</scope>
+    <description>Remove expired tokens</description>
+</snippet>

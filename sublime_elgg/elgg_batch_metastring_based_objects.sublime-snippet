@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_batch_metastring_based_objects(${1:array \$options}, ${2:\$callback}, ${3:\$inc_offset = true})]]></content>
+    <tabTrigger>elgg_batch_metastring_based_objects</tabTrigger>
+    <scope>source.php</scope>
+    <description>Runs metastrings-based objects found using $options through $callback</description>
+</snippet>

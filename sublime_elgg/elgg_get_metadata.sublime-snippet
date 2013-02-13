@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_get_metadata(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_get_metadata</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns metadata.  Accepts all elgg_get_entities() options for entity</description>
+</snippet>

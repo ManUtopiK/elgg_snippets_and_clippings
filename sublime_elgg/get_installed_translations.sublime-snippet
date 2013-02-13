@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_installed_translations()]]></content>
+    <tabTrigger>get_installed_translations</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return an array of installed translations as an associative</description>
+</snippet>

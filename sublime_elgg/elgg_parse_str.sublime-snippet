@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_parse_str(${1:\$str})]]></content>
+    <tabTrigger>elgg_parse_str</tabTrigger>
+    <scope>source.php</scope>
+    <description>Parses a string using mb_parse_str() if available.</description>
+</snippet>

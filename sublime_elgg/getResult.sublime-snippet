@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getResult()]]></content>
+    <tabTrigger>getResult</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the current result</description>
+</snippet>

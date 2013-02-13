@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[check_rate_limit_exceeded(${1:\$user_guid})]]></content>
+    <tabTrigger>check_rate_limit_exceeded</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks if the rate limit of failed logins has been exceeded for $user_guid.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_translation(${1:\$country_code}, ${2:\$language_array})]]></content>
+    <tabTrigger>add_translation</tabTrigger>
+    <scope>source.php</scope>
+    <description>Add a translation.</description>
+</snippet>

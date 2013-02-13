@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[join(${1:ElggUser \$user})]]></content>
+    <tabTrigger>join</tabTrigger>
+    <scope>source.php</scope>
+    <description> Join an elgg user to this group.</description>
+</snippet>

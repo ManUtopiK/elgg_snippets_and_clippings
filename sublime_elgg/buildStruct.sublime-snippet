@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[buildStruct(${1:array \$struct}, ${2:array \$array})]]></content>
+    <tabTrigger>buildStruct</tabTrigger>
+    <scope>source.php</scope>
+    <description> Normalizes an array into the structure specified</description>
+</snippet>

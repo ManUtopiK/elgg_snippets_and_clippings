@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_authenticate(${1:\$username}, ${2:\$password})]]></content>
+    <tabTrigger>elgg_authenticate</tabTrigger>
+    <scope>source.php</scope>
+    <description>Perform user authentication with a given username and password.</description>
+</snippet>

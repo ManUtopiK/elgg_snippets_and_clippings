@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLongitude()]]></content>
+    <tabTrigger>getLongitude</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the entity's longitude</description>
+</snippet>

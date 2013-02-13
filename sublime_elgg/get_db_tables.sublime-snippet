@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_db_tables()]]></content>
+    <tabTrigger>get_db_tables</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return tables matching the database prefix {@link $CONFIG->dbprefix}% in the currently</description>
+</snippet>

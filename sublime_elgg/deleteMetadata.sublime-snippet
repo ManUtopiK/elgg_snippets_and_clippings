@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[deleteMetadata(${1:\$name = null})]]></content>
+    <tabTrigger>deleteMetadata</tabTrigger>
+    <scope>source.php</scope>
+    <description> Deletes all metadata on this object (metadata.entity_guid = $this->guid).</description>
+</snippet>

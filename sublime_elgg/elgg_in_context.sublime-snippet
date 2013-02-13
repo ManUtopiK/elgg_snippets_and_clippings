@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_in_context(${1:\$context})]]></content>
+    <tabTrigger>elgg_in_context</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check if this context exists anywhere in the stack</description>
+</snippet>

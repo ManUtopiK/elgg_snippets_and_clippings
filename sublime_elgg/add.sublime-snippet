@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add(${1:\$element}, ${2:\$priority = null}, ${3:\$exact = false})]]></content>
+    <tabTrigger>add</tabTrigger>
+    <scope>source.php</scope>
+    <description> Adds an element to the list.</description>
+</snippet>

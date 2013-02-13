@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_plugin_user_setting(${1:\$name}, ${2:\$user_guid = null}, ${3:\$plugin_id = null})]]></content>
+    <tabTrigger>elgg_get_plugin_user_setting</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get a user specific setting for a plugin.</description>
+</snippet>

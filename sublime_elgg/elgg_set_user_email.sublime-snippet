@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_user_email()]]></content>
+    <tabTrigger>elgg_set_user_email</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set a user's email address</description>
+</snippet>

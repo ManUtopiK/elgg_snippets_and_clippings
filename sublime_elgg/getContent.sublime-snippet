@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[getContent(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>getContent</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the menu item content (usually a link)</description>
+</snippet>

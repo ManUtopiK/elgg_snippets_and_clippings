@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMetaData(${1:\$name}, ${2:\$value}, ${3:\$value_type = null}, ${4:\$multiple = false})]]></content>
+    <tabTrigger>setMetaData</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set a piece of metadata.</description>
+</snippet>

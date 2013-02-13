@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[countObjects(${1:\$subtype = ""})]]></content>
+    <tabTrigger>countObjects</tabTrigger>
+    <scope>source.php</scope>
+    <description> Counts the number of ElggObjects owned by this user</description>
+</snippet>

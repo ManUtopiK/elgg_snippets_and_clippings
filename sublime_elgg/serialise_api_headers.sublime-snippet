@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[serialise_api_headers(${1:array \$headers})]]></content>
+    <tabTrigger>serialise_api_headers</tabTrigger>
+    <scope>source.php</scope>
+    <description>Utility function to serialise a header array into its text representation.</description>
+</snippet>

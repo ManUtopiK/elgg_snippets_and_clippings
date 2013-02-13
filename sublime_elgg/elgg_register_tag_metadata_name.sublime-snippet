@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_tag_metadata_name(${1:\$name})]]></content>
+    <tabTrigger>elgg_register_tag_metadata_name</tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers a metadata name as containing tags for an entity.</description>
+</snippet>

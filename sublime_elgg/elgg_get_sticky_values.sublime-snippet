@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_sticky_values(${1:\$form_name}, ${2:\$filter_result = true})]]></content>
+    <tabTrigger>elgg_get_sticky_values</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get all the values in a sticky form in an array</description>
+</snippet>

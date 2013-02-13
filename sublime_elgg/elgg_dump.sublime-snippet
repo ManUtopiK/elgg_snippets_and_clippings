@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_dump(${1:\$value}, ${2:\$to_screen = TRUE}, ${3:\$level = 'NOTICE'})]]></content>
+    <tabTrigger>elgg_dump</tabTrigger>
+    <scope>source.php</scope>
+    <description>Logs or displays $value.</description>
+</snippet>

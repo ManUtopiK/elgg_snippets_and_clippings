@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_unregister_widget_type(${1:\$handler})]]></content>
+    <tabTrigger>elgg_unregister_widget_type</tabTrigger>
+    <scope>source.php</scope>
+    <description>Remove a widget type</description>
+</snippet>

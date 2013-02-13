@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[seek(${1:\$position})]]></content>
+    <tabTrigger>seek</tabTrigger>
+    <scope>source.php</scope>
+    <description> Seek a position in the file.</description>
+</snippet>

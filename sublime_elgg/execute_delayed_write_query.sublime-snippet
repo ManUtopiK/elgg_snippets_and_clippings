@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[execute_delayed_write_query(${1:\$query}, ${2:\$handler = ""})]]></content>
+    <tabTrigger>execute_delayed_write_query</tabTrigger>
+    <scope>source.php</scope>
+    <description>Write wrapper for execute_delayed_query()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getText()]]></content>
+    <tabTrigger>getText</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the display text of the menu item</description>
+</snippet>

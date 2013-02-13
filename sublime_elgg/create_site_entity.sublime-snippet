@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[create_site_entity(${1:\$guid}, ${2:\$name}, ${3:\$description}, ${4:\$url})]]></content>
+    <tabTrigger>create_site_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create or update the entities table for a given site.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_title_button(${1:\$handler = null}, ${2:\$name = 'add'})]]></content>
+    <tabTrigger>elgg_register_title_button</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convenience function for registering a button to title menu</description>
+</snippet>

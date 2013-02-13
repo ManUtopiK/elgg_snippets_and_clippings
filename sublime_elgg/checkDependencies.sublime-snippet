@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkDependencies(${1:\$full_report = false})]]></content>
+    <tabTrigger>checkDependencies</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns if the Elgg system meets the plugin's dependency</description>
+</snippet>

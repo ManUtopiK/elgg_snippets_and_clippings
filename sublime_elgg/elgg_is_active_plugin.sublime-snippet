@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_is_active_plugin(${1:\$plugin_id}, ${2:\$site_guid = null})]]></content>
+    <tabTrigger>elgg_is_active_plugin</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns if a plugin is active for a current site.</description>
+</snippet>

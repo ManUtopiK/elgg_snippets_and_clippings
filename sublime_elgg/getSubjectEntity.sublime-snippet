@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSubjectEntity()]]></content>
+    <tabTrigger>getSubjectEntity</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the subject of this river item</description>
+</snippet>

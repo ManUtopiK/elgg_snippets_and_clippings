@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[update_river_access_by_object(${1:\$object_guid}, ${2:\$access_id})]]></content>
+    <tabTrigger>update_river_access_by_object</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sets the access ID on river items for a particular object</description>
+</snippet>

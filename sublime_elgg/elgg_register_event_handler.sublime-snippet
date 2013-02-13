@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_event_handler(${1:\$event}, ${2:\$object_type}, ${3:\$callback}, ${4:\$priority = 500})]]></content>
+    <tabTrigger>elgg_register_event_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register a callback as an Elgg event handler.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_walled_garden_index(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>elgg_walled_garden_index</tabTrigger>
+    <scope>source.php</scope>
+    <description>Intercepts the index page when Walled Garden mode is enabled.</description>
+</snippet>

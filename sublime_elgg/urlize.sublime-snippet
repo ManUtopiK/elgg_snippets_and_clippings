@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[urlize(${1:\$string}, ${2:\$separator = '-'})]]></content>
+    <tabTrigger>urlize</tabTrigger>
+    <scope>source.php</scope>
+    <description> Create a version of a string for embedding in a URL</description>
+</snippet>

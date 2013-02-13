@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_view_location(${1:\$view}, ${2:\$viewtype = ''})]]></content>
+    <tabTrigger>elgg_get_view_location</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the file location for a view.</description>
+</snippet>

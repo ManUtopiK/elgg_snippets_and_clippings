@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ban(${1:\$reason = ""})]]></content>
+    <tabTrigger>ban</tabTrigger>
+    <scope>source.php</scope>
+    <description> Ban this user.</description>
+</snippet>

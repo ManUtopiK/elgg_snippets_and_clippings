@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getItemClass()]]></content>
+    <tabTrigger>getItemClass</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the li classes as text</description>
+</snippet>

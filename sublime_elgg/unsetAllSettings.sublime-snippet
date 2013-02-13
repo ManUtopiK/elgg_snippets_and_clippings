@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unsetAllSettings()]]></content>
+    <tabTrigger>unsetAllSettings</tabTrigger>
+    <scope>source.php</scope>
+    <description> Removes all settings for this plugin.</description>
+</snippet>

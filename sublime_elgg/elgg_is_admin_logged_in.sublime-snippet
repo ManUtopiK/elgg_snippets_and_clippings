@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_is_admin_logged_in()]]></content>
+    <tabTrigger>elgg_is_admin_logged_in</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns whether or not the user is currently logged in and that they are an admin user.</description>
+</snippet>

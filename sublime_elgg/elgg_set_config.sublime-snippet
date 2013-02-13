@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_config(${1:\$name}, ${2:\$value})]]></content>
+    <tabTrigger>elgg_set_config</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set an Elgg configuration value</description>
+</snippet>

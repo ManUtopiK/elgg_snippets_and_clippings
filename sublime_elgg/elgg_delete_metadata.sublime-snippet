@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_delete_metadata(${1:array \$options})]]></content>
+    <tabTrigger>elgg_delete_metadata</tabTrigger>
+    <scope>source.php</scope>
+    <description>Deletes metadata based on $options.</description>
+</snippet>

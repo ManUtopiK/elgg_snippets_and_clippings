@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove_entity_relationship(${1:\$guid_one}, ${2:\$relationship}, ${3:\$guid_two})]]></content>
+    <tabTrigger>remove_entity_relationship</tabTrigger>
+    <scope>source.php</scope>
+    <description>Remove an arbitrary relationship between two entities.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[close()]]></content>
+    <tabTrigger>close</tabTrigger>
+    <scope>source.php</scope>
+    <description> Close the file and commit changes</description>
+</snippet>

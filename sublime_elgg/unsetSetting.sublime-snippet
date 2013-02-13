@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unsetSetting(${1:\$name})]]></content>
+    <tabTrigger>unsetSetting</tabTrigger>
+    <scope>source.php</scope>
+    <description> Removes a plugin setting name and value.</description>
+</snippet>

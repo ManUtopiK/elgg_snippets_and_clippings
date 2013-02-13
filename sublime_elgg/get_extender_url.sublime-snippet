@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_extender_url(${1:ElggExtender \$extender})]]></content>
+    <tabTrigger>get_extender_url</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the URL of a given elgg extender.</description>
+</snippet>

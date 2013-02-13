@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[can_edit_access_collection(${1:\$collection_id}, ${2:\$user_guid = null})]]></content>
+    <tabTrigger>can_edit_access_collection</tabTrigger>
+    <scope>source.php</scope>
+    <description>Can the user change this access collection?</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_online_users()]]></content>
+    <tabTrigger>get_online_users</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return a list of how many users are currently online, rendered as a view.</description>
+</snippet>

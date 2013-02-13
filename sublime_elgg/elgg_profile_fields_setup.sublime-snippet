@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_profile_fields_setup()]]></content>
+    <tabTrigger>elgg_profile_fields_setup</tabTrigger>
+    <scope>source.php</scope>
+    <description>This function loads a set of default fields into the profile, then triggers a hook letting other plugins to edit</description>
+</snippet>

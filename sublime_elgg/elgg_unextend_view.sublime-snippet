@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_unextend_view(${1:\$view}, ${2:\$view_extension})]]></content>
+    <tabTrigger>elgg_unextend_view</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unextends a view.</description>
+</snippet>

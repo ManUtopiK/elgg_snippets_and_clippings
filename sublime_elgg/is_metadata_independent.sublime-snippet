@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[is_metadata_independent(${1:\$type}, ${2:\$subtype})]]></content>
+    <tabTrigger>is_metadata_independent</tabTrigger>
+    <scope>source.php</scope>
+    <description>Determines whether entities of a given type and subtype should not change</description>
+</snippet>

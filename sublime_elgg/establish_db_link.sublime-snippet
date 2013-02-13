@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[establish_db_link(${1:\$dblinkname = "readwrite"})]]></content>
+    <tabTrigger>establish_db_link</tabTrigger>
+    <scope>source.php</scope>
+    <description>Establish a connection to the database servser</description>
+</snippet>

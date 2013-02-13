@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_format_attributes(${1:array \$attrs})]]></content>
+    <tabTrigger>elgg_format_attributes</tabTrigger>
+    <scope>source.php</scope>
+    <description>Converts an associative array into a string of well-formed attributes</description>
+</snippet>

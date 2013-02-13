@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[()]]></content>
+    <tabTrigger></tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers a web services handler</description>
+</snippet>
+<snippet>
+    <content><![CDATA[()]]></content>
+    <tabTrigger></tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers a web services handler</description>
+</snippet>
+<snippet>
+    <content><![CDATA[()]]></content>
+    <tabTrigger></tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers a web services handler</description>
+</snippet>
+<snippet>
+    <content><![CDATA[()]]></content>
+    <tabTrigger></tabTrigger>
+    <scope>source.php</scope>
+    <description> Detects mime types based on filename or actual file.</description>
+</snippet>

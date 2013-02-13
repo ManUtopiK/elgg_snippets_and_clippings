@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[compareByWeight(${1:\$a}, ${2:\$b})]]></content>
+    <tabTrigger>compareByWeight</tabTrigger>
+    <scope>source.php</scope>
+    <description> Compare two menu items by their priority</description>
+</snippet>

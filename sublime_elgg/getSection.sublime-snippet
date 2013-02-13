@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSection()]]></content>
+    <tabTrigger>getSection</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the section identifier</description>
+</snippet>

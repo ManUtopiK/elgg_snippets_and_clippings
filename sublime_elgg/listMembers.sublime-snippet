@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[listMembers(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>listMembers</tabTrigger>
+    <scope>source.php</scope>
+    <description> List the members of this site</description>
+</snippet>

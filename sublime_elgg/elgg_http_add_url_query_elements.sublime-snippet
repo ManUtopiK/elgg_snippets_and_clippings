@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_http_add_url_query_elements(${1:\$url}, ${2:array \$elements})]]></content>
+    <tabTrigger>elgg_http_add_url_query_elements</tabTrigger>
+    <scope>source.php</scope>
+    <description>Adds an element or elements to a URL's query string.</description>
+</snippet>

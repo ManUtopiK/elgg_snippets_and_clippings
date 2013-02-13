@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isFullyLoaded()]]></content>
+    <tabTrigger>isFullyLoaded</tabTrigger>
+    <scope>source.php</scope>
+    <description> Tests to see whether the object has been fully loaded.</description>
+</snippet>

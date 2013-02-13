@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[makeAdmin()]]></content>
+    <tabTrigger>makeAdmin</tabTrigger>
+    <scope>source.php</scope>
+    <description> Make the user an admin</description>
+</snippet>

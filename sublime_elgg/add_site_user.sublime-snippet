@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_site_user(${1:\$site_guid}, ${2:\$user_guid})]]></content>
+    <tabTrigger>add_site_user</tabTrigger>
+    <scope>source.php</scope>
+    <description>Add a user to a site.</description>
+</snippet>

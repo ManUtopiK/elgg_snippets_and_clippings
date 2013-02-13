@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[delete_relationship(${1:\$id})]]></content>
+    <tabTrigger>delete_relationship</tabTrigger>
+    <scope>source.php</scope>
+    <description>Delete a specific relationship.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_get_admins(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_get_admins</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the admin users </description>
+</snippet>

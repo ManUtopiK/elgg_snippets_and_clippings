@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIncrementOffset(${1:\$increment = true})]]></content>
+    <tabTrigger>setIncrementOffset</tabTrigger>
+    <scope>source.php</scope>
+    <description> Increment the offset from the original options array? Setting to</description>
+</snippet>

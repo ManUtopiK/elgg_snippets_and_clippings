@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_entity_relationships(${1:\$guid}, ${2:\$inverse_relationship = FALSE})]]></content>
+    <tabTrigger>get_entity_relationships</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get all the relationships for a given guid.</description>
+</snippet>

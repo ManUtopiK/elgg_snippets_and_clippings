@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_list_entities_from_annotation_calculation(${1:\$options})]]></content>
+    <tabTrigger>elgg_list_entities_from_annotation_calculation</tabTrigger>
+    <scope>source.php</scope>
+    <description>List entities from an annotation calculation.</description>
+</snippet>

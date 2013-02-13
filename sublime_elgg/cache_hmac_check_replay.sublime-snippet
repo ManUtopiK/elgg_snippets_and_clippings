@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cache_hmac_check_replay(${1:\$hmac})]]></content>
+    <tabTrigger>cache_hmac_check_replay</tabTrigger>
+    <scope>source.php</scope>
+    <description>This function will do two things. Firstly it verifies that a HMAC signature</description>
+</snippet>

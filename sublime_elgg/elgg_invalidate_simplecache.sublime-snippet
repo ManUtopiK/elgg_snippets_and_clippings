@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_invalidate_simplecache()]]></content>
+    <tabTrigger>elgg_invalidate_simplecache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Deletes all cached views in the simplecache and sets the lastcache and</description>
+</snippet>

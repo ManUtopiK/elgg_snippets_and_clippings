@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_delete_annotations(${1:array \$options})]]></content>
+    <tabTrigger>elgg_delete_annotations</tabTrigger>
+    <scope>source.php</scope>
+    <description>Deletes annotations based on $options.</description>
+</snippet>

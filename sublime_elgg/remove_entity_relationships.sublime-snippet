@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove_entity_relationships(${1:\$guid_one}, ${2:\$relationship = ""}, ${3:\$inverse = false}, ${4:\$type = ''})]]></content>
+    <tabTrigger>remove_entity_relationships</tabTrigger>
+    <scope>source.php</scope>
+    <description>Removes all arbitrary relationships originating from a particular entity</description>
+</snippet>

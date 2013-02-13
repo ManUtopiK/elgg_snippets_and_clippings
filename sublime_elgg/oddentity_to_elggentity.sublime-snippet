@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[oddentity_to_elggentity(${1:ODDEntity \$element})]]></content>
+    <tabTrigger>oddentity_to_elggentity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Utility function used by import_entity_plugin_hook() to</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAttribute(${1:\$key})]]></content>
+    <tabTrigger>getAttribute</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns an attribute</description>
+</snippet>

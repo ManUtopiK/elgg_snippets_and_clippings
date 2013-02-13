@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSelected()]]></content>
+    <tabTrigger>getSelected</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get selected state</description>
+</snippet>

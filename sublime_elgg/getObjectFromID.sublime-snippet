@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getObjectFromID(${1:\$id})]]></content>
+    <tabTrigger>getObjectFromID</tabTrigger>
+    <scope>source.php</scope>
+    <description> For a given ID, return the object associated with it.</description>
+</snippet>

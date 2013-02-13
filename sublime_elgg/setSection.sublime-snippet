@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSection(${1:\$section})]]></content>
+    <tabTrigger>setSection</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the section identifier</description>
+</snippet>

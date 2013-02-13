@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_widgets_init()]]></content>
+    <tabTrigger>elgg_widgets_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Function to initialize widgets functionality</description>
+</snippet>

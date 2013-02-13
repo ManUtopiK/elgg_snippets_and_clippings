@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[listFriends(${1:\$subtype = ""}, ${2:\$limit = 10}, array(
+	'${3:key}' => ${4:value},
+))]]></content>
+    <tabTrigger>listFriends</tabTrigger>
+    <scope>source.php</scope>
+    <description> Lists the user's friends</description>
+</snippet>

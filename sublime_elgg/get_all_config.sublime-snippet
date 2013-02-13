@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_all_config(${1:\$site_guid = 0})]]></content>
+    <tabTrigger>get_all_config</tabTrigger>
+    <scope>source.php</scope>
+    <description>Loads all configuration values from the dbprefix_config table into $CONFIG.</description>
+</snippet>

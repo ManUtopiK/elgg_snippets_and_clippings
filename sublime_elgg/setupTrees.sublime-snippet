@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setupTrees()]]></content>
+    <tabTrigger>setupTrees</tabTrigger>
+    <scope>source.php</scope>
+    <description> Create trees for each menu section</description>
+</snippet>

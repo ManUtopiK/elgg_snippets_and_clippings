@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_registered_entity_types(${1:\$type = null})]]></content>
+    <tabTrigger>get_registered_entity_types</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns registered entity types and subtypes</description>
+</snippet>

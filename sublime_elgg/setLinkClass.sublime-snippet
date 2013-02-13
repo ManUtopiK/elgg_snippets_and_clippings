@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLinkClass(${1:\$class})]]></content>
+    <tabTrigger>setLinkClass</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the anchor class</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_tags_init()]]></content>
+    <tabTrigger>elgg_tags_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>@access private</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_user_by_username(${1:\$username})]]></content>
+    <tabTrigger>get_user_by_username</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get user by username</description>
+</snippet>

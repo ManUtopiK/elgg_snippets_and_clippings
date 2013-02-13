@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_system_cache()]]></content>
+    <tabTrigger>elgg_get_system_cache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns an ElggCache object suitable for caching system information</description>
+</snippet>

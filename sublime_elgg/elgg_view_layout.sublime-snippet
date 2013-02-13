@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_layout(${1:\$layout_name}, array(
+	'${2:key}' => ${3:value},
+))]]></content>
+    <tabTrigger>elgg_view_layout</tabTrigger>
+    <scope>source.php</scope>
+    <description>Displays a layout with optional parameters.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getExportableValues()]]></content>
+    <tabTrigger>getExportableValues</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return an array of fields which can be exported.</description>
+</snippet>

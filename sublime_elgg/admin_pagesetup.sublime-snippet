@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[admin_pagesetup()]]></content>
+    <tabTrigger>admin_pagesetup</tabTrigger>
+    <scope>source.php</scope>
+    <description>Handles any set up required for administration pages</description>
+</snippet>

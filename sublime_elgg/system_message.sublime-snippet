@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[system_message(${1:\$message})]]></content>
+    <tabTrigger>system_message</tabTrigger>
+    <scope>source.php</scope>
+    <description>Display a system message on next page load.</description>
+</snippet>

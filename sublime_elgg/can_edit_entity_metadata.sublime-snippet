@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[can_edit_entity_metadata(${1:\$entity_guid}, ${2:\$user_guid = 0}, ${3:\$metadata = null})]]></content>
+    <tabTrigger>can_edit_entity_metadata</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns if $user_guid can edit the metadata on $entity_guid.</description>
+</snippet>

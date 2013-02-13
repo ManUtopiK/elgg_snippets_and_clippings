@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_post_data()]]></content>
+    <tabTrigger>get_post_data</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get POST data</description>
+</snippet>

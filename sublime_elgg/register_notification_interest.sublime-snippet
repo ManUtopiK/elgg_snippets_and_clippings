@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[register_notification_interest(${1:\$user_guid}, ${2:\$author_guid})]]></content>
+    <tabTrigger>register_notification_interest</tabTrigger>
+    <scope>source.php</scope>
+    <description>Establish a 'notify' relationship between the user and a content author</description>
+</snippet>

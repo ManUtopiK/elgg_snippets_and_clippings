@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sanitise_int(${1:\$int}, ${2:\$signed = true})]]></content>
+    <tabTrigger>sanitise_int</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sanitises an integer for database use.</description>
+</snippet>

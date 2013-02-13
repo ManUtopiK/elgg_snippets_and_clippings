@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[registerClasses()]]></content>
+    <tabTrigger>registerClasses</tabTrigger>
+    <scope>source.php</scope>
+    <description> Registers the plugin's classes</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[makeFileMatrix(${1:\$guid})]]></content>
+    <tabTrigger>makeFileMatrix</tabTrigger>
+    <scope>source.php</scope>
+    <description> Construct a file path matrix for an entity.</description>
+</snippet>

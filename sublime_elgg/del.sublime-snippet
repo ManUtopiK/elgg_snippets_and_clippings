@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[del(${1:\$key})]]></content>
+    <tabTrigger>del</tabTrigger>
+    <scope>source.php</scope>
+    <description> Alias to offsetUnset()</description>
+</snippet>

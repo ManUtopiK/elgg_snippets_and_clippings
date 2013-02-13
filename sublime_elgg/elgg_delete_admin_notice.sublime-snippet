@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_delete_admin_notice(${1:\$id})]]></content>
+    <tabTrigger>elgg_delete_admin_notice</tabTrigger>
+    <scope>source.php</scope>
+    <description>Remove an admin notice by ID.</description>
+</snippet>

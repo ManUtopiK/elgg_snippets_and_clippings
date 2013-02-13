@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStatusCode(${1:\$status}, ${2:\$message = ""})]]></content>
+    <tabTrigger>setStatusCode</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set a status code and optional message.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_delete_river(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_delete_river</tabTrigger>
+    <scope>source.php</scope>
+    <description>Delete river items</description>
+</snippet>

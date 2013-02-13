@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[canReadFile(${1:\$filename})]]></content>
+    <tabTrigger>canReadFile</tabTrigger>
+    <scope>source.php</scope>
+    <description> Checks whether a plugin file with the given name exists</description>
+</snippet>

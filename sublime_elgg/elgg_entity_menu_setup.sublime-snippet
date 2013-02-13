@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_entity_menu_setup(${1:\$hook}, ${2:\$type}, ${3:\$return}, ${4:\$params})]]></content>
+    <tabTrigger>elgg_entity_menu_setup</tabTrigger>
+    <scope>source.php</scope>
+    <description>Entity menu is list of links and info on any entity</description>
+</snippet>

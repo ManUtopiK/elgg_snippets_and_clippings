@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeRelationship(${1:\$guid}, ${2:\$relationship})]]></content>
+    <tabTrigger>removeRelationship</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remove a relationship</description>
+</snippet>

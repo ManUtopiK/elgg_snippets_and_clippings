@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[create_object_entity(${1:\$guid}, ${2:\$title}, ${3:\$description})]]></content>
+    <tabTrigger>create_object_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create or update the extras table for a given object.</description>
+</snippet>

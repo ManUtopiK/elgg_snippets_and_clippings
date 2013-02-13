@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_widget_run_once()]]></content>
+    <tabTrigger>elgg_widget_run_once</tabTrigger>
+    <scope>source.php</scope>
+    <description>Regsiter entity of object, widget as ElggWidget objects</description>
+</snippet>

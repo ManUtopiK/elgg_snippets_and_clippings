@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_get_entities_from_location(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_get_entities_from_location</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return entities within a given geographic area.</description>
+</snippet>

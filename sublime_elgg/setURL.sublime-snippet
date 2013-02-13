@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setURL(${1:\$url})]]></content>
+    <tabTrigger>setURL</tabTrigger>
+    <scope>source.php</scope>
+    <description> Overrides the URL returned by getURL()</description>
+</snippet>

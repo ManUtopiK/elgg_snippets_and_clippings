@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setParameters(${1:array \$parameters})]]></content>
+    <tabTrigger>setParameters</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sets parameters that should be saved to database.</description>
+</snippet>

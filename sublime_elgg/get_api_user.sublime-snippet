@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_api_user(${1:\$site_guid}, ${2:\$api_key})]]></content>
+    <tabTrigger>get_api_user</tabTrigger>
+    <scope>source.php</scope>
+    <description>Find an API User's details based on the provided public api key.</description>
+</snippet>

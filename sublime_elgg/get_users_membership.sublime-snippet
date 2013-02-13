@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_users_membership(${1:\$user_guid})]]></content>
+    <tabTrigger>get_users_membership</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return all groups a user is a member of.</description>
+</snippet>

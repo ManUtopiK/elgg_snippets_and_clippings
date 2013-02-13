@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_extender_url_handler(${1:\$extender_type}, ${2:\$extender_name}, ${3:\$function_name})]]></content>
+    <tabTrigger>elgg_register_extender_url_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sets the URL handler for a particular extender type and name.</description>
+</snippet>

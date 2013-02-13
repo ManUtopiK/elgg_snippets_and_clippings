@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_uuid_to_guid(${1:\$guid}, ${2:\$uuid})]]></content>
+    <tabTrigger>add_uuid_to_guid</tabTrigger>
+    <scope>source.php</scope>
+    <description>Tag a previously created guid with the uuid it was imported on.</description>
+</snippet>

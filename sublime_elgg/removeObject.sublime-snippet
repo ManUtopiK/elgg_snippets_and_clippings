@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeObject(${1:\$object_guid})]]></content>
+    <tabTrigger>removeObject</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remvoes an object from the site.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_river_init()]]></content>
+    <tabTrigger>elgg_river_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialize river library</description>
+</snippet>

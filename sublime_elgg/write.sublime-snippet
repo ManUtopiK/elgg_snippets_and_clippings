@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[write(${1:\$data})]]></content>
+    <tabTrigger>write</tabTrigger>
+    <scope>source.php</scope>
+    <description> Write data.</description>
+</snippet>

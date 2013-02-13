@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_menu(${1:\$menu_name}, array(
+	'${2:key}' => ${3:value},
+))]]></content>
+    <tabTrigger>elgg_view_menu</tabTrigger>
+    <scope>source.php</scope>
+    <description>Render a menu</description>
+</snippet>

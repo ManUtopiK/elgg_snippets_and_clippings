@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[generate_action_token(${1:\$timestamp})]]></content>
+    <tabTrigger>generate_action_token</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generate an action token.</description>
+</snippet>

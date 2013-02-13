@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removePrivateSetting(${1:\$name})]]></content>
+    <tabTrigger>removePrivateSetting</tabTrigger>
+    <scope>source.php</scope>
+    <description> Removes private setting</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[action(${1:\$action}, ${2:\$forwarder = ""})]]></content>
+    <tabTrigger>action</tabTrigger>
+    <scope>source.php</scope>
+    <description>Perform an action.</description>
+</snippet>

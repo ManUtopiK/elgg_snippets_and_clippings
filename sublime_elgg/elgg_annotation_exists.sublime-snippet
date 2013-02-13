@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_annotation_exists(${1:\$entity_guid}, ${2:\$annotation_type}, ${3:\$owner_guid = NULL})]]></content>
+    <tabTrigger>elgg_annotation_exists</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check to see if a user has already created an annotation on an object</description>
+</snippet>

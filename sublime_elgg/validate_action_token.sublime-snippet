@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[validate_action_token(${1:\$visibleerrors = TRUE}, ${2:\$token = NULL}, ${3:\$ts = NULL})]]></content>
+    <tabTrigger>validate_action_token</tabTrigger>
+    <scope>source.php</scope>
+    <description>Validate an action token.</description>
+</snippet>

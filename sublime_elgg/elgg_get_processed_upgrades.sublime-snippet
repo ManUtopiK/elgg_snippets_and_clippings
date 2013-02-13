@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_processed_upgrades()]]></content>
+    <tabTrigger>elgg_get_processed_upgrades</tabTrigger>
+    <scope>source.php</scope>
+    <description>Gets a list of processes upgrades</description>
+</snippet>

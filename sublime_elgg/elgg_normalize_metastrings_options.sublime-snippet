@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_normalize_metastrings_options(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_normalize_metastrings_options</tabTrigger>
+    <scope>source.php</scope>
+    <description>Normalizes metadata / annotation option names to their corresponding metastrings name.</description>
+</snippet>

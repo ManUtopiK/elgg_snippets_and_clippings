@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unsetAllUsersSettings()]]></content>
+    <tabTrigger>unsetAllUsersSettings</tabTrigger>
+    <scope>source.php</scope>
+    <description> Removes this plugin's user settings for all users.</description>
+</snippet>

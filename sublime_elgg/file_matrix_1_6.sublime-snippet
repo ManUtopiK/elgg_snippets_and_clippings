@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[file_matrix_1_6(${1:\$filename})]]></content>
+    <tabTrigger>file_matrix_1_6</tabTrigger>
+    <scope>source.php</scope>
+    <description>1.6 style file matrix</description>
+</snippet>

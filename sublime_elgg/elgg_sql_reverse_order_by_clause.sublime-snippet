@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_sql_reverse_order_by_clause(${1:\$order_by})]]></content>
+    <tabTrigger>elgg_sql_reverse_order_by_clause</tabTrigger>
+    <scope>source.php</scope>
+    <description>Reverses the ordering in an ORDER BY clause.  This is achived by replacing</description>
+</snippet>

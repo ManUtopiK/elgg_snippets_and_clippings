@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[db_delayedexecution_shutdown_hook()]]></content>
+    <tabTrigger>db_delayedexecution_shutdown_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Execute any delayed queries upon shutdown.</description>
+</snippet>

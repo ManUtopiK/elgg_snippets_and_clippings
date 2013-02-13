@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkWalledGarden()]]></content>
+    <tabTrigger>checkWalledGarden</tabTrigger>
+    <scope>source.php</scope>
+    <description> Halts bootup and redirects to the site front page</description>
+</snippet>

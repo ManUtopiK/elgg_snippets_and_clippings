@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTimeUpdated()]]></content>
+    <tabTrigger>getTimeUpdated</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns the UNIX epoch time that this entity was last updated</description>
+</snippet>

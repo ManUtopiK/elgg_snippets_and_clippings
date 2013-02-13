@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[system_log_default_logger(${1:\$event}, ${2:\$object_type}, ${3:\$object})]]></content>
+    <tabTrigger>system_log_default_logger</tabTrigger>
+    <scope>source.php</scope>
+    <description>Default system log handler, allows plugins to override, extend or disable logging.</description>
+</snippet>

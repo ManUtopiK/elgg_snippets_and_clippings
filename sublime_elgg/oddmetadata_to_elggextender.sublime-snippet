@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[oddmetadata_to_elggextender(${1:ElggEntity \$entity}, ${2:ODDMetaData \$element})]]></content>
+    <tabTrigger>oddmetadata_to_elggextender</tabTrigger>
+    <scope>source.php</scope>
+    <description>Utility function used by import_extender_plugin_hook() to process</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeUser(${1:\$user_guid})]]></content>
+    <tabTrigger>removeUser</tabTrigger>
+    <scope>source.php</scope>
+    <description> Removes a user from the site.</description>
+</snippet>

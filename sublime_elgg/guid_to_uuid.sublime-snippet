@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[guid_to_uuid(${1:\$guid})]]></content>
+    <tabTrigger>guid_to_uuid</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generate a UUID from a given GUID.</description>
+</snippet>

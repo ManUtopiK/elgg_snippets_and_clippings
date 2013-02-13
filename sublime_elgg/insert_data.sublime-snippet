@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[insert_data(${1:\$query})]]></content>
+    <tabTrigger>insert_data</tabTrigger>
+    <scope>source.php</scope>
+    <description>Insert a row into the database.</description>
+</snippet>

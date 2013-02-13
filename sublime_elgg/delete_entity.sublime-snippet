@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[delete_entity(${1:\$guid}, ${2:\$recursive = true})]]></content>
+    <tabTrigger>delete_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Delete an entity.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[invalidate_cache_for_entity(${1:\$guid})]]></content>
+    <tabTrigger>invalidate_cache_for_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Invalidate this class's entry in the cache.</description>
+</snippet>

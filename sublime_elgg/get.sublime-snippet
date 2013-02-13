@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get(${1:\$name})]]></content>
+    <tabTrigger>get</tabTrigger>
+    <scope>source.php</scope>
+    <description> Override entity get and sets in order to save data to private data store.</description>
+</snippet>

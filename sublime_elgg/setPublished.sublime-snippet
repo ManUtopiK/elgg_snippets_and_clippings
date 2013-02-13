@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPublished(${1:\$time})]]></content>
+    <tabTrigger>setPublished</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the published time.</description>
+</snippet>

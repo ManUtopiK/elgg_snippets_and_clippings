@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[validate_username(${1:\$username})]]></content>
+    <tabTrigger>validate_username</tabTrigger>
+    <scope>source.php</scope>
+    <description>Simple function which ensures that a username contains only valid characters.</description>
+</snippet>

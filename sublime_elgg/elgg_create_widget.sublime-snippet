@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_create_widget(${1:\$owner_guid}, ${2:\$handler}, ${3:\$context}, ${4:\$access_id = null})]]></content>
+    <tabTrigger>elgg_create_widget</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create a new widget instance</description>
+</snippet>

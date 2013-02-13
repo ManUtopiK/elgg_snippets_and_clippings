@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_widgets(${1:\$user_guid}, ${2:\$context})]]></content>
+    <tabTrigger>elgg_get_widgets</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get widgets for a particular context</description>
+</snippet>

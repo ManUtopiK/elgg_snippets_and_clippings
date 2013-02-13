@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[offsetGet(${1:\$key})]]></content>
+    <tabTrigger>offsetGet</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get a variable from either the session, or if its not in the session</description>
+</snippet>

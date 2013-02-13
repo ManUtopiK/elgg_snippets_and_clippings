@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setupSections()]]></content>
+    <tabTrigger>setupSections</tabTrigger>
+    <scope>source.php</scope>
+    <description> Group the menu items into sections</description>
+</snippet>

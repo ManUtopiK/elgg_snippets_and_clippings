@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPriority(${1:\$priority}, ${2:\$site_guid = null})]]></content>
+    <tabTrigger>setPriority</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sets the priority of the plugin</description>
+</snippet>

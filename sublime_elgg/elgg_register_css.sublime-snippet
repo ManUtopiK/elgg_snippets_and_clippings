@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_css(${1:\$name}, ${2:\$url}, ${3:\$priority = null})]]></content>
+    <tabTrigger>elgg_register_css</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register a CSS file for inclusion in the HTML head</description>
+</snippet>

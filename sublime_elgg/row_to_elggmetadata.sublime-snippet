@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[row_to_elggmetadata(${1:\$row})]]></content>
+    <tabTrigger>row_to_elggmetadata</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convert a database row to a new ElggMetadata</description>
+</snippet>

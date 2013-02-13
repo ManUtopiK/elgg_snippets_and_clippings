@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[admin_markdown_page_handler(${1:\$pages})]]></content>
+    <tabTrigger>admin_markdown_page_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Formats and serves out markdown files from plugins.</description>
+</snippet>

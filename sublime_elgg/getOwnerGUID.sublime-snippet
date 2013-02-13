@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOwnerGUID()]]></content>
+    <tabTrigger>getOwnerGUID</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get a user's owner GUID</description>
+</snippet>

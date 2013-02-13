@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_private_setting(${1:\$entity_guid}, ${2:\$name})]]></content>
+    <tabTrigger>get_private_setting</tabTrigger>
+    <scope>source.php</scope>
+    <description>Gets a private setting for an entity.</description>
+</snippet>

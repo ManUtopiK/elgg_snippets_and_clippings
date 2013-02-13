@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_check_plugins_provides(${1:\$type}, ${2:\$name}, ${3:\$version = null}, ${4:\$comparison = 'ge'})]]></content>
+    <tabTrigger>elgg_check_plugins_provides</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks if a plugin is currently providing $type and $name, and optionally</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_filepath_cache_load(${1:\$type})]]></content>
+    <tabTrigger>elgg_filepath_cache_load</tabTrigger>
+    <scope>source.php</scope>
+    <description>@access private</description>
+</snippet>

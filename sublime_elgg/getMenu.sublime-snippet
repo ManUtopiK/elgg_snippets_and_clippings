@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMenu(${1:\$sort_by = 'text'})]]></content>
+    <tabTrigger>getMenu</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get a prepared menu array</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[retrieve_cached_entity(${1:\$guid})]]></content>
+    <tabTrigger>retrieve_cached_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieve a entity from the cache.</description>
+</snippet>

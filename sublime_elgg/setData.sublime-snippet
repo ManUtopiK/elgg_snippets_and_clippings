@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setData(${1:\$key}, ${2:\$value = null})]]></content>
+    <tabTrigger>setData</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set a data key/value pair or a set of key/value pairs</description>
+</snippet>

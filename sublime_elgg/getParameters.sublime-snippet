@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParameters()]]></content>
+    <tabTrigger>getParameters</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the parameters.</description>
+</snippet>

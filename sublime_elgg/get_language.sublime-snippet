@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_language()]]></content>
+    <tabTrigger>get_language</tabTrigger>
+    <scope>source.php</scope>
+    <description>Gets the current language in use by the system or user.</description>
+</snippet>

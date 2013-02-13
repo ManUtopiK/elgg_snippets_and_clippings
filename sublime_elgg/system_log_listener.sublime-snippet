@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[system_log_listener(${1:\$event}, ${2:\$object_type}, ${3:\$object})]]></content>
+    <tabTrigger>system_log_listener</tabTrigger>
+    <scope>source.php</scope>
+    <description>System log listener.</description>
+</snippet>

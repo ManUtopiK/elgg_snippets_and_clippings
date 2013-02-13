@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIcon(${1:\$size = 'medium'})]]></content>
+    <tabTrigger>getIcon</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns a URL for the entity's icon.</description>
+</snippet>

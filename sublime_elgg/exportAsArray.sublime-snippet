@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[exportAsArray(${1:\$guid})]]></content>
+    <tabTrigger>exportAsArray</tabTrigger>
+    <scope>source.php</scope>
+    <description>Exports an entity as an array</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_widget_type(${1:\$handler}, ${2:\$name}, ${3:\$description}, ${4:\$context = "all"}, ${5:\$multiple = false})]]></content>
+    <tabTrigger>elgg_register_widget_type</tabTrigger>
+    <scope>source.php</scope>
+    <description>Regsiter a widget type</description>
+</snippet>

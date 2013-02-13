@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setResult(${1:\$result})]]></content>
+    <tabTrigger>setResult</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the result.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearAnnotations(${1:\$name = ""})]]></content>
+    <tabTrigger>clearAnnotations</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remove an annotation or all annotations for this entity.</description>
+</snippet>

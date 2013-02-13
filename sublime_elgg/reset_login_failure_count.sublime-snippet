@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reset_login_failure_count(${1:\$user_guid})]]></content>
+    <tabTrigger>reset_login_failure_count</tabTrigger>
+    <scope>source.php</scope>
+    <description>Resets the fail login count for $user_guid</description>
+</snippet>

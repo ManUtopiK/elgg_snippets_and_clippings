@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_metastring(${1:\$id})]]></content>
+    <tabTrigger>get_metastring</tabTrigger>
+    <scope>source.php</scope>
+    <description>When given an ID, returns the corresponding metastring</description>
+</snippet>

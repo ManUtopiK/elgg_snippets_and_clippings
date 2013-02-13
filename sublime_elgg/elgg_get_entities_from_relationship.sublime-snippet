@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_entities_from_relationship(${1:\$options})]]></content>
+    <tabTrigger>elgg_get_entities_from_relationship</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return entities matching a given query joining against a relationship.</description>
+</snippet>

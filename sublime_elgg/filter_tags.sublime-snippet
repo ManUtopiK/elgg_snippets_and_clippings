@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[filter_tags(${1:\$var})]]></content>
+    <tabTrigger>filter_tags</tabTrigger>
+    <scope>source.php</scope>
+    <description>Filter tags from a given string based on registered hooks.</description>
+</snippet>

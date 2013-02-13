@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hasNormalizerSupport()]]></content>
+    <tabTrigger>hasNormalizerSupport</tabTrigger>
+    <scope>source.php</scope>
+    <description> Tests that "normalizer_normalize" exists and works</description>
+</snippet>

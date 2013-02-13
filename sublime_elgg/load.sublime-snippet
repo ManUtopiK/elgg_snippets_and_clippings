@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[load(${1:\$guid})]]></content>
+    <tabTrigger>load</tabTrigger>
+    <scope>source.php</scope>
+    <description> Load the ElggUser data from the database</description>
+</snippet>

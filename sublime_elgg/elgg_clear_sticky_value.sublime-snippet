@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_clear_sticky_value(${1:\$form_name}, ${2:\$variable})]]></content>
+    <tabTrigger>elgg_clear_sticky_value</tabTrigger>
+    <scope>source.php</scope>
+    <description>Clear a specific sticky variable</description>
+</snippet>

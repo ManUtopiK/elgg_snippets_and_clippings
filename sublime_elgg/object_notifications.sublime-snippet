@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[object_notifications(${1:\$event}, ${2:\$object_type}, ${3:\$object})]]></content>
+    <tabTrigger>object_notifications</tabTrigger>
+    <scope>source.php</scope>
+    <description>Automatically triggered notification on 'create' events that looks at registered</description>
+</snippet>

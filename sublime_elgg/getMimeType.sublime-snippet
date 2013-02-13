@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMimeType()]]></content>
+    <tabTrigger>getMimeType</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the mime type of the file.</description>
+</snippet>

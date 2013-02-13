@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_languages_init()]]></content>
+    <tabTrigger>elgg_languages_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialize the language library</description>
+</snippet>

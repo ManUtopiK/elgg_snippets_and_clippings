@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_view_access_collections(${1:\$owner_guid})]]></content>
+    <tabTrigger>elgg_view_access_collections</tabTrigger>
+    <scope>source.php</scope>
+    <description>Displays a user's access collections, using the core/friends/collections view</description>
+</snippet>

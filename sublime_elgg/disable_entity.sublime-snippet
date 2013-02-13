@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disable_entity(${1:\$guid}, ${2:\$reason = ""}, ${3:\$recursive = true})]]></content>
+    <tabTrigger>disable_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Disable an entity.</description>
+</snippet>

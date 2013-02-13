@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIgnoreAccess(${1:\$ignore = true})]]></content>
+    <tabTrigger>setIgnoreAccess</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set ignore access.</description>
+</snippet>

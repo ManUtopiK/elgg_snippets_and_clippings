@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getURL()]]></content>
+    <tabTrigger>getURL</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get a URL for this relationship.</description>
+</snippet>

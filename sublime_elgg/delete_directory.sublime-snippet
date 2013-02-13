@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[delete_directory(${1:\$directory})]]></content>
+    <tabTrigger>delete_directory</tabTrigger>
+    <scope>source.php</scope>
+    <description>Delete a directory and all its contents</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setText(${1:\$text})]]></content>
+    <tabTrigger>setText</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the display text of the menu item</description>
+</snippet>

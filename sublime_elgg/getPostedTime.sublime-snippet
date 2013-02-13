@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPostedTime()]]></content>
+    <tabTrigger>getPostedTime</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the time this activity was posted</description>
+</snippet>

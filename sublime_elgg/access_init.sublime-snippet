@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[access_init()]]></content>
+    <tabTrigger>access_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>A quick and dirty way to make sure the access permissions have been correctly set up</description>
+</snippet>

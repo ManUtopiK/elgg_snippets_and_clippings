@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[join_group(${1:\$group_guid}, ${2:\$user_guid})]]></content>
+    <tabTrigger>join_group</tabTrigger>
+    <scope>source.php</scope>
+    <description>Join a user to a group.</description>
+</snippet>

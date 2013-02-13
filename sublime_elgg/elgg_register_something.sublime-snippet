@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_something(${1:\$id}, ${2:\$display_name}, ${3:\$location}, ${4:\$priority = 500})]]></content>
+    <tabTrigger>elgg_register_something</tabTrigger>
+    <scope>source.php</scope>
+    <description>Iterate over elements in a specific priority.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_batch_disable_callback(${1:\$object})]]></content>
+    <tabTrigger>elgg_batch_disable_callback</tabTrigger>
+    <scope>source.php</scope>
+    <description>Disable objects with a disable() method.</description>
+</snippet>

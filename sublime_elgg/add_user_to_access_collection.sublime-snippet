@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_user_to_access_collection(${1:\$user_guid}, ${2:\$collection_id})]]></content>
+    <tabTrigger>add_user_to_access_collection</tabTrigger>
+    <scope>source.php</scope>
+    <description>Adds a user to an access collection.</description>
+</snippet>

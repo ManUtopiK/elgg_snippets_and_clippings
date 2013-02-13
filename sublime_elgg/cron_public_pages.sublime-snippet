@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cron_public_pages(${1:\$hook}, ${2:\$type}, ${3:\$return_value}, ${4:\$params})]]></content>
+    <tabTrigger>cron_public_pages</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register cron's pages as public in case we're in Walled Garden mode</description>
+</snippet>

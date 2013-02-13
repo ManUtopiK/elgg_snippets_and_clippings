@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_bootstrap_externals_data_structure(${1:\$type})]]></content>
+    <tabTrigger>elgg_bootstrap_externals_data_structure</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstraps the externals data structure in $CONFIG.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[metadata_test(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>metadata_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Metadata unit test</description>
+</snippet>

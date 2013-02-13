@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_upgrade_bootstrap_17_to_18()]]></content>
+    <tabTrigger>elgg_upgrade_bootstrap_17_to_18</tabTrigger>
+    <scope>source.php</scope>
+    <description>Boot straps into 1.8 upgrade system from 1.7</description>
+</snippet>

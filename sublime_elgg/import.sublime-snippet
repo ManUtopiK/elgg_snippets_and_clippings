@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[import(${1:\$xml})]]></content>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.php</scope>
+    <description>Import an XML serialisation of an object.</description>
+</snippet>
+<snippet>
+    <content><![CDATA[import(${1:ODD \$data})]]></content>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.php</scope>
+    <description> Import a relationship</description>
+</snippet>

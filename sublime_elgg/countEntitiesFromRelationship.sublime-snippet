@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[countEntitiesFromRelationship(${1:\$relationship}, ${2:\$inverse_relationship = FALSE})]]></content>
+    <tabTrigger>countEntitiesFromRelationship</tabTrigger>
+    <scope>source.php</scope>
+    <description> Gets the number of of entities from a specific relationship type</description>
+</snippet>

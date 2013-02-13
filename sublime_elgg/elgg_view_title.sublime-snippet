@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_title(${1:\$title}, array(
+	'${2:key}' => ${3:value},
+))]]></content>
+    <tabTrigger>elgg_view_title</tabTrigger>
+    <scope>source.php</scope>
+    <description>Renders a title.</description>
+</snippet>

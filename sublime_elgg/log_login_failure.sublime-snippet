@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[log_login_failure(${1:\$user_guid})]]></content>
+    <tabTrigger>log_login_failure</tabTrigger>
+    <scope>source.php</scope>
+    <description>Log a failed login for $user_guid</description>
+</snippet>

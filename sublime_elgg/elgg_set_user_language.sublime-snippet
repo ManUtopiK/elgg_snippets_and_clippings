@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_user_language()]]></content>
+    <tabTrigger>elgg_set_user_language</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set a user's language</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_views_boot()]]></content>
+    <tabTrigger>elgg_views_boot</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialize viewtypes on system boot event</description>
+</snippet>

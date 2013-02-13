@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBody(${1:\$value})]]></content>
+    <tabTrigger>setBody</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sets the body of the ODD.</description>
+</snippet>

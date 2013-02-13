@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getContainerEntity()]]></content>
+    <tabTrigger>getContainerEntity</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the container entity for this object.</description>
+</snippet>

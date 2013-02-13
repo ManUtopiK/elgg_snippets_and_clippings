@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[entities_gc()]]></content>
+    <tabTrigger>entities_gc</tabTrigger>
+    <scope>source.php</scope>
+    <description>Garbage collect stub and fragments from any broken delete/create calls</description>
+</snippet>

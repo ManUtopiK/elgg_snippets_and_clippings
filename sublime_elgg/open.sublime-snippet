@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[open(${1:\$mode})]]></content>
+    <tabTrigger>open</tabTrigger>
+    <scope>source.php</scope>
+    <description> Open the file with the given mode</description>
+</snippet>

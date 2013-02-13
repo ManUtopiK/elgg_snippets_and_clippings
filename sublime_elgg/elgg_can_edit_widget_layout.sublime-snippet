@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_can_edit_widget_layout(${1:\$context}, ${2:\$user_guid = 0})]]></content>
+    <tabTrigger>elgg_can_edit_widget_layout</tabTrigger>
+    <scope>source.php</scope>
+    <description>Can the user edit the widget layout</description>
+</snippet>

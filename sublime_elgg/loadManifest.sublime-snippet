@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadManifest()]]></content>
+    <tabTrigger>loadManifest</tabTrigger>
+    <scope>source.php</scope>
+    <description> Loads the manifest into this->manifest as an</description>
+</snippet>

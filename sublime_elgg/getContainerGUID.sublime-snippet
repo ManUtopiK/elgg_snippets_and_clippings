@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getContainerGUID()]]></content>
+    <tabTrigger>getContainerGUID</tabTrigger>
+    <scope>source.php</scope>
+    <description> Gets the container GUID for this entity.</description>
+</snippet>

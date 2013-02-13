@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_site_object(${1:\$site_guid}, ${2:\$object_guid})]]></content>
+    <tabTrigger>add_site_object</tabTrigger>
+    <scope>source.php</scope>
+    <description>Add an object to a site.</description>
+</snippet>

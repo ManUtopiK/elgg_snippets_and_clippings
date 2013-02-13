@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addElements(${1:array \$elements})]]></content>
+    <tabTrigger>addElements</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add multiple elements at once</description>
+</snippet>

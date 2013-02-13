@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_pop_breadcrumb()]]></content>
+    <tabTrigger>elgg_pop_breadcrumb</tabTrigger>
+    <scope>source.php</scope>
+    <description>Removes last breadcrumb entry.</description>
+</snippet>

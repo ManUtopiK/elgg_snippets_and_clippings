@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[login(${1:ElggUser \$user}, ${2:\$persistent = false})]]></content>
+    <tabTrigger>login</tabTrigger>
+    <scope>source.php</scope>
+    <description>Logs in a specified ElggUser. For standard registration, use in conjunction</description>
+</snippet>

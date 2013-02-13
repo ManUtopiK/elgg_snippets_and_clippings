@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_instanceof(${1:\$entity}, ${2:\$type = NULL}, ${3:\$subtype = NULL}, ${4:\$class = NULL})]]></content>
+    <tabTrigger>elgg_instanceof</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks if $entity is an ElggEntity and optionally for type and subtype.</description>
+</snippet>

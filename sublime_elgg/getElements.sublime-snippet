@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getElements()]]></content>
+    <tabTrigger>getElements</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return all elements</description>
+</snippet>

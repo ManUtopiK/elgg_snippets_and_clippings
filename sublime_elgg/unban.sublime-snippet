@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unban()]]></content>
+    <tabTrigger>unban</tabTrigger>
+    <scope>source.php</scope>
+    <description> Unban this user.</description>
+</snippet>

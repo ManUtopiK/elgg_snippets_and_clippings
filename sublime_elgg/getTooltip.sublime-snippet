@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTooltip()]]></content>
+    <tabTrigger>getTooltip</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the tool tip text</description>
+</snippet>

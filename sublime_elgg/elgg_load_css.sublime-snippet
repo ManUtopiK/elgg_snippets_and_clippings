@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_load_css(${1:\$name})]]></content>
+    <tabTrigger>elgg_load_css</tabTrigger>
+    <scope>source.php</scope>
+    <description>Load a CSS file for this page</description>
+</snippet>

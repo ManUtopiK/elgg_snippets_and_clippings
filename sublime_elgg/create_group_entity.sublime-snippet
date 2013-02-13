@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[create_group_entity(${1:\$guid}, ${2:\$name}, ${3:\$description})]]></content>
+    <tabTrigger>create_group_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create or update the entities table for a given group.</description>
+</snippet>

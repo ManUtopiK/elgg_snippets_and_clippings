@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLatLong(${1:\$lat}, ${2:\$long})]]></content>
+    <tabTrigger>setLatLong</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set latitude and longitude metadata tags for a given entity.</description>
+</snippet>

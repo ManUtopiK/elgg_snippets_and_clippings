@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setChildren(${1:\$children})]]></content>
+    <tabTrigger>setChildren</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the menu item's children</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFriendsOf(${1:\$subtype = ""}, ${2:\$limit = 10}, ${3:\$offset = 0})]]></content>
+    <tabTrigger>getFriendsOf</tabTrigger>
+    <scope>source.php</scope>
+    <description> Gets users who have made this user a friend</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_strip_tags(${1:\$string})]]></content>
+    <tabTrigger>elgg_strip_tags</tabTrigger>
+    <scope>source.php</scope>
+    <description>Strip tags and offer plugins the chance.</description>
+</snippet>

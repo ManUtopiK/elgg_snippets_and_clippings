@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ajax_action_hook()]]></content>
+    <tabTrigger>ajax_action_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Buffer all output echo'd directly in the action for inclusion in the returned JSON.</description>
+</snippet>

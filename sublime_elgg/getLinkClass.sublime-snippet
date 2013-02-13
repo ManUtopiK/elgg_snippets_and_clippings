@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLinkClass()]]></content>
+    <tabTrigger>getLinkClass</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the anchor classes as text</description>
+</snippet>

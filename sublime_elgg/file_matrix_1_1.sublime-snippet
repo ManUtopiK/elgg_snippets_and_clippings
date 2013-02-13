@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[file_matrix_1_1(${1:\$filename})]]></content>
+    <tabTrigger>file_matrix_1_1</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generate a file matrix like Elgg 1.1, 1.2 and 1.5</description>
+</snippet>

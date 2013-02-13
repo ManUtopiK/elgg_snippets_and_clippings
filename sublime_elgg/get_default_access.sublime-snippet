@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_default_access(${1:ElggUser \$user = null})]]></content>
+    <tabTrigger>get_default_access</tabTrigger>
+    <scope>source.php</scope>
+    <description>Gets the default access permission.</description>
+</snippet>

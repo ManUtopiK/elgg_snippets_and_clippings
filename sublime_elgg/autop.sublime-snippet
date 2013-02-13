@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[autop(${1:\$pee}, ${2:\$br = 1})]]></content>
+    <tabTrigger>autop</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create paragraphs from text with line spacing</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_page(${1:\$title}, ${2:\$body}, ${3:\$page_shell = 'default'}, array(
+	'${4:key}' => ${5:value},
+))]]></content>
+    <tabTrigger>elgg_view_page</tabTrigger>
+    <scope>source.php</scope>
+    <description>Assembles and outputs a full page.</description>
+</snippet>

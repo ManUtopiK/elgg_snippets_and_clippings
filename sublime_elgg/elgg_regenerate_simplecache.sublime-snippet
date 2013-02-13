@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_regenerate_simplecache(${1:\$viewtype = NULL})]]></content>
+    <tabTrigger>elgg_regenerate_simplecache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Regenerates the simple cache.</description>
+</snippet>

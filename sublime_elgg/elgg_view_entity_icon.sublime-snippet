@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_entity_icon(${1:ElggEntity \$entity}, ${2:\$size = 'medium'}, array(
+	'${3:key}' => ${4:value},
+))]]></content>
+    <tabTrigger>elgg_view_entity_icon</tabTrigger>
+    <scope>source.php</scope>
+    <description>View the icon of an entity</description>
+</snippet>

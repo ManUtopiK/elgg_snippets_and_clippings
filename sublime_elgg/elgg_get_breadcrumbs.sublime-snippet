@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_breadcrumbs()]]></content>
+    <tabTrigger>elgg_get_breadcrumbs</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns all breadcrumbs as an array of array('title' => 'Readable Title', 'link' => 'URL')</description>
+</snippet>

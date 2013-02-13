@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[canAnnotate(${1:\$user_guid = 0}, ${2:\$annotation_name = ''})]]></content>
+    <tabTrigger>canAnnotate</tabTrigger>
+    <scope>source.php</scope>
+    <description> Can a user annotate an entity?</description>
+</snippet>

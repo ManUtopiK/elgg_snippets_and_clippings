@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_data_path()]]></content>
+    <tabTrigger>elgg_get_data_path</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the data directory path for this installation</description>
+</snippet>

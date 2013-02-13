@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_filepath_cache_reset()]]></content>
+    <tabTrigger>elgg_filepath_cache_reset</tabTrigger>
+    <scope>source.php</scope>
+    <description>@access private</description>
+</snippet>

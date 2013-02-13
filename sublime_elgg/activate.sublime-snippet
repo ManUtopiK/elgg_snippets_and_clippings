@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[activate(${1:\$site_guid = null})]]></content>
+    <tabTrigger>activate</tabTrigger>
+    <scope>source.php</scope>
+    <description> Actives the plugin for the current site.</description>
+</snippet>

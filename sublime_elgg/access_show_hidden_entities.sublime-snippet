@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[access_show_hidden_entities(${1:\$show_hidden})]]></content>
+    <tabTrigger>access_show_hidden_entities</tabTrigger>
+    <scope>source.php</scope>
+    <description>Show or hide disabled entities.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[notify_user(${1:\$to}, ${2:\$from}, ${3:\$subject}, ${4:\$message}, ${5:array \$params = NULL}, ${6:\$methods_override = ""})]]></content>
+    <tabTrigger>notify_user</tabTrigger>
+    <scope>source.php</scope>
+    <description>Notify a user via their preferences.</description>
+</snippet>

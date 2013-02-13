@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_enable_simplecache()]]></content>
+    <tabTrigger>elgg_enable_simplecache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Enables the simple cache.</description>
+</snippet>

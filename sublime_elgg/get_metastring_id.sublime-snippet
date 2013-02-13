@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_metastring_id(${1:\$string}, ${2:\$case_sensitive = TRUE})]]></content>
+    <tabTrigger>get_metastring_id</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the meta string id for a given tag, or false.</description>
+</snippet>

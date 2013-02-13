@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ODD_Import(${1:\$xml})]]></content>
+    <tabTrigger>ODD_Import</tabTrigger>
+    <scope>source.php</scope>
+    <description>Import an ODD document.</description>
+</snippet>

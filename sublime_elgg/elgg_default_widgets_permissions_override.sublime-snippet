@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_default_widgets_permissions_override(${1:\$hook}, ${2:\$type}, ${3:\$return}, ${4:\$params})]]></content>
+    <tabTrigger>elgg_default_widgets_permissions_override</tabTrigger>
+    <scope>source.php</scope>
+    <description>Overrides permissions checks when creating widgets for logged out users.</description>
+</snippet>

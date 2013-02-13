@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_language_completeness(${1:\$language})]]></content>
+    <tabTrigger>get_language_completeness</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the level of completeness for a given language code (compared to english)</description>
+</snippet>

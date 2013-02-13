@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[init_db()]]></content>
+    <tabTrigger>init_db</tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers shutdown functions for database profiling and delayed queries.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[entities_init()]]></content>
+    <tabTrigger>entities_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Entities init function; establishes the default entity page handler</description>
+</snippet>

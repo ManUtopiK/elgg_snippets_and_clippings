@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_disable_metadata(${1:array \$options})]]></content>
+    <tabTrigger>elgg_disable_metadata</tabTrigger>
+    <scope>source.php</scope>
+    <description>Disables metadata based on $options.</description>
+</snippet>

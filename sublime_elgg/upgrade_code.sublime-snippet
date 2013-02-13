@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[upgrade_code(${1:\$version}, ${2:\$quiet = FALSE})]]></content>
+    <tabTrigger>upgrade_code</tabTrigger>
+    <scope>source.php</scope>
+    <description>Run any php upgrade scripts which are required</description>
+</snippet>

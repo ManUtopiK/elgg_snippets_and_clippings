@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[string_to_tag_array(${1:\$string})]]></content>
+    <tabTrigger>string_to_tag_array</tabTrigger>
+    <scope>source.php</scope>
+    <description>Takes in a comma-separated string and returns an array of tags</description>
+</snippet>

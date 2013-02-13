@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_substr_count()]]></content>
+    <tabTrigger>elgg_substr_count</tabTrigger>
+    <scope>source.php</scope>
+    <description>Wrapper function for mb_substr_count(). Falls back to substr_count() if</description>
+</snippet>

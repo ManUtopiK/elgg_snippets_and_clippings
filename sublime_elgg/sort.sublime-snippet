@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sort(${1:\$callback = null})]]></content>
+    <tabTrigger>sort</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sort the elements optionally by a callback function.</description>
+</snippet>

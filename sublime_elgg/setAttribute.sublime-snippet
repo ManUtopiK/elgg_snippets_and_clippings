@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAttribute(${1:\$key}, ${2:\$value})]]></content>
+    <tabTrigger>setAttribute</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sets an attribute</description>
+</snippet>

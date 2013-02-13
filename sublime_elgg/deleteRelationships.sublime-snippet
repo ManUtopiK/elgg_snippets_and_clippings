@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[deleteRelationships()]]></content>
+    <tabTrigger>deleteRelationships</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remove all relationships to and from this entity.</description>
+</snippet>

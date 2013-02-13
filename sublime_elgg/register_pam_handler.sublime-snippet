@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[register_pam_handler(${1:\$handler}, ${2:\$importance = "sufficient"}, ${3:\$policy = "user"})]]></content>
+    <tabTrigger>register_pam_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register a PAM handler.</description>
+</snippet>

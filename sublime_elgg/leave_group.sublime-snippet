@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[leave_group(${1:\$group_guid}, ${2:\$user_guid})]]></content>
+    <tabTrigger>leave_group</tabTrigger>
+    <scope>source.php</scope>
+    <description>Remove a user from a group.</description>
+</snippet>

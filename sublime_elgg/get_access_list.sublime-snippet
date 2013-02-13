@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_access_list(${1:\$user_id = 0}, ${2:\$site_id = 0}, ${3:\$flush = false})]]></content>
+    <tabTrigger>get_access_list</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return a string of access_ids for $user_id appropriate for inserting into an SQL IN clause.</description>
+</snippet>

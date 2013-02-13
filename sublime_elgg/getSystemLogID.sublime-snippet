@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSystemLogID()]]></content>
+    <tabTrigger>getSystemLogID</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return an identification for the object for storage in the system log.</description>
+</snippet>

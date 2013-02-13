@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_unprocessed_upgrades(${1:\$upgrade_files = null}, ${2:\$processed_upgrades = null})]]></content>
+    <tabTrigger>elgg_get_unprocessed_upgrades</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks if any upgrades need to be run.</description>
+</snippet>

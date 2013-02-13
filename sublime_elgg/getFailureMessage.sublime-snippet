@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFailureMessage()]]></content>
+    <tabTrigger>getFailureMessage</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get a failure message to display to user</description>
+</snippet>

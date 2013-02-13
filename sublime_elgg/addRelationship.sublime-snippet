@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addRelationship(${1:\$guid}, ${2:\$relationship})]]></content>
+    <tabTrigger>addRelationship</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add a relationship between this an another entity.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[statistics_init()]]></content>
+    <tabTrigger>statistics_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialise the statistics admin page.</description>
+</snippet>

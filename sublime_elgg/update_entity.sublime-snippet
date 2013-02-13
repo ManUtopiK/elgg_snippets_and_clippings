@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[update_entity(${1:\$guid}, ${2:\$owner_guid}, ${3:\$access_id}, ${4:\$container_guid = null}, ${5:\$time_created = null})]]></content>
+    <tabTrigger>update_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Update an entity in the database.</description>
+</snippet>

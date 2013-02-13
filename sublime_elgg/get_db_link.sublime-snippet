@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_db_link(${1:\$dblinktype})]]></content>
+    <tabTrigger>get_db_link</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns (if required, also creates) a database link resource.</description>
+</snippet>

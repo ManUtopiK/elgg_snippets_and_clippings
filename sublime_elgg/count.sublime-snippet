@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[count()]]></content>
+    <tabTrigger>count</tabTrigger>
+    <scope>source.php</scope>
+    <description> PHP Iterator Interface</description>
+</snippet>

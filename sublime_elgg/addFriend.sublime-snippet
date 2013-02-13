@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addFriend(${1:\$friend_guid})]]></content>
+    <tabTrigger>addFriend</tabTrigger>
+    <scope>source.php</scope>
+    <description> Adds a user as a friend</description>
+</snippet>

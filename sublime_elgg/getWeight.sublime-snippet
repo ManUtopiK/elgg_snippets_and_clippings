@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWeight()]]></content>
+    <tabTrigger>getWeight</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the priority of the menu item</description>
+</snippet>

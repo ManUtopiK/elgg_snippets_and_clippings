@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[size()]]></content>
+    <tabTrigger>size</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the size of the file in bytes.</description>
+</snippet>

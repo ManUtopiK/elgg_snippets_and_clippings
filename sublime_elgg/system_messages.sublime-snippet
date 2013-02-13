@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[system_messages(${1:\$message = null}, ${2:\$register = "success"}, ${3:\$count = false})]]></content>
+    <tabTrigger>system_messages</tabTrigger>
+    <scope>source.php</scope>
+    <description>Queues a message to be displayed.</description>
+</snippet>

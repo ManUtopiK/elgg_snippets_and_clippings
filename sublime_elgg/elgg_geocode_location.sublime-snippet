@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_geocode_location(${1:\$location})]]></content>
+    <tabTrigger>elgg_geocode_location</tabTrigger>
+    <scope>source.php</scope>
+    <description>Encode a location into a latitude and longitude, caching the result.</description>
+</snippet>

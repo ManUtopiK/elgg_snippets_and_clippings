@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cron_init()]]></content>
+    <tabTrigger>cron_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Cron initialization</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setConfirmText(${1:\$text})]]></content>
+    <tabTrigger>setConfirmText</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the confirm text shown when link is clicked</description>
+</snippet>

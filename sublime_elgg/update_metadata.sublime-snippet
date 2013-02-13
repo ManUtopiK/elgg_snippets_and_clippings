@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[update_metadata(${1:\$id}, ${2:\$name}, ${3:\$value}, ${4:\$value_type}, ${5:\$owner_guid}, ${6:\$access_id})]]></content>
+    <tabTrigger>update_metadata</tabTrigger>
+    <scope>source.php</scope>
+    <description>Update a specific piece of metadata.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[version_upgrade()]]></content>
+    <tabTrigger>version_upgrade</tabTrigger>
+    <scope>source.php</scope>
+    <description>Upgrades Elgg Database and code</description>
+</snippet>

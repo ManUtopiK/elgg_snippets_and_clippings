@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_data(${1:\$query}, ${2:\$callback = ""})]]></content>
+    <tabTrigger>get_data</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieve rows from the database.</description>
+</snippet>

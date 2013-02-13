@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_create_upgrade_show_usage(${1:\$msg = ''})]]></content>
+    <tabTrigger>elgg_create_upgrade_show_usage</tabTrigger>
+    <scope>source.php</scope>
+    <description>Shows the usage for the create_upgrade script and dies().</description>
+</snippet>

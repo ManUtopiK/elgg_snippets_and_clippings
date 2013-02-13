@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addElement(${1:ODD \$element})]]></content>
+    <tabTrigger>addElement</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add an element</description>
+</snippet>

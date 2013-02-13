@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTooltip(${1:\$text})]]></content>
+    <tabTrigger>setTooltip</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the tool tip text</description>
+</snippet>

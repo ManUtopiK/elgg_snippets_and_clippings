@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_reindex_plugin_priorities()]]></content>
+    <tabTrigger>elgg_reindex_plugin_priorities</tabTrigger>
+    <scope>source.php</scope>
+    <description>Reindexes all plugin priorities starting at 1.</description>
+</snippet>

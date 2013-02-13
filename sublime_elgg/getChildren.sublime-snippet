@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getChildren()]]></content>
+    <tabTrigger>getChildren</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the children menu items</description>
+</snippet>

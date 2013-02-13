@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[list_all_apis()]]></content>
+    <tabTrigger>list_all_apis</tabTrigger>
+    <scope>source.php</scope>
+    <description>Simple api to return a list of all api's installed on the system.</description>
+</snippet>

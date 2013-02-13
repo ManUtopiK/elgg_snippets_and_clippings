@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_nav_init()]]></content>
+    <tabTrigger>elgg_nav_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Navigation initialization</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[validate_email_address(${1:\$address})]]></content>
+    <tabTrigger>validate_email_address</tabTrigger>
+    <scope>source.php</scope>
+    <description>Simple validation of a email.</description>
+</snippet>

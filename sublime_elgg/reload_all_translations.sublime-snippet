@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reload_all_translations()]]></content>
+    <tabTrigger>reload_all_translations</tabTrigger>
+    <scope>source.php</scope>
+    <description>Reload all translations from all registered paths.</description>
+</snippet>

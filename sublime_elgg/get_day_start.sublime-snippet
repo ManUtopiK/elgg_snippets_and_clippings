@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_day_start(${1:\$day = null}, ${2:\$month = null}, ${3:\$year = null})]]></content>
+    <tabTrigger>get_day_start</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return a timestamp for the start of a given day (defaults today).</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[offsetUnset(${1:\$key})]]></content>
+    <tabTrigger>offsetUnset</tabTrigger>
+    <scope>source.php</scope>
+    <description> Unset a value from the cache and the session.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[makeDirectoryRoot(${1:\$dirroot})]]></content>
+    <tabTrigger>makeDirectoryRoot</tabTrigger>
+    <scope>source.php</scope>
+    <description> Create a directory $dirroot</description>
+</snippet>

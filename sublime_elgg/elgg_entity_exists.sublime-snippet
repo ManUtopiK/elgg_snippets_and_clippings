@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_entity_exists(${1:\$guid})]]></content>
+    <tabTrigger>elgg_entity_exists</tabTrigger>
+    <scope>source.php</scope>
+    <description>Does an entity exist?</description>
+</snippet>

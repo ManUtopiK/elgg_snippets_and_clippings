@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[usersettings_init()]]></content>
+    <tabTrigger>usersettings_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialize the user settings library</description>
+</snippet>

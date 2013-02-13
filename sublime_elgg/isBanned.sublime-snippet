@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isBanned()]]></content>
+    <tabTrigger>isBanned</tabTrigger>
+    <scope>source.php</scope>
+    <description> Is this user banned or not?</description>
+</snippet>

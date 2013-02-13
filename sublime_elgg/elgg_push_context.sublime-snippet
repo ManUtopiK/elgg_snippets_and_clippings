@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_push_context(${1:\$context})]]></content>
+    <tabTrigger>elgg_push_context</tabTrigger>
+    <scope>source.php</scope>
+    <description>Push a context onto the top of the stack</description>
+</snippet>

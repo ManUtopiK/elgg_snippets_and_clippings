@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_user_name()]]></content>
+    <tabTrigger>elgg_set_user_name</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set a user's display name</description>
+</snippet>

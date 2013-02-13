@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParentName()]]></content>
+    <tabTrigger>getParentName</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the parent identifier</description>
+</snippet>

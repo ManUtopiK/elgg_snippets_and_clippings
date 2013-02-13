@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_annotation_list(${1:\$annotations}, array(
+	'${2:key}' => ${3:value},
+))]]></content>
+    <tabTrigger>elgg_view_annotation_list</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns a rendered list of annotations, plus pagination. This function</description>
+</snippet>

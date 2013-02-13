@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[register_notification_object(${1:\$entity_type}, ${2:\$object_subtype}, ${3:\$language_name})]]></content>
+    <tabTrigger>register_notification_object</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register an entity type and subtype to be eligible for notifications</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSubtype()]]></content>
+    <tabTrigger>getSubtype</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the subtype of the object</description>
+</snippet>

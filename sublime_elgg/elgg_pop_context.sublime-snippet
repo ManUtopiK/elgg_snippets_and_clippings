@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_pop_context()]]></content>
+    <tabTrigger>elgg_pop_context</tabTrigger>
+    <scope>source.php</scope>
+    <description>Removes and returns the top context string from the stack</description>
+</snippet>

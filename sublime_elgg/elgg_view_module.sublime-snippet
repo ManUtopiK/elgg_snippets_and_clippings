@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_module(${1:\$type}, ${2:\$title}, ${3:\$body}, array(
+	'${4:key}' => ${5:value},
+))]]></content>
+    <tabTrigger>elgg_view_module</tabTrigger>
+    <scope>source.php</scope>
+    <description>Wrapper function for the module display pattern.</description>
+</snippet>

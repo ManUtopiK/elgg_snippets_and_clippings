@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_load_js(${1:\$name})]]></content>
+    <tabTrigger>elgg_load_js</tabTrigger>
+    <scope>source.php</scope>
+    <description>Load a JavaScript resource on this page</description>
+</snippet>

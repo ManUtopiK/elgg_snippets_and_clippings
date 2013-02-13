@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_image_block(${1:\$image}, ${2:\$body}, array(
+	'${3:key}' => ${4:value},
+))]]></content>
+    <tabTrigger>elgg_view_image_block</tabTrigger>
+    <scope>source.php</scope>
+    <description>Wrapper function for the image block display pattern.</description>
+</snippet>

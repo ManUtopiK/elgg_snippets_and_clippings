@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_deprecated_notice(${1:\$msg}, ${2:\$dep_version}, ${3:\$backtrace_level = 1})]]></content>
+    <tabTrigger>elgg_deprecated_notice</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sends a notice about deprecated use of a function, view, etc.</description>
+</snippet>

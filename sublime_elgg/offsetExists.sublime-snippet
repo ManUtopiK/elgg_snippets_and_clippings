@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[offsetExists(${1:\$offset})]]></content>
+    <tabTrigger>offsetExists</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return whether the value is set in either the session or the cache.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMethodName()]]></content>
+    <tabTrigger>getMethodName</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the method name associated with the call.</description>
+</snippet>

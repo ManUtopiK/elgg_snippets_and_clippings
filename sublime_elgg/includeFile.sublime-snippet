@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[includeFile(${1:\$filename})]]></content>
+    <tabTrigger>includeFile</tabTrigger>
+    <scope>source.php</scope>
+    <description> Includes one of the plugins files</description>
+</snippet>

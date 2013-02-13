@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[collections_submenu_items()]]></content>
+    <tabTrigger>collections_submenu_items</tabTrigger>
+    <scope>source.php</scope>
+    <description>Adds collection submenu items</description>
+</snippet>

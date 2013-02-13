@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getGUID()]]></content>
+    <tabTrigger>getGUID</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns the guid.</description>
+</snippet>

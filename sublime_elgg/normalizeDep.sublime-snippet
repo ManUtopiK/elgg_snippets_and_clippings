@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[normalizeDep(${1:\$dep})]]></content>
+    <tabTrigger>normalizeDep</tabTrigger>
+    <scope>source.php</scope>
+    <description> Normalizes a dependency array using the defined structs.</description>
+</snippet>

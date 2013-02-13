@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[leave(${1:ElggUser \$user})]]></content>
+    <tabTrigger>leave</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remove a user from the group.</description>
+</snippet>

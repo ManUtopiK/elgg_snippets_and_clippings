@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getType()]]></content>
+    <tabTrigger>getType</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the type of the object</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_js(${1:\$name}, ${2:\$url}, ${3:\$location = 'head'}, ${4:\$priority = null})]]></content>
+    <tabTrigger>elgg_register_js</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register a JavaScript file for inclusion</description>
+</snippet>

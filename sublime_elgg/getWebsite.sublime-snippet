@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWebsite()]]></content>
+    <tabTrigger>getWebsite</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the website</description>
+</snippet>

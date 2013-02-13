@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transliterateAscii(${1:\$utf8})]]></content>
+    <tabTrigger>transliterateAscii</tabTrigger>
+    <scope>source.php</scope>
+    <description> Transliterate Western multibyte chars to ASCII</description>
+</snippet>

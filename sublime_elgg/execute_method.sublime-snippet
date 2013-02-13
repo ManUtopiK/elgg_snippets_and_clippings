@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[execute_method(${1:\$method})]]></content>
+    <tabTrigger>execute_method</tabTrigger>
+    <scope>source.php</scope>
+    <description>Executes a method.</description>
+</snippet>

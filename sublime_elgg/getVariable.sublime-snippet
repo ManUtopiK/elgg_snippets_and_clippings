@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVariable(${1:\$variable})]]></content>
+    <tabTrigger>getVariable</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get variables for this cache.</description>
+</snippet>

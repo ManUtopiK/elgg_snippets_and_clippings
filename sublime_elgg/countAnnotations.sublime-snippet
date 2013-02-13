@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[countAnnotations(${1:\$name = ""})]]></content>
+    <tabTrigger>countAnnotations</tabTrigger>
+    <scope>source.php</scope>
+    <description> Count annotations.</description>
+</snippet>

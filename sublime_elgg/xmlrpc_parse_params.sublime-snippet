@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[xmlrpc_parse_params(${1:\$parameters})]]></content>
+    <tabTrigger>xmlrpc_parse_params</tabTrigger>
+    <scope>source.php</scope>
+    <description>parse XMLRPCCall parameters</description>
+</snippet>

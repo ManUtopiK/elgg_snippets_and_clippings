@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_views_handle_deprecated_views()]]></content>
+    <tabTrigger>elgg_views_handle_deprecated_views</tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers deprecated views to avoid making some pages from older plugins</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_clean_vars(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_clean_vars</tabTrigger>
+    <scope>source.php</scope>
+    <description>Preps an associative array for use in {@link elgg_format_attributes()}.</description>
+</snippet>

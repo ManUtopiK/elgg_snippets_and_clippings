@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNamespace(${1:\$namespace = "default"})]]></content>
+    <tabTrigger>setNamespace</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the namespace of this cache.</description>
+</snippet>

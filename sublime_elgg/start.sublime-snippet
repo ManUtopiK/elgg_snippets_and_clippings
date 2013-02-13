@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[start(${1:\$flags})]]></content>
+    <tabTrigger>start</tabTrigger>
+    <scope>source.php</scope>
+    <description> Start the plugin.</description>
+</snippet>

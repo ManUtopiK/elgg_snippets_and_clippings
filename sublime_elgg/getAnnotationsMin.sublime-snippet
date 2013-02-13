@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnnotationsMin(${1:\$name})]]></content>
+    <tabTrigger>getAnnotationsMin</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the minimum of integer type annotations of given name.</description>
+</snippet>

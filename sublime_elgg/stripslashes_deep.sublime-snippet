@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stripslashes_deep(${1:\$value})]]></content>
+    <tabTrigger>stripslashes_deep</tabTrigger>
+    <scope>source.php</scope>
+    <description>* Strip slashes on everything</description>
+</snippet>

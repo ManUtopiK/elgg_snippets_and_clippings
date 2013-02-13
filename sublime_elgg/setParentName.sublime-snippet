@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setParentName(${1:\$name})]]></content>
+    <tabTrigger>setParentName</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the parent identifier</description>
+</snippet>

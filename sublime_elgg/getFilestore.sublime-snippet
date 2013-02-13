@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFilestore()]]></content>
+    <tabTrigger>getFilestore</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return a filestore suitable for saving this file.</description>
+</snippet>

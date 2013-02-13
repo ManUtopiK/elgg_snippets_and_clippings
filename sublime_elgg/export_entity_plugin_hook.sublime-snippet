@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[export_entity_plugin_hook(${1:\$hook}, ${2:\$entity_type}, ${3:\$returnvalue}, ${4:\$params})]]></content>
+    <tabTrigger>export_entity_plugin_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Exports all attributes of an entity.</description>
+</snippet>

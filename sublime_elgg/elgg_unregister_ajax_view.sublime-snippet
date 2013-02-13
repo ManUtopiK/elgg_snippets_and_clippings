@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_unregister_ajax_view(${1:\$view})]]></content>
+    <tabTrigger>elgg_unregister_ajax_view</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unregister a view for ajax calls</description>
+</snippet>

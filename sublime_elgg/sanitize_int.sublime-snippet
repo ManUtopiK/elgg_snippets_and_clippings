@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sanitize_int(${1:\$int}, ${2:\$signed = true})]]></content>
+    <tabTrigger>sanitize_int</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sanitizes an integer for database use.</description>
+</snippet>

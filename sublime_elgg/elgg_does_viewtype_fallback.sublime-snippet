@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_does_viewtype_fallback(${1:\$viewtype})]]></content>
+    <tabTrigger>elgg_does_viewtype_fallback</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks if a viewtype falls back to default.</description>
+</snippet>

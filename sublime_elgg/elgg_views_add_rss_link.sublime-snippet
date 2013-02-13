@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_views_add_rss_link()]]></content>
+    <tabTrigger>elgg_views_add_rss_link</tabTrigger>
+    <scope>source.php</scope>
+    <description>Add the rss link to the extras when if needed</description>
+</snippet>

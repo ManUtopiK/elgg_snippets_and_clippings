@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_user_account_page_handler(${1:\$page_elements}, ${2:\$handler})]]></content>
+    <tabTrigger>elgg_user_account_page_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Page handler for account related pages</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnnotationsMax(${1:\$name})]]></content>
+    <tabTrigger>getAnnotationsMax</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the maximum of integer type annotations of a given name.</description>
+</snippet>

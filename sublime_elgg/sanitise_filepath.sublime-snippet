@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sanitise_filepath(${1:\$path}, ${2:\$append_slash = TRUE})]]></content>
+    <tabTrigger>sanitise_filepath</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sanitise file paths ensuring that they begin and end with slashes etc.</description>
+</snippet>

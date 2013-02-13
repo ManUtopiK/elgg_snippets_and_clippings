@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAsciiTranslitMap()]]></content>
+    <tabTrigger>getAsciiTranslitMap</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get array of UTF-8 (NFC) character replacements.</description>
+</snippet>

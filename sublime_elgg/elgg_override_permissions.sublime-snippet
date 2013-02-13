@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_override_permissions(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>elgg_override_permissions</tabTrigger>
+    <scope>source.php</scope>
+    <description>Overrides the access system if appropriate.</description>
+</snippet>

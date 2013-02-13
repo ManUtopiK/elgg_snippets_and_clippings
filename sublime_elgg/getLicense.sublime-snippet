@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLicense()]]></content>
+    <tabTrigger>getLicense</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns the license</description>
+</snippet>

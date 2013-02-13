@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[service_handler(${1:\$handler}, ${2:\$request})]]></content>
+    <tabTrigger>service_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Services handler - turns request over to the registered handler</description>
+</snippet>

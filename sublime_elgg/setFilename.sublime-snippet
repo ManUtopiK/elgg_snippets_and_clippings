@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFilename(${1:\$name})]]></content>
+    <tabTrigger>setFilename</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the filename of this file.</description>
+</snippet>

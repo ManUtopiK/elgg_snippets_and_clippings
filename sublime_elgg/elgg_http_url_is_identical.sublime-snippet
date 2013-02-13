@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_http_url_is_identical(${1:\$url1}, ${2:\$url2}, ${3:\$ignore_params = array('offset'}, ${4:'limit')})]]></content>
+    <tabTrigger>elgg_http_url_is_identical</tabTrigger>
+    <scope>source.php</scope>
+    <description>Test if two URLs are functionally identical.</description>
+</snippet>

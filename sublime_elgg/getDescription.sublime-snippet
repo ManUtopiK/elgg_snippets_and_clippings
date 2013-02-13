@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDescription()]]></content>
+    <tabTrigger>getDescription</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the description</description>
+</snippet>

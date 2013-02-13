@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[users_init()]]></content>
+    <tabTrigger>users_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Users initialisation function, which establishes the page handler</description>
+</snippet>

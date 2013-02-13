@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[is_uuid_this_domain(${1:\$uuid})]]></content>
+    <tabTrigger>is_uuid_this_domain</tabTrigger>
+    <scope>source.php</scope>
+    <description>Test to see if a given uuid is for this domain, returning true if so.</description>
+</snippet>

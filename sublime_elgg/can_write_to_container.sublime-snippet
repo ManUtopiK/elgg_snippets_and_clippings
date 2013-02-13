@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[can_write_to_container(${1:\$user_guid = 0}, ${2:\$container_guid = 0}, ${3:\$type = 'all'}, ${4:\$subtype = 'all'})]]></content>
+    <tabTrigger>can_write_to_container</tabTrigger>
+    <scope>source.php</scope>
+    <description>Determine if a given user can write to an entity container.</description>
+</snippet>

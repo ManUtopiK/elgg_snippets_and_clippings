@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[set_default_filestore(${1:ElggFilestore \$filestore})]]></content>
+    <tabTrigger>set_default_filestore</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set the default filestore for the system.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[detectMimeType(${1:\$file = null}, ${2:\$default = null})]]></content>
+    <tabTrigger>detectMimeType</tabTrigger>
+    <scope>source.php</scope>
+    <description> Detects mime types based on filename or actual file.</description>
+</snippet>

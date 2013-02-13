@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_annotation_from_id(${1:\$id})]]></content>
+    <tabTrigger>elgg_get_annotation_from_id</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get a specific annotation by its id.</description>
+</snippet>

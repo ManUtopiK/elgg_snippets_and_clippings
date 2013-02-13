@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clear_user_files(${1:\$user})]]></content>
+    <tabTrigger>clear_user_files</tabTrigger>
+    <scope>source.php</scope>
+    <description>Removes all user files</description>
+</snippet>

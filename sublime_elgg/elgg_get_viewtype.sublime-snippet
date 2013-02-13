@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_viewtype()]]></content>
+    <tabTrigger>elgg_get_viewtype</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the current view type.</description>
+</snippet>

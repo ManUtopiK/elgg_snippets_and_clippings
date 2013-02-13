@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setWrapperFactory(${1:ODDWrapperFactory \$factory})]]></content>
+    <tabTrigger>setWrapperFactory</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set an optional wrapper factory to optionally embed the ODD document in another format.</description>
+</snippet>

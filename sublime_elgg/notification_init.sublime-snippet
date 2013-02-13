@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[notification_init()]]></content>
+    <tabTrigger>notification_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Correctly initialise notifications and register the email handler.</description>
+</snippet>

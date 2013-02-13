@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPublishedAsTime()]]></content>
+    <tabTrigger>getPublishedAsTime</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the published time as a unix timestamp.</description>
+</snippet>

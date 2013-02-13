@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sanitise_filename(${1:\$filename})]]></content>
+    <tabTrigger>sanitise_filename</tabTrigger>
+    <scope>source.php</scope>
+    <description> Create a sanitised filename for the file.</description>
+</snippet>

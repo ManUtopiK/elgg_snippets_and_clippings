@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[elgg_view_form(${1:\$action}, array(
+	'${2:key}' => ${3:value},
+), array(
+	'${4:key}' => ${5:value},
+))]]></content>
+    <tabTrigger>elgg_view_form</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convenience function for generating a form from a view in a standard location.</description>
+</snippet>

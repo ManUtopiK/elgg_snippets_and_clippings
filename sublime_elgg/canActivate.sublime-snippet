@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[canActivate(${1:\$site_guid = null})]]></content>
+    <tabTrigger>canActivate</tabTrigger>
+    <scope>source.php</scope>
+    <description> Checks if this plugin can be activated on the current</description>
+</snippet>

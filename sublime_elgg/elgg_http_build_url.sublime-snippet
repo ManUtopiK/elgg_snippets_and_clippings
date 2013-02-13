@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_http_build_url(${1:array \$parts}, ${2:\$html_encode = TRUE})]]></content>
+    <tabTrigger>elgg_http_build_url</tabTrigger>
+    <scope>source.php</scope>
+    <description>Builds a URL from the a parts array like one returned by {@link parse_url()}.</description>
+</snippet>

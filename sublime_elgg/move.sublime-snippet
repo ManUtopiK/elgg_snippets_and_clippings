@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[move(${1:\$column}, ${2:\$rank})]]></content>
+    <tabTrigger>move</tabTrigger>
+    <scope>source.php</scope>
+    <description> Move the widget</description>
+</snippet>

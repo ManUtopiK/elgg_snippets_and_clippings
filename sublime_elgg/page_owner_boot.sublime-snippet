@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[page_owner_boot()]]></content>
+    <tabTrigger>page_owner_boot</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initializes the page owner functions</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addParameter(${1:XMLRPCParameter \$param})]]></content>
+    <tabTrigger>addParameter</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add a parameter here.</description>
+</snippet>

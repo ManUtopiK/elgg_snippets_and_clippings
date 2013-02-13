@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[serialise_object_to_xml(${1:\$data}, ${2:\$name = ""}, ${3:\$n = 0})]]></content>
+    <tabTrigger>serialise_object_to_xml</tabTrigger>
+    <scope>source.php</scope>
+    <description>This function serialises an object recursively into an XML representation.</description>
+</snippet>

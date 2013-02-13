@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_ajax_view(${1:\$view})]]></content>
+    <tabTrigger>elgg_register_ajax_view</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register a view to be available for ajax calls</description>
+</snippet>

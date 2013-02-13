@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_namespace_plugin_private_setting(${1:\$type}, ${2:\$name}, ${3:\$id = null})]]></content>
+    <tabTrigger>elgg_namespace_plugin_private_setting</tabTrigger>
+    <scope>source.php</scope>
+    <description>Namespaces a string to be used as a private setting for a plugin.</description>
+</snippet>

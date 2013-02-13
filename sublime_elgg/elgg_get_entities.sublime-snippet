@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_get_entities(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_get_entities</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns an array of entities with optional filtering.</description>
+</snippet>

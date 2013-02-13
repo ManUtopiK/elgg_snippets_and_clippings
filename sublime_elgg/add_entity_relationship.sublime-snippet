@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_entity_relationship(${1:\$guid_one}, ${2:\$relationship}, ${3:\$guid_two})]]></content>
+    <tabTrigger>add_entity_relationship</tabTrigger>
+    <scope>source.php</scope>
+    <description>Define an arbitrary relationship between two entities.</description>
+</snippet>

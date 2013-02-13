@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[user_file_matrix_2010071001(${1:\$guid})]]></content>
+    <tabTrigger>user_file_matrix_2010071001</tabTrigger>
+    <scope>source.php</scope>
+    <description>Need the same function to generate a user matrix, but can't call it</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_metastring_based_object_enabled_by_id(${1:\$id}, ${2:\$enabled}, ${3:\$type})]]></content>
+    <tabTrigger>elgg_set_metastring_based_object_enabled_by_id</tabTrigger>
+    <scope>source.php</scope>
+    <description>Enables or disables a metastrings-based object by its id.</description>
+</snippet>

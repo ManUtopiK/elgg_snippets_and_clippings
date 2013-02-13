@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getActivateOnInstall()]]></content>
+    <tabTrigger>getActivateOnInstall</tabTrigger>
+    <scope>source.php</scope>
+    <description> Should this plugin be activated when Elgg is installed</description>
+</snippet>

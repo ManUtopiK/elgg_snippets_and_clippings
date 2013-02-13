@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setName(${1:\$name})]]></content>
+    <tabTrigger>setName</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the identifier of the menu item</description>
+</snippet>

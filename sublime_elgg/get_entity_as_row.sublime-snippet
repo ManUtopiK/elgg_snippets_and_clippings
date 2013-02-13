@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_entity_as_row(${1:\$guid})]]></content>
+    <tabTrigger>get_entity_as_row</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns a database row from the entities table.</description>
+</snippet>

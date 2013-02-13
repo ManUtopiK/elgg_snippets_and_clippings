@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_users_setup_entity_menu(${1:\$hook}, ${2:\$type}, ${3:\$return}, ${4:\$params})]]></content>
+    <tabTrigger>elgg_users_setup_entity_menu</tabTrigger>
+    <scope>source.php</scope>
+    <description>Setup the menu shown with an entity</description>
+</snippet>

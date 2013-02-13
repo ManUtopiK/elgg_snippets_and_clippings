@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_current_language()]]></content>
+    <tabTrigger>get_current_language</tabTrigger>
+    <scope>source.php</scope>
+    <description>Detect the current language being used by the current site or logged in user.</description>
+</snippet>

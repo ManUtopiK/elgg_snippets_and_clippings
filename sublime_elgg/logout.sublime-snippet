@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[logout()]]></content>
+    <tabTrigger>logout</tabTrigger>
+    <scope>source.php</scope>
+    <description>Log the current user out</description>
+</snippet>

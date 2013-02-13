@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getView()]]></content>
+    <tabTrigger>getView</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the view used to display this river item</description>
+</snippet>

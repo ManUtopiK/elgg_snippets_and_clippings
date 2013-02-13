@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[detect_extender_valuetype(${1:\$value}, ${2:\$value_type = ""})]]></content>
+    <tabTrigger>detect_extender_valuetype</tabTrigger>
+    <scope>source.php</scope>
+    <description>Detect the value_type for a given value.</description>
+</snippet>

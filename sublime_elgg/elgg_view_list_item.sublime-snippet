@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_list_item(${1:\$item}, array(
+	'${2:key}' => ${3:value},
+))]]></content>
+    <tabTrigger>elgg_view_list_item</tabTrigger>
+    <scope>source.php</scope>
+    <description>View an item in a list</description>
+</snippet>

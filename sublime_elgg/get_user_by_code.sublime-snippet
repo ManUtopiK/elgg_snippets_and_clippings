@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_user_by_code(${1:\$code})]]></content>
+    <tabTrigger>get_user_by_code</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get user by session code</description>
+</snippet>

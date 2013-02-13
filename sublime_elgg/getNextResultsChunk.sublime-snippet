@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNextResultsChunk()]]></content>
+    <tabTrigger>getNextResultsChunk</tabTrigger>
+    <scope>source.php</scope>
+    <description> Fetches the next chunk of results</description>
+</snippet>

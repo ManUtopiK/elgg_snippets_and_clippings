@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setWeight(${1:\$priority})]]></content>
+    <tabTrigger>setWeight</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the priority of the menu item</description>
+</snippet>

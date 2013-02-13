@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[user_avatar_hook(${1:\$hook}, ${2:\$entity_type}, ${3:\$returnvalue}, ${4:\$params})]]></content>
+    <tabTrigger>user_avatar_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Serves the user's avatar</description>
+</snippet>

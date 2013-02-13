@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[notification_user_settings_save()]]></content>
+    <tabTrigger>notification_user_settings_save</tabTrigger>
+    <scope>source.php</scope>
+    <description>Includes the action to save user notifications</description>
+</snippet>

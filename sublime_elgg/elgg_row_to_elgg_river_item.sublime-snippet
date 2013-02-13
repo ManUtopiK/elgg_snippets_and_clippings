@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_row_to_elgg_river_item(${1:\$row})]]></content>
+    <tabTrigger>elgg_row_to_elgg_river_item</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convert a database row to a new ElggRiverItem</description>
+</snippet>

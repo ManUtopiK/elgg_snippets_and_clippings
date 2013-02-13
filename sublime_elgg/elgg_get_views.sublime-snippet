@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_views(${1:\$dir}, ${2:\$base})]]></content>
+    <tabTrigger>elgg_get_views</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the name of views for in a directory.</description>
+</snippet>

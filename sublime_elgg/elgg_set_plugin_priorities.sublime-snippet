@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_plugin_priorities(${1:array \$order})]]></content>
+    <tabTrigger>elgg_set_plugin_priorities</tabTrigger>
+    <scope>source.php</scope>
+    <description>Reorder plugins to an order specified by the array.</description>
+</snippet>

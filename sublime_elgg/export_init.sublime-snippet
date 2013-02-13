@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[export_init()]]></content>
+    <tabTrigger>export_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register the OpenDD import action</description>
+</snippet>

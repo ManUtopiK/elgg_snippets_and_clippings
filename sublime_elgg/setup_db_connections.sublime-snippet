@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setup_db_connections()]]></content>
+    <tabTrigger>setup_db_connections</tabTrigger>
+    <scope>source.php</scope>
+    <description>Establish database connections</description>
+</snippet>

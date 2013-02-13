@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_admin_add_plugin_settings_menu()]]></content>
+    <tabTrigger>elgg_admin_add_plugin_settings_menu</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create the plugin settings page menu.</description>
+</snippet>

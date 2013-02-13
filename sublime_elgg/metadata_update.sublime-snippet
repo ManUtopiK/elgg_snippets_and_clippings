@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[metadata_update(${1:\$event}, ${2:\$object_type}, ${3:\$object})]]></content>
+    <tabTrigger>metadata_update</tabTrigger>
+    <scope>source.php</scope>
+    <description>When an entity is updated, resets the access ID on all of its child metadata</description>
+</snippet>

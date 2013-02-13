@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[verify_parameters(${1:\$method}, ${2:\$parameters})]]></content>
+    <tabTrigger>verify_parameters</tabTrigger>
+    <scope>source.php</scope>
+    <description>Verify that the required parameters are present</description>
+</snippet>

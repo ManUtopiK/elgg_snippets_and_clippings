@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_version(${1:\$humanreadable = false})]]></content>
+    <tabTrigger>get_version</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the current Elgg version information</description>
+</snippet>

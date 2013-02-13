@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDescription(${1:\$description})]]></content>
+    <tabTrigger>setDescription</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the optional file description.</description>
+</snippet>

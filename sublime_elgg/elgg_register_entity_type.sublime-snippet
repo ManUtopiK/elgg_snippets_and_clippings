@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_entity_type(${1:\$type}, ${2:\$subtype = null})]]></content>
+    <tabTrigger>elgg_register_entity_type</tabTrigger>
+    <scope>source.php</scope>
+    <description>Registers an entity type and subtype as a public-facing entity that should</description>
+</snippet>

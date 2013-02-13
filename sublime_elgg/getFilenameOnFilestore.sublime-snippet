@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFilenameOnFilestore()]]></content>
+    <tabTrigger>getFilenameOnFilestore</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the filename of this file as it is/will be stored on the</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_extend_view(${1:\$view}, ${2:\$view_extension}, ${3:\$priority = 501}, ${4:\$viewtype = ''})]]></content>
+    <tabTrigger>elgg_extend_view</tabTrigger>
+    <scope>source.php</scope>
+    <description>Extends a view with another view.</description>
+</snippet>

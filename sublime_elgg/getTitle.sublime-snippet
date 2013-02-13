@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitle()]]></content>
+    <tabTrigger>getTitle</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the title of the widget</description>
+</snippet>

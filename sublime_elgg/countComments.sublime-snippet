@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[countComments()]]></content>
+    <tabTrigger>countComments</tabTrigger>
+    <scope>source.php</scope>
+    <description> Count the number of comments attached to this entity.</description>
+</snippet>

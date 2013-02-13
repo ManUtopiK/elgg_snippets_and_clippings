@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearMetaData(${1:\$name = ''})]]></content>
+    <tabTrigger>clearMetaData</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remove metadata</description>
+</snippet>

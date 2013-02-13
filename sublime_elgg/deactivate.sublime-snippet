@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[deactivate(${1:\$site_guid = null})]]></content>
+    <tabTrigger>deactivate</tabTrigger>
+    <scope>source.php</scope>
+    <description> Deactivates the plugin.</description>
+</snippet>

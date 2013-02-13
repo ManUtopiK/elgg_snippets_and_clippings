@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[file_get_general_file_type(${1:\$mimetype})]]></content>
+    <tabTrigger>file_get_general_file_type</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns an overall file type from the mimetype</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setItemClass(${1:\$class})]]></content>
+    <tabTrigger>setItemClass</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the li classes</description>
+</snippet>

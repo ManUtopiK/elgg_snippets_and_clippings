@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[delete()]]></content>
+    <tabTrigger>delete</tabTrigger>
+    <scope>source.php</scope>
+    <description> User specific override of the entity delete method.</description>
+</snippet>

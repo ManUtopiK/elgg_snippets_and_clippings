@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnnotation()]]></content>
+    <tabTrigger>getAnnotation</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the Annotation for this river item</description>
+</snippet>

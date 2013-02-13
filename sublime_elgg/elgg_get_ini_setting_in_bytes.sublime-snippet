@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_ini_setting_in_bytes(${1:\$setting})]]></content>
+    <tabTrigger>elgg_get_ini_setting_in_bytes</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns a PHP INI setting in bytes.</description>
+</snippet>

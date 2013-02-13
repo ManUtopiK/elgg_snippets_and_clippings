@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_viewtype(${1:\$viewtype = ""})]]></content>
+    <tabTrigger>elgg_set_viewtype</tabTrigger>
+    <scope>source.php</scope>
+    <description>Manually set the viewtype.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[set_last_action(${1:\$user_guid})]]></content>
+    <tabTrigger>set_last_action</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sets the last action time of the given user to right now.</description>
+</snippet>

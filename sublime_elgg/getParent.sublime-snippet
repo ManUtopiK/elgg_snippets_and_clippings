@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParent()]]></content>
+    <tabTrigger>getParent</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the parent menu item</description>
+</snippet>

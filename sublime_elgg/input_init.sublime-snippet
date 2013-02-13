@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[input_init()]]></content>
+    <tabTrigger>input_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register input functions and sanitize input</description>
+</snippet>

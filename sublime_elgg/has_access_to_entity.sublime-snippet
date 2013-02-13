@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[has_access_to_entity(${1:\$entity}, ${2:\$user = null})]]></content>
+    <tabTrigger>has_access_to_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Can a user access an entity.</description>
+</snippet>

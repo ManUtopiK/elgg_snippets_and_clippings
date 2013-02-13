@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_init()]]></content>
+    <tabTrigger>elgg_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Elgg's main init.</description>
+</snippet>

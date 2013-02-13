@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[explain_query(${1:\$query}, ${2:\$link})]]></content>
+    <tabTrigger>explain_query</tabTrigger>
+    <scope>source.php</scope>
+    <description>Execute an EXPLAIN for $query.</description>
+</snippet>

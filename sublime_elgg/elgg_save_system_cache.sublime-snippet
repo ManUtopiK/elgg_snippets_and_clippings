@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_save_system_cache(${1:\$type}, ${2:\$data})]]></content>
+    <tabTrigger>elgg_save_system_cache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Saves a system cache.</description>
+</snippet>

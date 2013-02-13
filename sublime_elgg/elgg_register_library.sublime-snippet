@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_library(${1:\$name}, ${2:\$location})]]></content>
+    <tabTrigger>elgg_register_library</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register a php library.</description>
+</snippet>

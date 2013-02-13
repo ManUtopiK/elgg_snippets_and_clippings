@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pam_auth_session()]]></content>
+    <tabTrigger>pam_auth_session</tabTrigger>
+    <scope>source.php</scope>
+    <description>See if the user has a valid login sesson</description>
+</snippet>

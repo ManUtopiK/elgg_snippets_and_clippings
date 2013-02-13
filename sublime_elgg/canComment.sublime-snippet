@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[canComment(${1:\$user_guid = 0})]]></content>
+    <tabTrigger>canComment</tabTrigger>
+    <scope>source.php</scope>
+    <description> Can a user comment on this user?</description>
+</snippet>

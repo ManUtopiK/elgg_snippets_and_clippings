@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[annotate(${1:\$name}, ${2:\$value}, ${3:\$access_id = ACCESS_PRIVATE}, ${4:\$owner_id = 0}, ${5:\$vartype = ""})]]></content>
+    <tabTrigger>annotate</tabTrigger>
+    <scope>source.php</scope>
+    <description> Adds an annotation to an entity.</description>
+</snippet>

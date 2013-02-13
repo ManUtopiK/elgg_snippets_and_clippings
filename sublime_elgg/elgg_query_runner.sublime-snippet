@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_query_runner(${1:\$query}, ${2:\$callback = null}, ${3:\$single = false})]]></content>
+    <tabTrigger>elgg_query_runner</tabTrigger>
+    <scope>source.php</scope>
+    <description>Handles returning data from a query, running it through a callback function,</description>
+</snippet>

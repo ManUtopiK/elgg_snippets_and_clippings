@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ajax_forward_hook(${1:\$hook}, ${2:\$type}, ${3:\$reason}, ${4:\$params})]]></content>
+    <tabTrigger>ajax_forward_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Catch calls to forward() in ajax request and force an exit.</description>
+</snippet>

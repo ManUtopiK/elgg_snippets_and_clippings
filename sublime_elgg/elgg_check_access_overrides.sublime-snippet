@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_check_access_overrides(${1:\$user_guid = 0})]]></content>
+    <tabTrigger>elgg_check_access_overrides</tabTrigger>
+    <scope>source.php</scope>
+    <description>Decides if the access system should be ignored for a user.</description>
+</snippet>

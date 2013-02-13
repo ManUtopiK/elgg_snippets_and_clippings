@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[register_translations(${1:\$path}, ${2:\$load_all = false})]]></content>
+    <tabTrigger>register_translations</tabTrigger>
+    <scope>source.php</scope>
+    <description>When given a full path, finds translation files and loads them</description>
+</snippet>

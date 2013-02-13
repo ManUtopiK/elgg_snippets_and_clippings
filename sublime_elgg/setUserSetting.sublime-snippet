@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUserSetting(${1:\$name}, ${2:\$value}, ${3:\$user_guid = null})]]></content>
+    <tabTrigger>setUserSetting</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sets a user setting for a plugin</description>
+</snippet>

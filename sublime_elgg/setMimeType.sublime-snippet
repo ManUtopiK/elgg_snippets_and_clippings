@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMimeType(${1:\$mimetype})]]></content>
+    <tabTrigger>setMimeType</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the mime type of the file.</description>
+</snippet>

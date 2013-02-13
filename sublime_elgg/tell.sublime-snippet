@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tell()]]></content>
+    <tabTrigger>tell</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the current position of the file.</description>
+</snippet>

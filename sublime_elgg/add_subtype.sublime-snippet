@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_subtype(${1:\$type}, ${2:\$subtype}, ${3:\$class = ""})]]></content>
+    <tabTrigger>add_subtype</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register ElggEntities with a certain type and subtype to be loaded as a specific class.</description>
+</snippet>

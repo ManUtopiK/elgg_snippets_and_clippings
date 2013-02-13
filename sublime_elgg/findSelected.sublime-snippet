@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[findSelected()]]></content>
+    <tabTrigger>findSelected</tabTrigger>
+    <scope>source.php</scope>
+    <description> Find the menu item that is currently selected</description>
+</snippet>

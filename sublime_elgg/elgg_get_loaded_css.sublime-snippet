@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_loaded_css()]]></content>
+    <tabTrigger>elgg_get_loaded_css</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the loaded CSS URLs</description>
+</snippet>

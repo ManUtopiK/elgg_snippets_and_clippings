@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[selectFromContext()]]></content>
+    <tabTrigger>selectFromContext</tabTrigger>
+    <scope>source.php</scope>
+    <description> Select menu items for the current context</description>
+</snippet>

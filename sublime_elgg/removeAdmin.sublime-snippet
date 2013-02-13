@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAdmin()]]></content>
+    <tabTrigger>removeAdmin</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remove the admin flag for user</description>
+</snippet>

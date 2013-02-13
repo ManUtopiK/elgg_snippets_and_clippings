@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[import_relationship_plugin_hook(${1:\$hook}, ${2:\$entity_type}, ${3:\$returnvalue}, ${4:\$params})]]></content>
+    <tabTrigger>import_relationship_plugin_hook</tabTrigger>
+    <scope>source.php</scope>
+    <description>Handler called by trigger_plugin_hook on the "import" event.</description>
+</snippet>

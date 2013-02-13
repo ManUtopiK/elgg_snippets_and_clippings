@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[merge_directories(${1:\$from}, ${2:\$to}, ${3:\$move = false}, ${4:\$preference = 'to'})]]></content>
+    <tabTrigger>merge_directories</tabTrigger>
+    <scope>source.php</scope>
+    <description>Scans a directory and moves any files from $from to $to</description>
+</snippet>

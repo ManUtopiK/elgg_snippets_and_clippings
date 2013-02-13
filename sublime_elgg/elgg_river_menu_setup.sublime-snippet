@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_river_menu_setup(${1:\$hook}, ${2:\$type}, ${3:\$return}, ${4:\$params})]]></content>
+    <tabTrigger>elgg_river_menu_setup</tabTrigger>
+    <scope>source.php</scope>
+    <description>Add the comment and like links to river actions menu</description>
+</snippet>

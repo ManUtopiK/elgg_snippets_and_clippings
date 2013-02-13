@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_is_widget_type(${1:\$handler})]]></content>
+    <tabTrigger>elgg_is_widget_type</tabTrigger>
+    <scope>source.php</scope>
+    <description>Has a widget type with the specified handler been registered</description>
+</snippet>

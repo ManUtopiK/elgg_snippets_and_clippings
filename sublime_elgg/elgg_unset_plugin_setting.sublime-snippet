@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_unset_plugin_setting(${1:\$name}, ${2:\$plugin_id = null})]]></content>
+    <tabTrigger>elgg_unset_plugin_setting</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unsets a plugin setting.</description>
+</snippet>

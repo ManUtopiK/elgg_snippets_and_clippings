@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[create_user_token(${1:\$username}, ${2:\$expire = 60})]]></content>
+    <tabTrigger>create_user_token</tabTrigger>
+    <scope>source.php</scope>
+    <description>Obtain a token for a user.</description>
+</snippet>

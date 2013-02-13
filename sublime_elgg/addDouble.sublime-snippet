@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addDouble(${1:\$value})]]></content>
+    <tabTrigger>addDouble</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add a double</description>
+</snippet>

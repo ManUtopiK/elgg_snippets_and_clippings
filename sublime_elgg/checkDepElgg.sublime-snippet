@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkDepElgg(${1:array \$dep}, ${2:\$elgg_version}, ${3:\$inverse = false})]]></content>
+    <tabTrigger>checkDepElgg</tabTrigger>
+    <scope>source.php</scope>
+    <description> Checks if $elgg_version meets the requirement by $dep.</description>
+</snippet>

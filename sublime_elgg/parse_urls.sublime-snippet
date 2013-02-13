@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[parse_urls(${1:\$text})]]></content>
+    <tabTrigger>parse_urls</tabTrigger>
+    <scope>source.php</scope>
+    <description>Takes a string and turns any URLs into formatted links</description>
+</snippet>

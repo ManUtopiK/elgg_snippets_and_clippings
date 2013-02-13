@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_friendly_title(${1:\$title})]]></content>
+    <tabTrigger>elgg_get_friendly_title</tabTrigger>
+    <scope>source.php</scope>
+    <description>When given a title, returns a version suitable for inclusion in a URL</description>
+</snippet>

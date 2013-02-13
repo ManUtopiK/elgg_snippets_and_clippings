@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_version_dot_php_version(${1:\$version})]]></content>
+    <tabTrigger>elgg_set_version_dot_php_version</tabTrigger>
+    <scope>source.php</scope>
+    <description>Elgg $release upgrade $upgrade_version</description>
+</snippet>

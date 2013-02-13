@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVersion()]]></content>
+    <tabTrigger>getVersion</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the version of ODD being used.</description>
+</snippet>

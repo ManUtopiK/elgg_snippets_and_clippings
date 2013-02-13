@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_user_default_access()]]></content>
+    <tabTrigger>elgg_set_user_default_access</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set a user's default access level</description>
+</snippet>

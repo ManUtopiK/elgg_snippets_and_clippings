@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_river_get_access_sql()]]></content>
+    <tabTrigger>elgg_river_get_access_sql</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the river's access where clause</description>
+</snippet>

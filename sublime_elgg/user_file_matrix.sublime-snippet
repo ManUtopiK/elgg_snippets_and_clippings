@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[user_file_matrix(${1:\$guid})]]></content>
+    <tabTrigger>user_file_matrix</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create a 1.7 style user file matrix based upon date.</description>
+</snippet>
+<snippet>
+    <content><![CDATA[user_file_matrix(${1:\$guid})]]></content>
+    <tabTrigger>user_file_matrix</tabTrigger>
+    <scope>source.php</scope>
+    <description> Construct a filename matrix.</description>
+</snippet>

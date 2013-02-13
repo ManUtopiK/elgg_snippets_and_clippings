@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getContext()]]></content>
+    <tabTrigger>getContext</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the widget context</description>
+</snippet>

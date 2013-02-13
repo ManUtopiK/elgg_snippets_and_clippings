@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_entity_url_handler(${1:\$entity_type}, ${2:\$entity_subtype}, ${3:\$function_name})]]></content>
+    <tabTrigger>elgg_register_entity_url_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sets the URL handler for a particular entity type and subtype</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[group_gatekeeper(${1:\$forward = true})]]></content>
+    <tabTrigger>group_gatekeeper</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks access to a group.</description>
+</snippet>

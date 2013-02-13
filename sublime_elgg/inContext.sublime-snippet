@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[inContext(${1:\$context = ''})]]></content>
+    <tabTrigger>inContext</tabTrigger>
+    <scope>source.php</scope>
+    <description> Should this menu item be used given the current context</description>
+</snippet>

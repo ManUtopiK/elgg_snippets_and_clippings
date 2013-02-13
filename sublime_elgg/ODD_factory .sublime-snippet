@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ODD_factory (${1:XmlElement \$element})]]></content>
+    <tabTrigger>ODD_factory </tabTrigger>
+    <scope>source.php</scope>
+    <description>Attempt to construct an ODD object out of a XmlElement or sub-elements.</description>
+</snippet>

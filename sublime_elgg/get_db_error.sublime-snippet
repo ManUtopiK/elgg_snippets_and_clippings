@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_db_error(${1:\$dblink})]]></content>
+    <tabTrigger>get_db_error</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the last database error for a particular database link</description>
+</snippet>

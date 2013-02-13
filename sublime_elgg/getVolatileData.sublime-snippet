@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVolatileData(${1:\$name})]]></content>
+    <tabTrigger>getVolatileData</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get a piece of volatile (non-persisted) data on this entity.</description>
+</snippet>

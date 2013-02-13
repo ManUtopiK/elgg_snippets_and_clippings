@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[register_metadata_as_independent(${1:\$type}, ${2:\$subtype = '*'})]]></content>
+    <tabTrigger>register_metadata_as_independent</tabTrigger>
+    <scope>source.php</scope>
+    <description>Mark entities with a particular type and subtype as having access permissions</description>
+</snippet>

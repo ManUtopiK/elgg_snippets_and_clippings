@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove_group_tool_option(${1:\$name})]]></content>
+    <tabTrigger>remove_group_tool_option</tabTrigger>
+    <scope>source.php</scope>
+    <description>Removes a group tool option based on name</description>
+</snippet>

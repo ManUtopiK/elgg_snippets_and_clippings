@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_format_query(${1:\$query})]]></content>
+    <tabTrigger>elgg_format_query</tabTrigger>
+    <scope>source.php</scope>
+    <description>Format a query string for logging</description>
+</snippet>

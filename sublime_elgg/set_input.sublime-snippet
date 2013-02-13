@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[set_input(${1:\$variable}, ${2:\$value})]]></content>
+    <tabTrigger>set_input</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sets an input value that may later be retrieved by get_input</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableMetadata(${1:\$name = ''})]]></content>
+    <tabTrigger>disableMetadata</tabTrigger>
+    <scope>source.php</scope>
+    <description> Disables metadata for this entity, optionally based on name.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_is_xhr()]]></content>
+    <tabTrigger>elgg_is_xhr</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks whether the request was requested via ajax</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_call_method()]]></content>
+    <tabTrigger>get_call_method</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the request method.</description>
+</snippet>

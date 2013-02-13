@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[map_api_hash(${1:\$algo})]]></content>
+    <tabTrigger>map_api_hash</tabTrigger>
+    <scope>source.php</scope>
+    <description>Map various algorithms to their PHP equivs.</description>
+</snippet>

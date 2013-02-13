@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_processed_upgrades(${1:array \$processed_upgrades})]]></content>
+    <tabTrigger>elgg_set_processed_upgrades</tabTrigger>
+    <scope>source.php</scope>
+    <description>Saves the processed upgrades to a dataset.</description>
+</snippet>

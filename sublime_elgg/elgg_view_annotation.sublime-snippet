@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_annotation(${1:ElggAnnotation \$annotation}, array(
+	'${2:key}' => ${3:value},
+), ${4:\$bypass = true}, ${5:\$debug = false})]]></content>
+    <tabTrigger>elgg_view_annotation</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns a string of a rendered annotation.</description>
+</snippet>

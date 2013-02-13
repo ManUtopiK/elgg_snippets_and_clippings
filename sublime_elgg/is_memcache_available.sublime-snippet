@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[is_memcache_available()]]></content>
+    <tabTrigger>is_memcache_available</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return true if memcache is available and configured.</description>
+</snippet>

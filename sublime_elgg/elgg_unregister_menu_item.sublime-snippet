@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_unregister_menu_item(${1:\$menu_name}, ${2:\$item_name})]]></content>
+    <tabTrigger>elgg_unregister_menu_item</tabTrigger>
+    <scope>source.php</scope>
+    <description>Remove an item from a menu</description>
+</snippet>

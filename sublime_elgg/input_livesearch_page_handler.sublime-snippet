@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[input_livesearch_page_handler(${1:\$page})]]></content>
+    <tabTrigger>input_livesearch_page_handler</tabTrigger>
+    <scope>source.php</scope>
+    <description>Page handler for autocomplete endpoint.</description>
+</snippet>

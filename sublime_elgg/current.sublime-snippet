@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[current()]]></content>
+    <tabTrigger>current</tabTrigger>
+    <scope>source.php</scope>
+    <description> Iterator interface</description>
+</snippet>

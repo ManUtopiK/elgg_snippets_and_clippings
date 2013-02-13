@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[delete_orphaned_metastrings()]]></content>
+    <tabTrigger>delete_orphaned_metastrings</tabTrigger>
+    <scope>source.php</scope>
+    <description>Delete any orphaned entries in metastrings. This is run by the garbage collector.</description>
+</snippet>

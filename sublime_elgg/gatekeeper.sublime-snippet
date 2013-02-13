@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[gatekeeper()]]></content>
+    <tabTrigger>gatekeeper</tabTrigger>
+    <scope>source.php</scope>
+    <description>Used at the top of a page to mark it as logged in users only.</description>
+</snippet>

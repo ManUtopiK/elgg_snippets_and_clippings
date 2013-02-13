@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_is_sticky_form(${1:\$form_name})]]></content>
+    <tabTrigger>elgg_is_sticky_form</tabTrigger>
+    <scope>source.php</scope>
+    <description>Has this form been made sticky?</description>
+</snippet>

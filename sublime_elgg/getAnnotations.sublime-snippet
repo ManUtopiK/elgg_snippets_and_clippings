@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnnotations(${1:\$name}, ${2:\$limit = 50}, ${3:\$offset = 0}, ${4:\$order = "asc"})]]></content>
+    <tabTrigger>getAnnotations</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns an array of annotations.</description>
+</snippet>

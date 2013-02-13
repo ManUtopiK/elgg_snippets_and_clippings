@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_load_plugins()]]></content>
+    <tabTrigger>elgg_load_plugins</tabTrigger>
+    <scope>source.php</scope>
+    <description>Loads all active plugins in the order specified in the tool admin panel.</description>
+</snippet>

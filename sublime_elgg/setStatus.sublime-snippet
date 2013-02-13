@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStatus(${1:\$active}, ${2:\$site_guid = null})]]></content>
+    <tabTrigger>setStatus</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sets the plugin to active or inactive for $site_guid.</description>
+</snippet>

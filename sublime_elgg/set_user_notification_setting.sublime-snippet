@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[set_user_notification_setting(${1:\$user_guid}, ${2:\$method}, ${3:\$value})]]></content>
+    <tabTrigger>set_user_notification_setting</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set a user notification pref.</description>
+</snippet>

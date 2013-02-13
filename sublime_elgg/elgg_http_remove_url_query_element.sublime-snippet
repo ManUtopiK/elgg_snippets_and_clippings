@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_http_remove_url_query_element(${1:\$url}, ${2:\$element})]]></content>
+    <tabTrigger>elgg_http_remove_url_query_element</tabTrigger>
+    <scope>source.php</scope>
+    <description>Removes an element from a URL's query string.</description>
+</snippet>

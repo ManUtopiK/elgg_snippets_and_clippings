@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_send_email(${1:\$from}, ${2:\$to}, ${3:\$subject}, ${4:\$body}, ${5:array \$params = NULL})]]></content>
+    <tabTrigger>elgg_send_email</tabTrigger>
+    <scope>source.php</scope>
+    <description>Send an email to any email address</description>
+</snippet>

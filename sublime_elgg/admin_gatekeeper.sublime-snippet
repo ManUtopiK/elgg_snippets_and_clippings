@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[admin_gatekeeper()]]></content>
+    <tabTrigger>admin_gatekeeper</tabTrigger>
+    <scope>source.php</scope>
+    <description>Used at the top of a page to mark it as logged in admin or siteadmin only.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_admin_notices(${1:\$limit = 10})]]></content>
+    <tabTrigger>elgg_get_admin_notices</tabTrigger>
+    <scope>source.php</scope>
+    <description>List all admin messages.</description>
+</snippet>

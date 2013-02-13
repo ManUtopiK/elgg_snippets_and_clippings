@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[export(${1:\$guid})]]></content>
+    <tabTrigger>export</tabTrigger>
+    <scope>source.php</scope>
+    <description>Export a GUID.</description>
+</snippet>
+<snippet>
+    <content><![CDATA[export()]]></content>
+    <tabTrigger>export</tabTrigger>
+    <scope>source.php</scope>
+    <description> Serialise to a standard class.</description>
+</snippet>

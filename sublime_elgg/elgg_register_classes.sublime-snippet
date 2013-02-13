@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_register_classes(${1:\$dir})]]></content>
+    <tabTrigger>elgg_register_classes</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register all files found in $dir as classes</description>
+</snippet>

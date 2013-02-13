@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sortChildren(${1:\$sortFunction})]]></content>
+    <tabTrigger>sortChildren</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sort the children</description>
+</snippet>

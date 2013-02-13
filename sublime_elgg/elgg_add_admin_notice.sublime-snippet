@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_add_admin_notice(${1:\$id}, ${2:\$message})]]></content>
+    <tabTrigger>elgg_add_admin_notice</tabTrigger>
+    <scope>source.php</scope>
+    <description>Write a persistent message to the admin view.</description>
+</snippet>

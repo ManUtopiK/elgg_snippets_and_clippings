@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[parse(${1:\$xml})]]></content>
+    <tabTrigger>parse</tabTrigger>
+    <scope>source.php</scope>
+    <description> Parse the xml into its components according to spec.</description>
+</snippet>

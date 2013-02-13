@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_members_of_access_collection(${1:\$collection}, ${2:\$idonly = FALSE})]]></content>
+    <tabTrigger>get_members_of_access_collection</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get all of members of an access collection</description>
+</snippet>

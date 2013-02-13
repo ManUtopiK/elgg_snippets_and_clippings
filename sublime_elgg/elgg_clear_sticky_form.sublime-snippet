@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_clear_sticky_form(${1:\$form_name})]]></content>
+    <tabTrigger>elgg_clear_sticky_form</tabTrigger>
+    <scope>source.php</scope>
+    <description>Clear the sticky form cache</description>
+</snippet>

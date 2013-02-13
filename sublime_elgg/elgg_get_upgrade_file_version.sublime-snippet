@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_upgrade_file_version(${1:\$filename})]]></content>
+    <tabTrigger>elgg_get_upgrade_file_version</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the version of the upgrade filename.</description>
+</snippet>

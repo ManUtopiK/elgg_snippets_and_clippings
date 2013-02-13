@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[update_access_collection(${1:\$collection_id}, ${2:\$members})]]></content>
+    <tabTrigger>update_access_collection</tabTrigger>
+    <scope>source.php</scope>
+    <description>Updates the membership in an access collection.</description>
+</snippet>

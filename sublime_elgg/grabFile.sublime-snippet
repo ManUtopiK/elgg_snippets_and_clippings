@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[grabFile()]]></content>
+    <tabTrigger>grabFile</tabTrigger>
+    <scope>source.php</scope>
+    <description> Gets the full contents of this file.</description>
+</snippet>

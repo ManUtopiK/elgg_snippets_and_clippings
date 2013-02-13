@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[saveSettings(${1:\$params})]]></content>
+    <tabTrigger>saveSettings</tabTrigger>
+    <scope>source.php</scope>
+    <description> Saves the widget's settings</description>
+</snippet>

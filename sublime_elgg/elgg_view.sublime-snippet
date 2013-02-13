@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view(${1:\$view}, array(
+	'${2:key}' => ${3:value},
+), ${4:\$bypass = false}, ${5:\$debug = false}, ${6:\$viewtype = ''})]]></content>
+    <tabTrigger>elgg_view</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return a parsed view.</description>
+</snippet>

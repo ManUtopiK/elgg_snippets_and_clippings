@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addField(${1:\$name}, ${2:XMLRPCParameter \$value})]]></content>
+    <tabTrigger>addField</tabTrigger>
+    <scope>source.php</scope>
+    <description> Add a field to the container.</description>
+</snippet>

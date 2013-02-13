@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_entity_type_subtype_where_sql(${1:\$table}, ${2:\$types}, ${3:\$subtypes}, ${4:\$pairs})]]></content>
+    <tabTrigger>elgg_get_entity_type_subtype_where_sql</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns SQL where clause for type and subtype on main entity table</description>
+</snippet>

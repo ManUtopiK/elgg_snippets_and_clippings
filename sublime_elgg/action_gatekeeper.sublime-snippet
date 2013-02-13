@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[action_gatekeeper()]]></content>
+    <tabTrigger>action_gatekeeper</tabTrigger>
+    <scope>source.php</scope>
+    <description>Validates the presence of action tokens.</description>
+</snippet>

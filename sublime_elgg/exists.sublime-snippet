@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[exists()]]></content>
+    <tabTrigger>exists</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns if the file exists</description>
+</snippet>

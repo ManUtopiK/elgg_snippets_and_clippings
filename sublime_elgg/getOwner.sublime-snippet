@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOwner()]]></content>
+    <tabTrigger>getOwner</tabTrigger>
+    <scope>source.php</scope>
+    <description> If a user's owner is blank, return its own GUID as the owner</description>
+</snippet>

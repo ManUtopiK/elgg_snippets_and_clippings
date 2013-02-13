@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIcon(${1:\$url}, ${2:\$size = 'medium'})]]></content>
+    <tabTrigger>setIcon</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set an icon override for an icon and size.</description>
+</snippet>

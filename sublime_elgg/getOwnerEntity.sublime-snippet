@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOwnerEntity()]]></content>
+    <tabTrigger>getOwnerEntity</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the entity that owns this extender</description>
+</snippet>

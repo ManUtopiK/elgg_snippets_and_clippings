@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setHref(${1:\$href})]]></content>
+    <tabTrigger>setHref</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the URL of the menu item</description>
+</snippet>

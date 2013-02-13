@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_upgrade_files(${1:\$upgrade_path = null})]]></content>
+    <tabTrigger>elgg_get_upgrade_files</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns a list of upgrade files relative to the $upgrade_path dir.</description>
+</snippet>

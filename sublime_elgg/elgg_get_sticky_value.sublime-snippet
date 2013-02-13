@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_sticky_value(${1:\$form_name}, ${2:\$variable = ''}, ${3:\$default = NULL}, ${4:\$filter_result = true})]]></content>
+    <tabTrigger>elgg_get_sticky_value</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get a specific sticky variable</description>
+</snippet>

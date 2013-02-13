@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_number_users(${1:\$show_deactivated = false})]]></content>
+    <tabTrigger>get_number_users</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the number of users registered in the system.</description>
+</snippet>

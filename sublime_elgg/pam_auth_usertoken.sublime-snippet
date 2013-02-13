@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pam_auth_usertoken()]]></content>
+    <tabTrigger>pam_auth_usertoken</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check the user token</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove_object_from_group(${1:\$group_guid}, ${2:\$object_guid})]]></content>
+    <tabTrigger>remove_object_from_group</tabTrigger>
+    <scope>source.php</scope>
+    <description>Remove an object from the given group.</description>
+</snippet>

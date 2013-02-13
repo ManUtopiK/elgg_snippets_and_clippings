@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calculate_tag_size(${1:\$min}, ${2:\$max}, ${3:\$number_of_tags}, ${4:\$buckets = 6})]]></content>
+    <tabTrigger>calculate_tag_size</tabTrigger>
+    <scope>source.php</scope>
+    <description>The algorithm working out the size of font based on the number of tags.</description>
+</snippet>

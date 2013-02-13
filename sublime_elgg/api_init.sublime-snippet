@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[api_init()]]></content>
+    <tabTrigger>api_init</tabTrigger>
+    <scope>source.php</scope>
+    <description>Initialise the API subsystem.</description>
+</snippet>

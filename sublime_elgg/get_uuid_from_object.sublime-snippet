@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_uuid_from_object(${1:\$object})]]></content>
+    <tabTrigger>get_uuid_from_object</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get a UUID from a given object.</description>
+</snippet>

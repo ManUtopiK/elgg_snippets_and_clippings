@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_view_comments(${1:\$entity}, ${2:\$add_comment = true}, array(
+	'${3:key}' => ${4:value},
+))]]></content>
+    <tabTrigger>elgg_view_comments</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns rendered comments and a comment form for an entity.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sanitise_string_special(${1:\$string}, ${2:\$extra_escapeable = ''})]]></content>
+    <tabTrigger>sanitise_string_special</tabTrigger>
+    <scope>source.php</scope>
+    <description>Sanitise a string for database use, but with the option of escaping extra characters.</description>
+</snippet>

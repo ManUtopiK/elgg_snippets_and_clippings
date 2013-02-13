@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_access_restriction_sql(${1:\$annotation_name}, ${2:\$entity_guid}, ${3:\$owner_guid}, ${4:\$exists})]]></content>
+    <tabTrigger>get_access_restriction_sql</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the where clause for an access restriction based on annotations</description>
+</snippet>

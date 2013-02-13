@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBody()]]></content>
+    <tabTrigger>getBody</tabTrigger>
+    <scope>source.php</scope>
+    <description> Gets the body of the ODD.</description>
+</snippet>

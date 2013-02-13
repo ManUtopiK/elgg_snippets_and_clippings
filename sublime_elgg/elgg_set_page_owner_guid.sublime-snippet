@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_set_page_owner_guid(${1:\$guid})]]></content>
+    <tabTrigger>elgg_set_page_owner_guid</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set the guid of the entity that owns this page</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStatusMessage()]]></content>
+    <tabTrigger>getStatusMessage</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the current status message</description>
+</snippet>

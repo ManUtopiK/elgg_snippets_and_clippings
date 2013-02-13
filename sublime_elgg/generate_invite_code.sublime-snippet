@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[generate_invite_code(${1:\$username})]]></content>
+    <tabTrigger>generate_invite_code</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generates a unique invite code for a user</description>
+</snippet>

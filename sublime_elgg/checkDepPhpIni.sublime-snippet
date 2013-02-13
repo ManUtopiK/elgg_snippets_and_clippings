@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkDepPhpIni(${1:\$dep}, ${2:\$inverse = false})]]></content>
+    <tabTrigger>checkDepPhpIni</tabTrigger>
+    <scope>source.php</scope>
+    <description> Check if the PHP ini setting satisfies $dep.</description>
+</snippet>

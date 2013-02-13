@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[auth_gettoken(${1:\$username}, ${2:\$password})]]></content>
+    <tabTrigger>auth_gettoken</tabTrigger>
+    <scope>source.php</scope>
+    <description>The auth.gettoken API.</description>
+</snippet>

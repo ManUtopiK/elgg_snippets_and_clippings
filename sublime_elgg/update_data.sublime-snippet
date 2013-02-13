@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[update_data(${1:\$query})]]></content>
+    <tabTrigger>update_data</tabTrigger>
+    <scope>source.php</scope>
+    <description>Update a row in the database.</description>
+</snippet>

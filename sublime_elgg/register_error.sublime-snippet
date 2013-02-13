@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[register_error(${1:\$error})]]></content>
+    <tabTrigger>register_error</tabTrigger>
+    <scope>source.php</scope>
+    <description>Display an error on next page load.</description>
+</snippet>

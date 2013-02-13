@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_extract(${1:\$key}, ${2:array \$array}, ${3:\$default = null}, ${4:\$strict = true})]]></content>
+    <tabTrigger>elgg_extract</tabTrigger>
+    <scope>source.php</scope>
+    <description>Checks for $array[$key] and returns its value if it exists, else</description>
+</snippet>

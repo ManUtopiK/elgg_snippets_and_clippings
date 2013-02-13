@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[annotations_test(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>annotations_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register annotation unit tests</description>
+</snippet>

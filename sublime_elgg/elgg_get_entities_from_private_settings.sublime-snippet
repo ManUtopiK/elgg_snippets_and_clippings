@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[elgg_get_entities_from_private_settings(array(
+	'${1:key}' => ${2:value},
+))]]></content>
+    <tabTrigger>elgg_get_entities_from_private_settings</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns entities based upon private settings.  Also accepts all</description>
+</snippet>

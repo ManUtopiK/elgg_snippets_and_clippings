@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_reset_system_cache()]]></content>
+    <tabTrigger>elgg_reset_system_cache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Reset the system cache by deleting the caches</description>
+</snippet>

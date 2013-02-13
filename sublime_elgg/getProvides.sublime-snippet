@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getProvides()]]></content>
+    <tabTrigger>getProvides</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the list of provides by this plugin.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_split()]]></content>
+    <tabTrigger>elgg_split</tabTrigger>
+    <scope>source.php</scope>
+    <description>Wrapper function for mb_split(). Falls back to split() if</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[run_sql_script(${1:\$scriptlocation})]]></content>
+    <tabTrigger>run_sql_script</tabTrigger>
+    <scope>source.php</scope>
+    <description>Runs a full database script from disk.</description>
+</snippet>

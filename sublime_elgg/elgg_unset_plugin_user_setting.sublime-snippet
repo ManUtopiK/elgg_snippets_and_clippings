@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_unset_plugin_user_setting(${1:\$name}, ${2:\$user_guid = null}, ${3:\$plugin_id = null})]]></content>
+    <tabTrigger>elgg_unset_plugin_user_setting</tabTrigger>
+    <scope>source.php</scope>
+    <description>Unsets a user-specific plugin setting</description>
+</snippet>

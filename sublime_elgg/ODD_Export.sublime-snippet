@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ODD_Export(${1:ODDDocument \$document})]]></content>
+    <tabTrigger>ODD_Export</tabTrigger>
+    <scope>source.php</scope>
+    <description>Export an ODD Document.</description>
+</snippet>

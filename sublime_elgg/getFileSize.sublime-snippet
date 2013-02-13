@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFileSize(${1:ElggFile \$file})]]></content>
+    <tabTrigger>getFileSize</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns the file size of an ElggFile file.</description>
+</snippet>

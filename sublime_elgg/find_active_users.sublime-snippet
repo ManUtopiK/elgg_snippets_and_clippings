@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[find_active_users(${1:\$seconds = 600}, ${2:\$limit = 10}, ${3:\$offset = 0}, ${4:\$count = false})]]></content>
+    <tabTrigger>find_active_users</tabTrigger>
+    <scope>source.php</scope>
+    <description>A function that returns a maximum of $limit users who have done something within the last</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[makeMemcacheKey(${1:\$key})]]></content>
+    <tabTrigger>makeMemcacheKey</tabTrigger>
+    <scope>source.php</scope>
+    <description> Combine a key with the namespace.</description>
+</snippet>

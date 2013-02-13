@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_create_default_widgets(${1:\$event}, ${2:\$type}, ${3:\$entity})]]></content>
+    <tabTrigger>elgg_create_default_widgets</tabTrigger>
+    <scope>source.php</scope>
+    <description>Creates default widgets</description>
+</snippet>

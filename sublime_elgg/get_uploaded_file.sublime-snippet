@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_uploaded_file(${1:\$input_name})]]></content>
+    <tabTrigger>get_uploaded_file</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the contents of an uploaded file.</description>
+</snippet>

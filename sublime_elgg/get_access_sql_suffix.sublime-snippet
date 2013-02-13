@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_access_sql_suffix(${1:\$table_prefix = ''}, ${2:\$owner = null})]]></content>
+    <tabTrigger>get_access_sql_suffix</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the SQL where clause for a table with a access_id and enabled columns.</description>
+</snippet>

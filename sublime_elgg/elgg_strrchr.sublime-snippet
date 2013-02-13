@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_strrchr()]]></content>
+    <tabTrigger>elgg_strrchr</tabTrigger>
+    <scope>source.php</scope>
+    <description>Wrapper function for mb_strrchr(). Falls back to strrchr() if</description>
+</snippet>

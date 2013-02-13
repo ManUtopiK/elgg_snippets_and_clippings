@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCategories()]]></content>
+    <tabTrigger>getCategories</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the categories listed for this plugin</description>
+</snippet>

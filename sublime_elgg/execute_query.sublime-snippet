@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[execute_query(${1:\$query}, ${2:\$dblink})]]></content>
+    <tabTrigger>execute_query</tabTrigger>
+    <scope>source.php</scope>
+    <description>Execute a query.</description>
+</snippet>

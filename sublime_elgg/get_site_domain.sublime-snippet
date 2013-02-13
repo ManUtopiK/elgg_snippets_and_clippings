@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_site_domain(${1:\$guid})]]></content>
+    <tabTrigger>get_site_domain</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieve a site and return the domain portion of its url.</description>
+</snippet>

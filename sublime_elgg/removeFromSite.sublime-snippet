@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeFromSite(${1:\$site_guid})]]></content>
+    <tabTrigger>removeFromSite</tabTrigger>
+    <scope>source.php</scope>
+    <description> Remove this user from a particular site</description>
+</snippet>

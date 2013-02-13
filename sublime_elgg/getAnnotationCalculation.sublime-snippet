@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnnotationCalculation(${1:\$name}, ${2:\$calculation})]]></content>
+    <tabTrigger>getAnnotationCalculation</tabTrigger>
+    <scope>source.php</scope>
+    <description> Helper function to return annotation calculation results</description>
+</snippet>

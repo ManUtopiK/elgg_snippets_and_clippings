@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[api_auth_key()]]></content>
+    <tabTrigger>api_auth_key</tabTrigger>
+    <scope>source.php</scope>
+    <description>PAM: Confirm that the call includes a valid API key</description>
+</snippet>

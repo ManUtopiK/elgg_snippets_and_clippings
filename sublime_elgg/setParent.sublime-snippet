@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setParent(${1:\$parent})]]></content>
+    <tabTrigger>setParent</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set the parent menu item</description>
+</snippet>

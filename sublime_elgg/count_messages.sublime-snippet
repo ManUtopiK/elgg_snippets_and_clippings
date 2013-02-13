@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[count_messages(${1:\$register = ""})]]></content>
+    <tabTrigger>count_messages</tabTrigger>
+    <scope>source.php</scope>
+    <description>Counts the number of messages, either globally or in a particular register</description>
+</snippet>

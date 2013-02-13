@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getManifestObject()]]></content>
+    <tabTrigger>getManifestObject</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns the manifest XML object</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSetting(${1:\$name}, ${2:\$value})]]></content>
+    <tabTrigger>setSetting</tabTrigger>
+    <scope>source.php</scope>
+    <description> Set a plugin setting for the plugin</description>
+</snippet>

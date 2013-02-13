@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isPublicMembership()]]></content>
+    <tabTrigger>isPublicMembership</tabTrigger>
+    <scope>source.php</scope>
+    <description> Returns whether the current group is public membership or not.</description>
+</snippet>

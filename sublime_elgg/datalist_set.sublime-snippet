@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[datalist_set(${1:\$name}, ${2:\$value})]]></content>
+    <tabTrigger>datalist_set</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set the value for a datalist element.</description>
+</snippet>

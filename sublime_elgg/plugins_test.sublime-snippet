@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[plugins_test(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>plugins_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Runs unit tests for the entity objects.</description>
+</snippet>

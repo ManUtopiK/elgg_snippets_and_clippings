@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_plugins(${1:\$status = 'active'}, ${2:\$site_guid = null})]]></content>
+    <tabTrigger>elgg_get_plugins</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns an ordered list of plugins</description>
+</snippet>

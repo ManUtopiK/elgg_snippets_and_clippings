@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getConfirmText()]]></content>
+    <tabTrigger>getConfirmText</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the confirm text</description>
+</snippet>

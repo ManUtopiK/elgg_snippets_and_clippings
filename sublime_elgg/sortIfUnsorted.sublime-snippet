@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sortIfUnsorted()]]></content>
+    <tabTrigger>sortIfUnsorted</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sort the elements if they haven't been sorted yet.</description>
+</snippet>

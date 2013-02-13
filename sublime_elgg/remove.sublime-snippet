@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove(${1:\$element}, ${2:\$strict = false})]]></content>
+    <tabTrigger>remove</tabTrigger>
+    <scope>source.php</scope>
+    <description> Removes an element from the list.</description>
+</snippet>

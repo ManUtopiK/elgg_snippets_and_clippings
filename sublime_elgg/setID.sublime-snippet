@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setID(${1:\$id})]]></content>
+    <tabTrigger>setID</tabTrigger>
+    <scope>source.php</scope>
+    <description> Sets the location of this plugin.</description>
+</snippet>

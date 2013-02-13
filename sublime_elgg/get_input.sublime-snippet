@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_input(${1:\$variable}, ${2:\$default = NULL}, ${3:\$filter_result = TRUE})]]></content>
+    <tabTrigger>get_input</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get some input from variables passed submitted through GET or POST.</description>
+</snippet>

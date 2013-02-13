@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_log_entry(${1:\$entry_id})]]></content>
+    <tabTrigger>get_log_entry</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return a specific log entry.</description>
+</snippet>

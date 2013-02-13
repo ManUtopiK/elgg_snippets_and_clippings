@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_page_owner_entity()]]></content>
+    <tabTrigger>elgg_get_page_owner_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Gets the owner entity for the current page.</description>
+</snippet>

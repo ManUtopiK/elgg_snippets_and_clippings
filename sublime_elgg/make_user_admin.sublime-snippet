@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[make_user_admin(${1:\$user_guid})]]></content>
+    <tabTrigger>make_user_admin</tabTrigger>
+    <scope>source.php</scope>
+    <description>Makes user $guid an admin.</description>
+</snippet>

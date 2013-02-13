@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_add_admin_widgets(${1:\$event}, ${2:\$type}, ${3:\$user})]]></content>
+    <tabTrigger>elgg_add_admin_widgets</tabTrigger>
+    <scope>source.php</scope>
+    <description>Adds default admin widgets to the admin dashboard.</description>
+</snippet>

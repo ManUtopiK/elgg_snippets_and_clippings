@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_view_friendly_time(${1:\$time})]]></content>
+    <tabTrigger>elgg_view_friendly_time</tabTrigger>
+    <scope>source.php</scope>
+    <description>Displays a UNIX timestamp in a friendly way</description>
+</snippet>

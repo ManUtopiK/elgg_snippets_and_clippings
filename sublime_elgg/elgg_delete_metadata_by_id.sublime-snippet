@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_delete_metadata_by_id(${1:\$id})]]></content>
+    <tabTrigger>elgg_delete_metadata_by_id</tabTrigger>
+    <scope>source.php</scope>
+    <description>Deletes metadata using its ID.</description>
+</snippet>

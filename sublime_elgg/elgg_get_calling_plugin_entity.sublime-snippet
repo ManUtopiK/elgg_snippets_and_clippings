@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_calling_plugin_entity()]]></content>
+    <tabTrigger>elgg_get_calling_plugin_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the ElggPlugin entity of the last plugin called.</description>
+</snippet>

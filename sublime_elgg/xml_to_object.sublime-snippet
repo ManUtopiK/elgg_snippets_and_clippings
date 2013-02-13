@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[xml_to_object(${1:\$xml})]]></content>
+    <tabTrigger>xml_to_object</tabTrigger>
+    <scope>source.php</scope>
+    <description>Parse an XML file into an object.</description>
+</snippet>

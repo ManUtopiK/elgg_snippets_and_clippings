@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStatusCode()]]></content>
+    <tabTrigger>getStatusCode</tabTrigger>
+    <scope>source.php</scope>
+    <description> Return the current status code</description>
+</snippet>

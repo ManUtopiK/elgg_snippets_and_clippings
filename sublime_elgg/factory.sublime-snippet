@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[factory(${1:\$options})]]></content>
+    <tabTrigger>factory</tabTrigger>
+    <scope>source.php</scope>
+    <description> ElggMenuItem factory method</description>
+</snippet>

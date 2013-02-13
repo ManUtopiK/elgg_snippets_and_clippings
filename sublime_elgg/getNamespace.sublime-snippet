@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNamespace()]]></content>
+    <tabTrigger>getNamespace</tabTrigger>
+    <scope>source.php</scope>
+    <description> Get the namespace currently defined.</description>
+</snippet>

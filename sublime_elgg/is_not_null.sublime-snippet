@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[is_not_null(${1:\$string})]]></content>
+    <tabTrigger>is_not_null</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns true is string is not empty, false, or null.</description>
+</snippet>

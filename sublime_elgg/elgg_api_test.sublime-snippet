@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_api_test(${1:\$hook}, ${2:\$type}, ${3:\$value}, ${4:\$params})]]></content>
+    <tabTrigger>elgg_api_test</tabTrigger>
+    <scope>source.php</scope>
+    <description>Adds unit tests for the general API.</description>
+</snippet>

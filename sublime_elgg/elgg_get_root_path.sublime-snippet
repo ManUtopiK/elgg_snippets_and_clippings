@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_root_path()]]></content>
+    <tabTrigger>elgg_get_root_path</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the root directory path for this installation</description>
+</snippet>

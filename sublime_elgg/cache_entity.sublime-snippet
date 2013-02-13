@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cache_entity(${1:ElggEntity \$entity})]]></content>
+    <tabTrigger>cache_entity</tabTrigger>
+    <scope>source.php</scope>
+    <description>Cache an entity.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_get_loaded_js(${1:\$location = 'head'})]]></content>
+    <tabTrigger>elgg_get_loaded_js</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the JavaScript URLs that are loaded</description>
+</snippet>

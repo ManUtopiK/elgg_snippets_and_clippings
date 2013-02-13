@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_missing_language_keys(${1:\$language})]]></content>
+    <tabTrigger>get_missing_language_keys</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the translation keys missing from a given language,</description>
+</snippet>

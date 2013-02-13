@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add_group_tool_option(${1:\$name}, ${2:\$label}, ${3:\$default_on = true})]]></content>
+    <tabTrigger>add_group_tool_option</tabTrigger>
+    <scope>source.php</scope>
+    <description>Adds a group tool option</description>
+</snippet>

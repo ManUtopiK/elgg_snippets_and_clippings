@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_default_filestore()]]></content>
+    <tabTrigger>get_default_filestore</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the default filestore.</description>
+</snippet>

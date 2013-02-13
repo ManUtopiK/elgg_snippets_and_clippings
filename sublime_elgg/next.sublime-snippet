@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[next()]]></content>
+    <tabTrigger>next</tabTrigger>
+    <scope>source.php</scope>
+    <description> Iterator interface</description>
+</snippet>

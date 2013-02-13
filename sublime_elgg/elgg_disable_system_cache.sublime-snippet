@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elgg_disable_system_cache()]]></content>
+    <tabTrigger>elgg_disable_system_cache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Disables the system disk cache.</description>
+</snippet>
