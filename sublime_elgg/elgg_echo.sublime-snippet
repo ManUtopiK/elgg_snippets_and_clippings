@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[elgg_echo(${1:\$message_key}, array(
 	'${2:key}' => ${3:value},
-), ${4:\$language = ""})]]></content>
+))]]></content>
     <tabTrigger>elgg_echo</tabTrigger>
     <scope>source.php</scope>
     <description>Given a message key, returns an appropriately translated full-text string</description>

@@ -19,8 +19,8 @@ Copy the `bbedit_elgg` repertory in :
 
 
 **For Sublime :**
-Copy the `bbedit_elgg` repertory in :  
-`/Users/YOURNAME/Library/Application\ Support/BBEdit/Clippings`
+Copy the `sublime_elgg` repertory in :  
+`/Users/YOURNAME/Library/Application\ Support/Sublime\ Text\2/Packages`
 
 
 Enjoy !
